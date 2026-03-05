@@ -4,12 +4,14 @@ import WordFrequencyTab from './tabs/WordFrequencyTab'
 import SentimentTab from './tabs/SentimentTab'
 import BookExplorerTab from './tabs/BookExplorerTab'
 import AboutTab from './tabs/AboutTab'
+import WordTrackerTab from './tabs/WordTrackerTab'
 
 function App() {
   const [activeTab, setActiveTab] = useState('words')
   const [wordData, setWordData] = useState(null)
   const [sentimentData, setSentimentData] = useState(null)
   const [bookData, setBookData] = useState(null)
+  const [trackerData, setTrackerData] = useState(null)
   const [loading, setLoading] = useState(true)
 
   // Load all our JSON data files when the app starts
@@ -24,6 +26,8 @@ function App() {
         setWordData(words)
         setSentimentData(sentiment)
         setBookData(books)
+        const tracker = await fetch('/data/word_tracker.json').then(r => r.json())
+        setTrackerData(tracker)
         setLoading(false)
       } catch (err) {
         console.error('Error loading data:', err)
@@ -46,6 +50,7 @@ function App() {
     { id: 'words', label: '📊 Word Frequencies' },
     { id: 'sentiment', label: '💭 Sentiment Analysis' },
     { id: 'books', label: '📖 Book Explorer' },
+    { id: 'tracker', label: '🔍 Word Tracker' },
     { id: 'about', label: 'ℹ️ About' },
   ]
 
@@ -74,6 +79,7 @@ function App() {
         {activeTab === 'words' && <WordFrequencyTab data={wordData} />}
         {activeTab === 'sentiment' && <SentimentTab data={sentimentData} />}
         {activeTab === 'books' && <BookExplorerTab data={bookData} />}
+        {activeTab === 'tracker' && <WordTrackerTab data={trackerData} />}
         {activeTab === 'about' && <AboutTab />}
       </main>
 
