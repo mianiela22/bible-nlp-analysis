@@ -2939,80 +2939,80 @@
     {
       "book": "2 Chronicles",
       "chapter": 1,
-      "avg_sentiment": 0.3502,
-      "num_verses": 28,
+      "avg_sentiment": 0.3343,
+      "num_verses": 17,
       "min_sentiment": 0.0,
       "max_sentiment": 0.9531
     },
     {
       "book": "2 Chronicles",
       "chapter": 2,
-      "avg_sentiment": 0.0401,
-      "num_verses": 88,
-      "min_sentiment": -0.6124,
+      "avg_sentiment": 0.1615,
+      "num_verses": 18,
+      "min_sentiment": -0.5994,
       "max_sentiment": 0.959
     },
     {
       "book": "2 Chronicles",
       "chapter": 3,
-      "avg_sentiment": 0.2402,
-      "num_verses": 30,
-      "min_sentiment": -0.4939,
-      "max_sentiment": 0.9661
+      "avg_sentiment": 0.231,
+      "num_verses": 17,
+      "min_sentiment": -0.2263,
+      "max_sentiment": 0.8176
     },
     {
       "book": "2 Chronicles",
       "chapter": 4,
-      "avg_sentiment": 0.0522,
-      "num_verses": 46,
-      "min_sentiment": -0.891,
-      "max_sentiment": 0.7964
+      "avg_sentiment": 0.1963,
+      "num_verses": 22,
+      "min_sentiment": 0.0,
+      "max_sentiment": 0.6249
     },
     {
       "book": "2 Chronicles",
       "chapter": 5,
-      "avg_sentiment": 0.2994,
-      "num_verses": 31,
+      "avg_sentiment": 0.2044,
+      "num_verses": 14,
       "min_sentiment": 0.0,
       "max_sentiment": 0.9022
     },
     {
       "book": "2 Chronicles",
       "chapter": 6,
-      "avg_sentiment": 0.2092,
-      "num_verses": 64,
+      "avg_sentiment": 0.1778,
+      "num_verses": 42,
       "min_sentiment": -0.9062,
       "max_sentiment": 0.9556
     },
     {
       "book": "2 Chronicles",
       "chapter": 7,
-      "avg_sentiment": 0.35,
-      "num_verses": 50,
-      "min_sentiment": -0.4215,
+      "avg_sentiment": 0.302,
+      "num_verses": 22,
+      "min_sentiment": -0.1154,
       "max_sentiment": 0.9246
     },
     {
       "book": "2 Chronicles",
       "chapter": 8,
-      "avg_sentiment": 0.1428,
-      "num_verses": 54,
+      "avg_sentiment": 0.1088,
+      "num_verses": 18,
       "min_sentiment": -0.8462,
-      "max_sentiment": 0.9042
+      "max_sentiment": 0.6808
     },
     {
       "book": "2 Chronicles",
       "chapter": 9,
-      "avg_sentiment": 0.2778,
-      "num_verses": 46,
+      "avg_sentiment": 0.2501,
+      "num_verses": 31,
       "min_sentiment": -0.6808,
       "max_sentiment": 0.9628
     },
     {
       "book": "2 Chronicles",
       "chapter": 10,
-      "avg_sentiment": 0.0097,
-      "num_verses": 63,
+      "avg_sentiment": -0.0493,
+      "num_verses": 19,
       "min_sentiment": -0.8765,
       "max_sentiment": 0.8225
     },
@@ -3225,6 +3225,86 @@
       "max_sentiment": 0.8957
     },
     {
+      "book": "Ezra",
+      "chapter": 1,
+      "avg_sentiment": 0.3748,
+      "num_verses": 11,
+      "min_sentiment": 0.0,
+      "max_sentiment": 0.7579
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "avg_sentiment": 0.0089,
+      "num_verses": 70,
+      "min_sentiment": -0.6124,
+      "max_sentiment": 0.6124
+    },
+    {
+      "book": "Ezra",
+      "chapter": 3,
+      "avg_sentiment": 0.2524,
+      "num_verses": 13,
+      "min_sentiment": -0.4939,
+      "max_sentiment": 0.9661
+    },
+    {
+      "book": "Ezra",
+      "chapter": 4,
+      "avg_sentiment": -0.0799,
+      "num_verses": 24,
+      "min_sentiment": -0.891,
+      "max_sentiment": 0.7964
+    },
+    {
+      "book": "Ezra",
+      "chapter": 5,
+      "avg_sentiment": 0.3776,
+      "num_verses": 17,
+      "min_sentiment": 0.0,
+      "max_sentiment": 0.8834
+    },
+    {
+      "book": "Ezra",
+      "chapter": 6,
+      "avg_sentiment": 0.2691,
+      "num_verses": 22,
+      "min_sentiment": -0.6705,
+      "max_sentiment": 0.9217
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "avg_sentiment": 0.3876,
+      "num_verses": 28,
+      "min_sentiment": -0.4215,
+      "max_sentiment": 0.9118
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "avg_sentiment": 0.1598,
+      "num_verses": 36,
+      "min_sentiment": -0.3612,
+      "max_sentiment": 0.9042
+    },
+    {
+      "book": "Ezra",
+      "chapter": 9,
+      "avg_sentiment": 0.335,
+      "num_verses": 15,
+      "min_sentiment": -0.296,
+      "max_sentiment": 0.7543
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "avg_sentiment": 0.0352,
+      "num_verses": 44,
+      "min_sentiment": -0.4215,
+      "max_sentiment": 0.7371
+    },
+    {
       "book": "Nehemiah",
       "chapter": 1,
       "avg_sentiment": 0.3187,
@@ -3315,21 +3395,13 @@
     {
       "book": "Nehemiah",
       "chapter": 12,
-      "avg_sentiment": 0.0625,
-      "num_verses": 36,
-      "min_sentiment": 0.0,
-      "max_sentiment": 0.8807
-    },
-    {
-      "book": "Ezra",
-      "chapter": 12,
-      "avg_sentiment": 0.2896,
-      "num_verses": 11,
+      "avg_sentiment": 0.1156,
+      "num_verses": 47,
       "min_sentiment": -0.5106,
       "max_sentiment": 0.9794
     },
     {
-      "book": "Ezra",
+      "book": "Nehemiah",
       "chapter": 13,
       "avg_sentiment": 0.0209,
       "num_verses": 31,
@@ -6731,8 +6803,8 @@
     {
       "book": "Daniel",
       "chapter": 1,
-      "avg_sentiment": 0.1611,
-      "num_verses": 23,
+      "avg_sentiment": 0.1764,
+      "num_verses": 21,
       "min_sentiment": -0.5574,
       "max_sentiment": 0.9231
     },
@@ -6827,73 +6899,73 @@
     {
       "book": "Hosea",
       "chapter": 1,
-      "avg_sentiment": -0.143,
-      "num_verses": 45,
-      "min_sentiment": -0.8442,
+      "avg_sentiment": 0.1866,
+      "num_verses": 11,
+      "min_sentiment": -0.5719,
       "max_sentiment": 0.9537
     },
     {
       "book": "Hosea",
       "chapter": 2,
-      "avg_sentiment": 0.1014,
-      "num_verses": 71,
-      "min_sentiment": -0.8573,
-      "max_sentiment": 0.8766
+      "avg_sentiment": 0.2381,
+      "num_verses": 23,
+      "min_sentiment": -0.6715,
+      "max_sentiment": 0.765
     },
     {
       "book": "Hosea",
       "chapter": 3,
-      "avg_sentiment": 0.0568,
-      "num_verses": 41,
-      "min_sentiment": -0.8316,
+      "avg_sentiment": 0.1864,
+      "num_verses": 5,
+      "min_sentiment": -0.2584,
       "max_sentiment": 0.9643
     },
     {
       "book": "Hosea",
       "chapter": 4,
-      "avg_sentiment": -0.0857,
-      "num_verses": 32,
+      "avg_sentiment": -0.1703,
+      "num_verses": 19,
       "min_sentiment": -0.9246,
       "max_sentiment": 0.7579
     },
     {
       "book": "Hosea",
       "chapter": 5,
-      "avg_sentiment": -0.0627,
-      "num_verses": 42,
-      "min_sentiment": -0.7896,
-      "max_sentiment": 0.8184
+      "avg_sentiment": -0.0863,
+      "num_verses": 15,
+      "min_sentiment": -0.7351,
+      "max_sentiment": 0.6124
     },
     {
       "book": "Hosea",
       "chapter": 6,
-      "avg_sentiment": 0.1054,
-      "num_verses": 25,
-      "min_sentiment": -0.8591,
-      "max_sentiment": 0.8708
+      "avg_sentiment": 0.0386,
+      "num_verses": 11,
+      "min_sentiment": -0.765,
+      "max_sentiment": 0.6908
     },
     {
       "book": "Hosea",
       "chapter": 7,
-      "avg_sentiment": 0.0062,
-      "num_verses": 33,
+      "avg_sentiment": -0.1032,
+      "num_verses": 16,
       "min_sentiment": -0.8519,
-      "max_sentiment": 0.8208
+      "max_sentiment": 0.5423
     },
     {
       "book": "Hosea",
       "chapter": 8,
-      "avg_sentiment": -0.2097,
-      "num_verses": 28,
-      "min_sentiment": -0.875,
-      "max_sentiment": 0.7944
+      "avg_sentiment": -0.3363,
+      "num_verses": 14,
+      "min_sentiment": -0.802,
+      "max_sentiment": 0.3612
     },
     {
       "book": "Hosea",
       "chapter": 9,
-      "avg_sentiment": -0.1759,
-      "num_verses": 32,
-      "min_sentiment": -0.8752,
+      "avg_sentiment": -0.1513,
+      "num_verses": 17,
+      "min_sentiment": -0.8126,
       "max_sentiment": 0.86
     },
     {
@@ -6937,15 +7009,119 @@
       "max_sentiment": 0.5859
     },
     {
-      "book": "Obadiah",
+      "book": "Joel",
       "chapter": 1,
-      "avg_sentiment": -0.0842,
-      "num_verses": 37,
-      "min_sentiment": -0.8519,
-      "max_sentiment": 0.8006
+      "avg_sentiment": -0.1952,
+      "num_verses": 20,
+      "min_sentiment": -0.7506,
+      "max_sentiment": 0.8008
+    },
+    {
+      "book": "Joel",
+      "chapter": 2,
+      "avg_sentiment": 0.1567,
+      "num_verses": 32,
+      "min_sentiment": -0.7003,
+      "max_sentiment": 0.8766
+    },
+    {
+      "book": "Joel",
+      "chapter": 3,
+      "avg_sentiment": 0.0547,
+      "num_verses": 21,
+      "min_sentiment": -0.8316,
+      "max_sentiment": 0.8641
+    },
+    {
+      "book": "Amos",
+      "chapter": 1,
+      "avg_sentiment": -0.3603,
+      "num_verses": 15,
+      "min_sentiment": -0.8442,
+      "max_sentiment": 0.6037
+    },
+    {
+      "book": "Amos",
+      "chapter": 2,
+      "avg_sentiment": -0.2057,
+      "num_verses": 16,
+      "min_sentiment": -0.8573,
+      "max_sentiment": 0.5267
+    },
+    {
+      "book": "Amos",
+      "chapter": 3,
+      "avg_sentiment": 0.0165,
+      "num_verses": 15,
+      "min_sentiment": -0.6966,
+      "max_sentiment": 0.6408
+    },
+    {
+      "book": "Amos",
+      "chapter": 4,
+      "avg_sentiment": 0.0379,
+      "num_verses": 13,
+      "min_sentiment": -0.7269,
+      "max_sentiment": 0.7297
+    },
+    {
+      "book": "Amos",
+      "chapter": 5,
+      "avg_sentiment": -0.0496,
+      "num_verses": 27,
+      "min_sentiment": -0.7896,
+      "max_sentiment": 0.8184
+    },
+    {
+      "book": "Amos",
+      "chapter": 6,
+      "avg_sentiment": 0.158,
+      "num_verses": 14,
+      "min_sentiment": -0.8591,
+      "max_sentiment": 0.8708
+    },
+    {
+      "book": "Amos",
+      "chapter": 7,
+      "avg_sentiment": 0.1092,
+      "num_verses": 17,
+      "min_sentiment": -0.6124,
+      "max_sentiment": 0.8208
+    },
+    {
+      "book": "Amos",
+      "chapter": 8,
+      "avg_sentiment": -0.0832,
+      "num_verses": 14,
+      "min_sentiment": -0.875,
+      "max_sentiment": 0.7944
+    },
+    {
+      "book": "Amos",
+      "chapter": 9,
+      "avg_sentiment": -0.2037,
+      "num_verses": 15,
+      "min_sentiment": -0.8752,
+      "max_sentiment": 0.5106
     },
     {
       "book": "Obadiah",
+      "chapter": 1,
+      "avg_sentiment": -0.147,
+      "num_verses": 21,
+      "min_sentiment": -0.8519,
+      "max_sentiment": 0.5719
+    },
+    {
+      "book": "Jonah",
+      "chapter": 1,
+      "avg_sentiment": 0.0163,
+      "num_verses": 17,
+      "min_sentiment": -0.7391,
+      "max_sentiment": 0.8006
+    },
+    {
+      "book": "Jonah",
       "chapter": 2,
       "avg_sentiment": -0.0702,
       "num_verses": 10,
@@ -6953,7 +7129,7 @@
       "max_sentiment": 0.2732
     },
     {
-      "book": "Obadiah",
+      "book": "Jonah",
       "chapter": 3,
       "avg_sentiment": -0.0481,
       "num_verses": 10,
@@ -6961,33 +7137,17 @@
       "max_sentiment": 0.743
     },
     {
-      "book": "Obadiah",
+      "book": "Jonah",
       "chapter": 4,
-      "avg_sentiment": 0.0191,
-      "num_verses": 9,
+      "avg_sentiment": -0.0222,
+      "num_verses": 11,
       "min_sentiment": -0.867,
-      "max_sentiment": 0.7184
-    },
-    {
-      "book": "Jonah",
-      "chapter": 4,
-      "avg_sentiment": 0.2963,
-      "num_verses": 2,
-      "min_sentiment": -0.296,
       "max_sentiment": 0.8885
-    },
-    {
-      "book": "Jonah",
-      "chapter": 1,
-      "avg_sentiment": 0.0,
-      "num_verses": 1,
-      "min_sentiment": 0.0,
-      "max_sentiment": 0.0
     },
     {
       "book": "Micah",
       "chapter": 1,
-      "avg_sentiment": -0.1483,
+      "avg_sentiment": -0.1341,
       "num_verses": 16,
       "min_sentiment": -0.7269,
       "max_sentiment": 0.5423
@@ -7043,61 +7203,93 @@
     {
       "book": "Nahum",
       "chapter": 1,
-      "avg_sentiment": -0.3147,
-      "num_verses": 31,
-      "min_sentiment": -0.9262,
+      "avg_sentiment": -0.3431,
+      "num_verses": 15,
+      "min_sentiment": -0.9013,
       "max_sentiment": 0.7783
     },
     {
       "book": "Nahum",
       "chapter": 2,
-      "avg_sentiment": -0.1599,
-      "num_verses": 33,
-      "min_sentiment": -0.9168,
+      "avg_sentiment": -0.019,
+      "num_verses": 13,
+      "min_sentiment": -0.7845,
       "max_sentiment": 0.7783
     },
     {
       "book": "Nahum",
       "chapter": 3,
-      "avg_sentiment": 0.0081,
-      "num_verses": 20,
+      "avg_sentiment": 0.0085,
+      "num_verses": 19,
       "min_sentiment": -0.8313,
       "max_sentiment": 0.8402
     },
     {
       "book": "Habakkuk",
-      "chapter": 3,
-      "avg_sentiment": -0.0262,
-      "num_verses": 38,
-      "min_sentiment": -0.8519,
-      "max_sentiment": 0.9638
+      "chapter": 1,
+      "avg_sentiment": -0.2844,
+      "num_verses": 17,
+      "min_sentiment": -0.9262,
+      "max_sentiment": 0.7466
     },
     {
       "book": "Habakkuk",
+      "chapter": 2,
+      "avg_sentiment": -0.2515,
+      "num_verses": 20,
+      "min_sentiment": -0.9168,
+      "max_sentiment": 0.6542
+    },
+    {
+      "book": "Habakkuk",
+      "chapter": 3,
+      "avg_sentiment": 0.0065,
+      "num_verses": 19,
+      "min_sentiment": -0.8402,
+      "max_sentiment": 0.8979
+    },
+    {
+      "book": "Zephaniah",
       "chapter": 1,
-      "avg_sentiment": -0.0845,
-      "num_verses": 33,
+      "avg_sentiment": -0.2076,
+      "num_verses": 18,
       "min_sentiment": -0.8979,
       "max_sentiment": 0.8868
     },
     {
-      "book": "Habakkuk",
+      "book": "Zephaniah",
       "chapter": 2,
-      "avg_sentiment": 0.0667,
-      "num_verses": 35,
+      "avg_sentiment": -0.0336,
+      "num_verses": 15,
       "min_sentiment": -0.8313,
+      "max_sentiment": 0.7263
+    },
+    {
+      "book": "Zephaniah",
+      "chapter": 3,
+      "avg_sentiment": -0.056,
+      "num_verses": 20,
+      "min_sentiment": -0.8519,
+      "max_sentiment": 0.9638
+    },
+    {
+      "book": "Haggai",
+      "chapter": 1,
+      "avg_sentiment": 0.0632,
+      "num_verses": 15,
+      "min_sentiment": -0.4215,
+      "max_sentiment": 0.7906
+    },
+    {
+      "book": "Haggai",
+      "chapter": 2,
+      "avg_sentiment": 0.131,
+      "num_verses": 23,
+      "min_sentiment": -0.6486,
       "max_sentiment": 0.872
     },
     {
-      "book": "Haggai",
-      "chapter": 2,
-      "avg_sentiment": 0.188,
-      "num_verses": 16,
-      "min_sentiment": -0.0772,
-      "max_sentiment": 0.5423
-    },
-    {
-      "book": "Haggai",
+      "book": "Zechariah",
       "chapter": 1,
       "avg_sentiment": -0.1161,
       "num_verses": 21,
@@ -7105,7 +7297,15 @@
       "max_sentiment": 0.7351
     },
     {
-      "book": "Haggai",
+      "book": "Zechariah",
+      "chapter": 2,
+      "avg_sentiment": 0.2181,
+      "num_verses": 13,
+      "min_sentiment": 0.0,
+      "max_sentiment": 0.5423
+    },
+    {
+      "book": "Zechariah",
       "chapter": 3,
       "avg_sentiment": 0.0583,
       "num_verses": 10,
@@ -7113,7 +7313,7 @@
       "max_sentiment": 0.5574
     },
     {
-      "book": "Haggai",
+      "book": "Zechariah",
       "chapter": 4,
       "avg_sentiment": 0.0815,
       "num_verses": 14,
@@ -7121,7 +7321,7 @@
       "max_sentiment": 0.765
     },
     {
-      "book": "Haggai",
+      "book": "Zechariah",
       "chapter": 5,
       "avg_sentiment": -0.0594,
       "num_verses": 11,
@@ -7129,34 +7329,18 @@
       "max_sentiment": 0.7003
     },
     {
-      "book": "Haggai",
+      "book": "Zechariah",
       "chapter": 6,
-      "avg_sentiment": 0.069,
-      "num_verses": 14,
+      "avg_sentiment": 0.0826,
+      "num_verses": 15,
       "min_sentiment": -0.2263,
       "max_sentiment": 0.7906
     },
     {
-      "book": "Zephaniah",
-      "chapter": 6,
-      "avg_sentiment": 0.2732,
-      "num_verses": 1,
-      "min_sentiment": 0.2732,
-      "max_sentiment": 0.2732
-    },
-    {
-      "book": "Zephaniah",
-      "chapter": 7,
-      "avg_sentiment": -0.0931,
-      "num_verses": 8,
-      "min_sentiment": -0.5719,
-      "max_sentiment": 0.5267
-    },
-    {
       "book": "Zechariah",
       "chapter": 7,
-      "avg_sentiment": 0.0071,
-      "num_verses": 6,
+      "avg_sentiment": -0.0502,
+      "num_verses": 14,
       "min_sentiment": -0.6369,
       "max_sentiment": 0.7003
     },
@@ -7217,18 +7401,10 @@
       "max_sentiment": 0.9287
     },
     {
-      "book": "Zechariah",
-      "chapter": 1,
-      "avg_sentiment": -0.4404,
-      "num_verses": 1,
-      "min_sentiment": -0.4404,
-      "max_sentiment": -0.4404
-    },
-    {
       "book": "Malachi",
       "chapter": 1,
-      "avg_sentiment": -0.0309,
-      "num_verses": 13,
+      "avg_sentiment": -0.0601,
+      "num_verses": 14,
       "min_sentiment": -0.8674,
       "max_sentiment": 0.9195
     },
@@ -7627,21 +7803,13 @@
     {
       "book": "Luke",
       "chapter": 3,
-      "avg_sentiment": -0.0878,
-      "num_verses": 25,
+      "avg_sentiment": -0.0505,
+      "num_verses": 38,
       "min_sentiment": -0.8465,
       "max_sentiment": 0.8957
     },
     {
-      "book": "Amos",
-      "chapter": 3,
-      "avg_sentiment": 0.021,
-      "num_verses": 13,
-      "min_sentiment": 0.0,
-      "max_sentiment": 0.2732
-    },
-    {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 4,
       "avg_sentiment": 0.0441,
       "num_verses": 44,
@@ -7649,7 +7817,7 @@
       "max_sentiment": 0.9331
     },
     {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 5,
       "avg_sentiment": 0.0826,
       "num_verses": 39,
@@ -7657,7 +7825,7 @@
       "max_sentiment": 0.8978
     },
     {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 6,
       "avg_sentiment": 0.1776,
       "num_verses": 49,
@@ -7665,7 +7833,7 @@
       "max_sentiment": 0.9652
     },
     {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 7,
       "avg_sentiment": 0.0624,
       "num_verses": 50,
@@ -7673,7 +7841,7 @@
       "max_sentiment": 0.8462
     },
     {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 8,
       "avg_sentiment": -0.0607,
       "num_verses": 56,
@@ -7681,7 +7849,7 @@
       "max_sentiment": 0.9209
     },
     {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 9,
       "avg_sentiment": 0.0355,
       "num_verses": 62,
@@ -7689,7 +7857,7 @@
       "max_sentiment": 0.8695
     },
     {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 10,
       "avg_sentiment": 0.1679,
       "num_verses": 42,
@@ -7697,7 +7865,7 @@
       "max_sentiment": 0.9367
     },
     {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 11,
       "avg_sentiment": -0.0187,
       "num_verses": 54,
@@ -7705,7 +7873,7 @@
       "max_sentiment": 0.8402
     },
     {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 12,
       "avg_sentiment": 0.0634,
       "num_verses": 59,
@@ -7713,7 +7881,7 @@
       "max_sentiment": 0.7184
     },
     {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 13,
       "avg_sentiment": 0.0617,
       "num_verses": 35,
@@ -7721,7 +7889,7 @@
       "max_sentiment": 0.765
     },
     {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 14,
       "avg_sentiment": 0.0234,
       "num_verses": 35,
@@ -7729,7 +7897,7 @@
       "max_sentiment": 0.8225
     },
     {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 15,
       "avg_sentiment": 0.1139,
       "num_verses": 32,
@@ -7737,7 +7905,7 @@
       "max_sentiment": 0.9331
     },
     {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 16,
       "avg_sentiment": 0.0396,
       "num_verses": 31,
@@ -7745,7 +7913,7 @@
       "max_sentiment": 0.8621
     },
     {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 17,
       "avg_sentiment": 0.1259,
       "num_verses": 37,
@@ -7753,7 +7921,7 @@
       "max_sentiment": 0.8316
     },
     {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 18,
       "avg_sentiment": 0.0943,
       "num_verses": 43,
@@ -7761,7 +7929,7 @@
       "max_sentiment": 0.8807
     },
     {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 19,
       "avg_sentiment": 0.0071,
       "num_verses": 48,
@@ -7769,7 +7937,7 @@
       "max_sentiment": 0.9349
     },
     {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 20,
       "avg_sentiment": -0.0644,
       "num_verses": 47,
@@ -7777,7 +7945,7 @@
       "max_sentiment": 0.8658
     },
     {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 21,
       "avg_sentiment": 0.0663,
       "num_verses": 38,
@@ -7785,7 +7953,7 @@
       "max_sentiment": 0.8519
     },
     {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 22,
       "avg_sentiment": 0.0131,
       "num_verses": 71,
@@ -7793,7 +7961,7 @@
       "max_sentiment": 0.7783
     },
     {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 23,
       "avg_sentiment": -0.027,
       "num_verses": 56,
@@ -7801,7 +7969,7 @@
       "max_sentiment": 0.8934
     },
     {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 24,
       "avg_sentiment": 0.0293,
       "num_verses": 53,
@@ -7987,21 +8155,13 @@
     {
       "book": "Acts",
       "chapter": 2,
-      "avg_sentiment": 0.1246,
-      "num_verses": 16,
-      "min_sentiment": -0.4019,
-      "max_sentiment": 0.7003
-    },
-    {
-      "book": "Joel",
-      "chapter": 2,
-      "avg_sentiment": 0.2283,
-      "num_verses": 31,
+      "avg_sentiment": 0.193,
+      "num_verses": 47,
       "min_sentiment": -0.6808,
       "max_sentiment": 0.8834
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 3,
       "avg_sentiment": 0.2058,
       "num_verses": 26,
@@ -8009,7 +8169,7 @@
       "max_sentiment": 0.9228
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 4,
       "avg_sentiment": 0.1007,
       "num_verses": 37,
@@ -8017,7 +8177,7 @@
       "max_sentiment": 0.9001
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 5,
       "avg_sentiment": -0.0629,
       "num_verses": 42,
@@ -8025,7 +8185,7 @@
       "max_sentiment": 0.5834
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 6,
       "avg_sentiment": 0.1945,
       "num_verses": 15,
@@ -8033,7 +8193,7 @@
       "max_sentiment": 0.8928
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 7,
       "avg_sentiment": 0.0743,
       "num_verses": 60,
@@ -8041,7 +8201,7 @@
       "max_sentiment": 0.9505
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 8,
       "avg_sentiment": 0.1187,
       "num_verses": 40,
@@ -8049,7 +8209,7 @@
       "max_sentiment": 0.9081
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 9,
       "avg_sentiment": 0.0449,
       "num_verses": 43,
@@ -8057,7 +8217,7 @@
       "max_sentiment": 0.8109
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 10,
       "avg_sentiment": 0.141,
       "num_verses": 48,
@@ -8065,7 +8225,7 @@
       "max_sentiment": 0.8591
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 11,
       "avg_sentiment": 0.2532,
       "num_verses": 30,
@@ -8073,7 +8233,7 @@
       "max_sentiment": 0.9186
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 12,
       "avg_sentiment": 0.0586,
       "num_verses": 25,
@@ -8081,7 +8241,7 @@
       "max_sentiment": 0.8911
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 13,
       "avg_sentiment": 0.0815,
       "num_verses": 52,
@@ -8089,7 +8249,7 @@
       "max_sentiment": 0.743
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 14,
       "avg_sentiment": 0.1057,
       "num_verses": 28,
@@ -8097,7 +8257,7 @@
       "max_sentiment": 0.8779
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 15,
       "avg_sentiment": 0.1648,
       "num_verses": 41,
@@ -8105,7 +8265,7 @@
       "max_sentiment": 0.836
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 16,
       "avg_sentiment": 0.0355,
       "num_verses": 40,
@@ -8113,7 +8273,7 @@
       "max_sentiment": 0.836
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 17,
       "avg_sentiment": 0.0499,
       "num_verses": 34,
@@ -8121,7 +8281,7 @@
       "max_sentiment": 0.6597
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 18,
       "avg_sentiment": 0.1545,
       "num_verses": 28,
@@ -8129,7 +8289,7 @@
       "max_sentiment": 0.8439
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 19,
       "avg_sentiment": 0.0138,
       "num_verses": 41,
@@ -8137,7 +8297,7 @@
       "max_sentiment": 0.765
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 20,
       "avg_sentiment": -0.0108,
       "num_verses": 38,
@@ -8145,7 +8305,7 @@
       "max_sentiment": 0.9428
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 21,
       "avg_sentiment": -0.0744,
       "num_verses": 40,
@@ -8153,7 +8313,7 @@
       "max_sentiment": 0.8074
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 22,
       "avg_sentiment": 0.0072,
       "num_verses": 30,
@@ -8161,7 +8321,7 @@
       "max_sentiment": 0.875
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 23,
       "avg_sentiment": 0.0185,
       "num_verses": 35,
@@ -8169,7 +8329,7 @@
       "max_sentiment": 0.8516
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 24,
       "avg_sentiment": 0.1193,
       "num_verses": 27,
@@ -8177,7 +8337,7 @@
       "max_sentiment": 0.8655
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 25,
       "avg_sentiment": -0.077,
       "num_verses": 27,
@@ -8185,7 +8345,7 @@
       "max_sentiment": 0.782
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 26,
       "avg_sentiment": 0.069,
       "num_verses": 32,
@@ -8193,7 +8353,7 @@
       "max_sentiment": 0.836
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 27,
       "avg_sentiment": 0.0253,
       "num_verses": 44,
@@ -8201,7 +8361,7 @@
       "max_sentiment": 0.8074
     },
     {
-      "book": "Joel",
+      "book": "Acts",
       "chapter": 28,
       "avg_sentiment": -0.0589,
       "num_verses": 31,
@@ -9472,31 +9632,31 @@
       "neutral_verses": 644
     },
     "2 Chronicles": {
-      "avg_sentiment": 0.1203,
-      "avg_positive": 0.0621,
-      "avg_negative": 0.0302,
-      "num_verses": 1102,
-      "positive_verses": 457,
-      "negative_verses": 202,
-      "neutral_verses": 443
-    },
-    "Nehemiah": {
-      "avg_sentiment": 0.0795,
-      "avg_positive": 0.0418,
-      "avg_negative": 0.0208,
-      "num_verses": 364,
-      "positive_verses": 93,
-      "negative_verses": 47,
-      "neutral_verses": 224
+      "avg_sentiment": 0.1106,
+      "avg_positive": 0.0661,
+      "avg_negative": 0.0355,
+      "num_verses": 822,
+      "positive_verses": 355,
+      "negative_verses": 180,
+      "neutral_verses": 287
     },
     "Ezra": {
-      "avg_sentiment": 0.0913,
-      "avg_positive": 0.0748,
-      "avg_negative": 0.0426,
-      "num_verses": 42,
-      "positive_verses": 20,
-      "negative_verses": 10,
-      "neutral_verses": 12
+      "avg_sentiment": 0.1487,
+      "avg_positive": 0.0504,
+      "avg_negative": 0.0147,
+      "num_verses": 280,
+      "positive_verses": 102,
+      "negative_verses": 22,
+      "neutral_verses": 156
+    },
+    "Nehemiah": {
+      "avg_sentiment": 0.0807,
+      "avg_positive": 0.0452,
+      "avg_negative": 0.0231,
+      "num_verses": 406,
+      "positive_verses": 113,
+      "negative_verses": 57,
+      "neutral_verses": 236
     },
     "Esther": {
       "avg_sentiment": 0.0794,
@@ -9589,102 +9749,120 @@
       "neutral_verses": 467
     },
     "Daniel": {
-      "avg_sentiment": 0.2286,
-      "avg_positive": 0.1024,
-      "avg_negative": 0.0399,
-      "num_verses": 359,
+      "avg_sentiment": 0.2299,
+      "avg_positive": 0.103,
+      "avg_negative": 0.0401,
+      "num_verses": 357,
       "positive_verses": 205,
       "negative_verses": 70,
-      "neutral_verses": 84
+      "neutral_verses": 82
     },
     "Hosea": {
-      "avg_sentiment": -0.0289,
-      "avg_positive": 0.0743,
-      "avg_negative": 0.0842,
-      "num_verses": 415,
-      "positive_verses": 153,
-      "negative_verses": 172,
-      "neutral_verses": 90
+      "avg_sentiment": -0.0286,
+      "avg_positive": 0.0785,
+      "avg_negative": 0.0903,
+      "num_verses": 197,
+      "positive_verses": 73,
+      "negative_verses": 85,
+      "neutral_verses": 39
+    },
+    "Joel": {
+      "avg_sentiment": 0.031,
+      "avg_positive": 0.0794,
+      "avg_negative": 0.0798,
+      "num_verses": 73,
+      "positive_verses": 27,
+      "negative_verses": 24,
+      "neutral_verses": 22
+    },
+    "Amos": {
+      "avg_sentiment": -0.0647,
+      "avg_positive": 0.063,
+      "avg_negative": 0.0789,
+      "num_verses": 146,
+      "positive_verses": 52,
+      "negative_verses": 64,
+      "neutral_verses": 30
     },
     "Obadiah": {
-      "avg_sentiment": -0.0625,
-      "avg_positive": 0.07,
-      "avg_negative": 0.0837,
-      "num_verses": 66,
-      "positive_verses": 17,
-      "negative_verses": 29,
-      "neutral_verses": 20
+      "avg_sentiment": -0.147,
+      "avg_positive": 0.0361,
+      "avg_negative": 0.0786,
+      "num_verses": 21,
+      "positive_verses": 3,
+      "negative_verses": 10,
+      "neutral_verses": 8
     },
     "Jonah": {
-      "avg_sentiment": 0.1975,
-      "avg_positive": 0.091,
-      "avg_negative": 0.0227,
-      "num_verses": 3,
-      "positive_verses": 1,
-      "negative_verses": 1,
-      "neutral_verses": 1
+      "avg_sentiment": -0.024,
+      "avg_positive": 0.0838,
+      "avg_negative": 0.0896,
+      "num_verses": 48,
+      "positive_verses": 15,
+      "negative_verses": 21,
+      "neutral_verses": 12
     },
     "Micah": {
-      "avg_sentiment": -0.0429,
-      "avg_positive": 0.0716,
-      "avg_negative": 0.0796,
+      "avg_sentiment": -0.0407,
+      "avg_positive": 0.0702,
+      "avg_negative": 0.0774,
       "num_verses": 105,
       "positive_verses": 37,
-      "negative_verses": 44,
-      "neutral_verses": 24
+      "negative_verses": 43,
+      "neutral_verses": 25
     },
     "Nahum": {
-      "avg_sentiment": -0.177,
-      "avg_positive": 0.0616,
-      "avg_negative": 0.117,
-      "num_verses": 84,
-      "positive_verses": 22,
-      "negative_verses": 47,
-      "neutral_verses": 15
+      "avg_sentiment": -0.1113,
+      "avg_positive": 0.0781,
+      "avg_negative": 0.1095,
+      "num_verses": 47,
+      "positive_verses": 15,
+      "negative_verses": 24,
+      "neutral_verses": 8
     },
     "Habakkuk": {
-      "avg_sentiment": -0.0137,
-      "avg_positive": 0.0672,
-      "avg_negative": 0.0726,
-      "num_verses": 106,
-      "positive_verses": 34,
-      "negative_verses": 39,
-      "neutral_verses": 33
-    },
-    "Haggai": {
-      "avg_sentiment": 0.0303,
-      "avg_positive": 0.0354,
-      "avg_negative": 0.0315,
-      "num_verses": 86,
-      "positive_verses": 20,
-      "negative_verses": 17,
-      "neutral_verses": 49
+      "avg_sentiment": -0.1739,
+      "avg_positive": 0.0596,
+      "avg_negative": 0.1117,
+      "num_verses": 56,
+      "positive_verses": 14,
+      "negative_verses": 31,
+      "neutral_verses": 11
     },
     "Zephaniah": {
-      "avg_sentiment": -0.0524,
-      "avg_positive": 0.0266,
-      "avg_negative": 0.0247,
-      "num_verses": 9,
-      "positive_verses": 2,
-      "negative_verses": 3,
-      "neutral_verses": 4
+      "avg_sentiment": -0.1011,
+      "avg_positive": 0.0673,
+      "avg_negative": 0.1051,
+      "num_verses": 53,
+      "positive_verses": 16,
+      "negative_verses": 26,
+      "neutral_verses": 11
+    },
+    "Haggai": {
+      "avg_sentiment": 0.1043,
+      "avg_positive": 0.0549,
+      "avg_negative": 0.0238,
+      "num_verses": 38,
+      "positive_verses": 12,
+      "negative_verses": 7,
+      "neutral_verses": 19
     },
     "Zechariah": {
-      "avg_sentiment": 0.0336,
-      "avg_positive": 0.0801,
-      "avg_negative": 0.0723,
-      "num_verses": 120,
-      "positive_verses": 52,
-      "negative_verses": 50,
-      "neutral_verses": 18
+      "avg_sentiment": 0.0305,
+      "avg_positive": 0.06,
+      "avg_negative": 0.0531,
+      "num_verses": 211,
+      "positive_verses": 73,
+      "negative_verses": 68,
+      "neutral_verses": 70
     },
     "Malachi": {
-      "avg_sentiment": 0.0066,
-      "avg_positive": 0.0799,
-      "avg_negative": 0.0792,
-      "num_verses": 54,
+      "avg_sentiment": -0.0015,
+      "avg_positive": 0.0785,
+      "avg_negative": 0.0816,
+      "num_verses": 55,
       "positive_verses": 19,
-      "negative_verses": 24,
+      "negative_verses": 25,
       "neutral_verses": 11
     },
     "Matthew": {
@@ -9706,22 +9884,13 @@
       "neutral_verses": 271
     },
     "Luke": {
-      "avg_sentiment": 0.1512,
-      "avg_positive": 0.0978,
-      "avg_negative": 0.0361,
-      "num_verses": 157,
-      "positive_verses": 66,
-      "negative_verses": 32,
-      "neutral_verses": 59
-    },
-    "Amos": {
-      "avg_sentiment": 0.0435,
-      "avg_positive": 0.0782,
-      "avg_negative": 0.0591,
-      "num_verses": 994,
-      "positive_verses": 372,
-      "negative_verses": 282,
-      "neutral_verses": 340
+      "avg_sentiment": 0.0582,
+      "avg_positive": 0.0809,
+      "avg_negative": 0.056,
+      "num_verses": 1151,
+      "positive_verses": 438,
+      "negative_verses": 314,
+      "neutral_verses": 399
     },
     "John": {
       "avg_sentiment": 0.034,
@@ -9733,22 +9902,13 @@
       "neutral_verses": 395
     },
     "Acts": {
-      "avg_sentiment": 0.1034,
-      "avg_positive": 0.0583,
-      "avg_negative": 0.028,
-      "num_verses": 42,
-      "positive_verses": 14,
-      "negative_verses": 8,
-      "neutral_verses": 20
-    },
-    "Joel": {
-      "avg_sentiment": 0.0679,
-      "avg_positive": 0.0777,
-      "avg_negative": 0.0516,
-      "num_verses": 965,
-      "positive_verses": 393,
-      "negative_verses": 253,
-      "neutral_verses": 319
+      "avg_sentiment": 0.0693,
+      "avg_positive": 0.0769,
+      "avg_negative": 0.0506,
+      "num_verses": 1007,
+      "positive_verses": 407,
+      "negative_verses": 261,
+      "neutral_verses": 339
     },
     "Romans": {
       "avg_sentiment": 0.1566,
@@ -9951,16 +10111,16 @@
   },
   "testaments": {
     "Old Testament": {
-      "avg_sentiment": 0.0388,
-      "num_verses": 25104,
-      "positive_pct": 35.4,
-      "negative_pct": 27.6
+      "avg_sentiment": 0.0374,
+      "num_verses": 23145,
+      "positive_pct": 35.1,
+      "negative_pct": 27.7
     },
     "New Testament": {
-      "avg_sentiment": 0.12,
-      "num_verses": 5998,
-      "positive_pct": 45.0,
-      "negative_pct": 25.7
+      "avg_sentiment": 0.1041,
+      "num_verses": 7957,
+      "positive_pct": 43.5,
+      "negative_pct": 26.1
     }
   },
   "most_positive": [
@@ -9993,7 +10153,7 @@
       "compound": 0.9796
     },
     {
-      "book": "Ezra",
+      "book": "Nehemiah",
       "chapter": 12,
       "verse": 43,
       "text": "Also that day they offered great sacrifices, and rejoiced: for God had made them rejoice with great joy: the wives also and the children rejoiced: so ",
@@ -10058,7 +10218,7 @@
       "compound": -0.9847
     },
     {
-      "book": "Amos",
+      "book": "Luke",
       "chapter": 12,
       "verse": 5,
       "text": "But I will forewarn you whom ye shall fear: Fear him, which after he hath killed hath power to cast into hell; yea, I say unto you, Fear him.",

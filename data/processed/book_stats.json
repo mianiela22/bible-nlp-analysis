@@ -1,0 +1,1692 @@
+{
+  "books": {
+    "Genesis": {
+      "testament": "Old Testament",
+      "category": "Pentateuch",
+      "book_number": 1,
+      "num_chapters": 50,
+      "num_verses": 1533,
+      "total_words": 38264,
+      "unique_words": 2493,
+      "avg_words_per_verse": 25.0,
+      "avg_word_length": 3.97,
+      "type_token_ratio": 0.0652,
+      "longest_verse": {
+        "ref": "Genesis 24:14",
+        "words": 64,
+        "text": "And let it come to pass, that the damsel to whom I shall say, Let down thy pitcher, I pray thee, that I may drink; and she shall say, Drink, and I will give thy camels drink also: let the same be she "
+      },
+      "shortest_verse": {
+        "ref": "Genesis 26:6",
+        "words": 5,
+        "text": "And Isaac dwelt in Gerar:"
+      }
+    },
+    "Exodus": {
+      "testament": "Old Testament",
+      "category": "Pentateuch",
+      "book_number": 2,
+      "num_chapters": 40,
+      "num_verses": 1213,
+      "total_words": 32684,
+      "unique_words": 2039,
+      "avg_words_per_verse": 26.9,
+      "avg_word_length": 4.03,
+      "type_token_ratio": 0.0624,
+      "longest_verse": {
+        "ref": "Exodus 7:19",
+        "words": 66,
+        "text": "And the LORD spake unto Moses, Say unto Aaron, Take thy rod, and stretch out thine hand upon the waters of Egypt, upon their streams, upon their rivers, and upon their ponds, and upon all their pools "
+      },
+      "shortest_verse": {
+        "ref": "Exodus 1:3",
+        "words": 4,
+        "text": "Issachar, Zebulun, and Benjamin,"
+      }
+    },
+    "Leviticus": {
+      "testament": "Old Testament",
+      "category": "Pentateuch",
+      "book_number": 3,
+      "num_chapters": 27,
+      "num_verses": 859,
+      "total_words": 24541,
+      "unique_words": 1423,
+      "avg_words_per_verse": 28.6,
+      "avg_word_length": 4.03,
+      "type_token_ratio": 0.058,
+      "longest_verse": {
+        "ref": "Leviticus 4:35",
+        "words": 64,
+        "text": "And he shall take away all the fat thereof, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the priest shall burn them upon the altar, according to the offerings ma"
+      },
+      "shortest_verse": {
+        "ref": "Leviticus 11:15",
+        "words": 5,
+        "text": "Every raven after his kind;"
+      }
+    },
+    "Numbers": {
+      "testament": "Old Testament",
+      "category": "Pentateuch",
+      "book_number": 4,
+      "num_chapters": 36,
+      "num_verses": 1288,
+      "total_words": 32893,
+      "unique_words": 2077,
+      "avg_words_per_verse": 25.5,
+      "avg_word_length": 4.19,
+      "type_token_ratio": 0.0631,
+      "longest_verse": {
+        "ref": "Numbers 4:15",
+        "words": 66,
+        "text": "And when Aaron and his sons have made an end of covering the sanctuary, and all the vessels of the sanctuary, as the camp is to set forward; after that, the sons of Kohath shall come to bear it: but t"
+      },
+      "shortest_verse": {
+        "ref": "Numbers 31:46",
+        "words": 4,
+        "text": "And sixteen thousand persons;)"
+      }
+    },
+    "Deuteronomy": {
+      "testament": "Old Testament",
+      "category": "Pentateuch",
+      "book_number": 5,
+      "num_chapters": 34,
+      "num_verses": 959,
+      "total_words": 28351,
+      "unique_words": 2051,
+      "avg_words_per_verse": 29.6,
+      "avg_word_length": 4.02,
+      "type_token_ratio": 0.0723,
+      "longest_verse": {
+        "ref": "Deuteronomy 13:5",
+        "words": 73,
+        "text": "And that prophet, or that dreamer of dreams, shall be put to death; because he hath spoken to turn you away from the LORD your God, which brought you out of the land of Egypt, and redeemed you out of "
+      },
+      "shortest_verse": {
+        "ref": "Deuteronomy 5:17",
+        "words": 4,
+        "text": "Thou shalt not kill."
+      }
+    },
+    "Joshua": {
+      "testament": "Old Testament",
+      "category": "Historical",
+      "book_number": 6,
+      "num_chapters": 24,
+      "num_verses": 658,
+      "total_words": 18852,
+      "unique_words": 1626,
+      "avg_words_per_verse": 28.7,
+      "avg_word_length": 4.16,
+      "type_token_ratio": 0.0863,
+      "longest_verse": {
+        "ref": "Joshua 8:33",
+        "words": 80,
+        "text": "And all Israel, and their elders, and officers, and their judges, stood on this side the ark and on that side before the priests the Levites, which bare the ark of the covenant of the LORD, as well th"
+      },
+      "shortest_verse": {
+        "ref": "Joshua 15:58",
+        "words": 4,
+        "text": "Halhul, Bethzur, and Gedor,"
+      }
+    },
+    "Judges": {
+      "testament": "Old Testament",
+      "category": "Historical",
+      "book_number": 7,
+      "num_chapters": 21,
+      "num_verses": 618,
+      "total_words": 18966,
+      "unique_words": 1678,
+      "avg_words_per_verse": 30.7,
+      "avg_word_length": 4.05,
+      "type_token_ratio": 0.0885,
+      "longest_verse": {
+        "ref": "Judges 19:9",
+        "words": 67,
+        "text": "And when the man rose up to depart, he, and his concubine, and his servant, his father in law, the damsel\u2019s father, said unto him, Behold, now the day draweth toward evening, I pray you tarry all nigh"
+      },
+      "shortest_verse": {
+        "ref": "Judges 9:22",
+        "words": 8,
+        "text": "When Abimelech had reigned three years over Israel,"
+      }
+    },
+    "Ruth": {
+      "testament": "Old Testament",
+      "category": "Historical",
+      "book_number": 8,
+      "num_chapters": 4,
+      "num_verses": 85,
+      "total_words": 2574,
+      "unique_words": 522,
+      "avg_words_per_verse": 30.3,
+      "avg_word_length": 3.88,
+      "type_token_ratio": 0.2028,
+      "longest_verse": {
+        "ref": "Ruth 3:13",
+        "words": 62,
+        "text": "Tarry this night, and it shall be in the morning, that if he will perform unto thee the part of a kinsman, well; let him do the kinsman\u2019s part: but if he will not do the part of a kinsman to thee, the"
+      },
+      "shortest_verse": {
+        "ref": "Ruth 4:19",
+        "words": 8,
+        "text": "And Hezron begat Ram, and Ram begat Amminadab,"
+      }
+    },
+    "1 Samuel": {
+      "testament": "Old Testament",
+      "category": "Historical",
+      "book_number": 9,
+      "num_chapters": 31,
+      "num_verses": 810,
+      "total_words": 25047,
+      "unique_words": 1901,
+      "avg_words_per_verse": 30.9,
+      "avg_word_length": 4.0,
+      "type_token_ratio": 0.0759,
+      "longest_verse": {
+        "ref": "1 Samuel 29:4",
+        "words": 75,
+        "text": "And the princes of the Philistines were wroth with him; and the princes of the Philistines said unto him, Make this fellow return, that he may go again to his place which thou hast appointed him, and "
+      },
+      "shortest_verse": {
+        "ref": "1 Samuel 18:9",
+        "words": 9,
+        "text": "And Saul eyed David from that day and forward."
+      }
+    },
+    "2 Samuel": {
+      "testament": "Old Testament",
+      "category": "Historical",
+      "book_number": 10,
+      "num_chapters": 24,
+      "num_verses": 695,
+      "total_words": 20599,
+      "unique_words": 1895,
+      "avg_words_per_verse": 29.6,
+      "avg_word_length": 4.0,
+      "type_token_ratio": 0.092,
+      "longest_verse": {
+        "ref": "2 Samuel 14:19",
+        "words": 68,
+        "text": "And the king said, Is not the hand of Joab with thee in all this? And the woman answered and said, As thy soul liveth, my lord the king, none can turn to the right hand or to the left from ought that "
+      },
+      "shortest_verse": {
+        "ref": "2 Samuel 5:16",
+        "words": 6,
+        "text": "And Elishama, and Eliada, and Eliphalet."
+      }
+    },
+    "1 Kings": {
+      "testament": "Old Testament",
+      "category": "Historical",
+      "book_number": 11,
+      "num_chapters": 22,
+      "num_verses": 816,
+      "total_words": 24512,
+      "unique_words": 1879,
+      "avg_words_per_verse": 30.0,
+      "avg_word_length": 4.03,
+      "type_token_ratio": 0.0767,
+      "longest_verse": {
+        "ref": "1 Kings 2:5",
+        "words": 73,
+        "text": "Moreover thou knowest also what Joab the son of Zeruiah did to me, and what he did to the two captains of the hosts of Israel, unto Abner the son of Ner, and unto Amasa the son of Jether, whom he slew"
+      },
+      "shortest_verse": {
+        "ref": "1 Kings 5:2",
+        "words": 6,
+        "text": "And Solomon sent to Hiram, saying,"
+      }
+    },
+    "2 Kings": {
+      "testament": "Old Testament",
+      "category": "Historical",
+      "book_number": 12,
+      "num_chapters": 25,
+      "num_verses": 719,
+      "total_words": 23518,
+      "unique_words": 1785,
+      "avg_words_per_verse": 32.7,
+      "avg_word_length": 3.98,
+      "type_token_ratio": 0.0759,
+      "longest_verse": {
+        "ref": "2 Kings 16:15",
+        "words": 79,
+        "text": "And king Ahaz commanded Urijah the priest, saying, Upon the great altar burn the morning burnt offering, and the evening meat offering, and the king\u2019s burnt sacrifice, and his meat offering, with the "
+      },
+      "shortest_verse": {
+        "ref": "2 Kings 10:28",
+        "words": 7,
+        "text": "Thus Jehu destroyed Baal out of Israel."
+      }
+    },
+    "1 Chronicles": {
+      "testament": "Old Testament",
+      "category": "Historical",
+      "book_number": 13,
+      "num_chapters": 29,
+      "num_verses": 942,
+      "total_words": 20365,
+      "unique_words": 2502,
+      "avg_words_per_verse": 21.6,
+      "avg_word_length": 4.25,
+      "type_token_ratio": 0.1229,
+      "longest_verse": {
+        "ref": "1 Chronicles 29:2",
+        "words": 73,
+        "text": "Now I have prepared with all my might for the house of my God the gold for things to be made of gold, and the silver for things of silver, and the brass for things of brass, the iron for things of iro"
+      },
+      "shortest_verse": {
+        "ref": "1 Chronicles 1:1",
+        "words": 3,
+        "text": "Adam, Sheth, Enosh,"
+      }
+    },
+    "2 Chronicles": {
+      "testament": "Old Testament",
+      "category": "Historical",
+      "book_number": 14,
+      "num_chapters": 36,
+      "num_verses": 822,
+      "total_words": 26069,
+      "unique_words": 2037,
+      "avg_words_per_verse": 31.7,
+      "avg_word_length": 4.19,
+      "type_token_ratio": 0.0781,
+      "longest_verse": {
+        "ref": "2 Chronicles 2:14",
+        "words": 80,
+        "text": "The son of a woman of the daughters of Dan, and his father was a man of Tyre, skilful to work in gold, and in silver, in brass, in iron, in stone, and in timber, in purple, in blue, and in fine linen,"
+      },
+      "shortest_verse": {
+        "ref": "2 Chronicles 11:7",
+        "words": 6,
+        "text": "And Bethzur, and Shoco, and Adullam,"
+      }
+    },
+    "Ezra": {
+      "testament": "Old Testament",
+      "category": "Historical",
+      "book_number": 15,
+      "num_chapters": 10,
+      "num_verses": 280,
+      "total_words": 7440,
+      "unique_words": 1086,
+      "avg_words_per_verse": 26.6,
+      "avg_word_length": 4.26,
+      "type_token_ratio": 0.146,
+      "longest_verse": {
+        "ref": "Ezra 3:8",
+        "words": 75,
+        "text": "Now in the second year of their coming unto the house of God at Jerusalem, in the second month, began Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and the remnant of their brethren "
+      },
+      "shortest_verse": {
+        "ref": "Ezra 10:35",
+        "words": 3,
+        "text": "Benaiah, Bedeiah, Chelluh,"
+      }
+    },
+    "Nehemiah": {
+      "testament": "Old Testament",
+      "category": "Historical",
+      "book_number": 16,
+      "num_chapters": 13,
+      "num_verses": 406,
+      "total_words": 10480,
+      "unique_words": 1466,
+      "avg_words_per_verse": 25.8,
+      "avg_word_length": 4.26,
+      "type_token_ratio": 0.1399,
+      "longest_verse": {
+        "ref": "Nehemiah 9:32",
+        "words": 65,
+        "text": "Now therefore, our God, the great, the mighty, and the terrible God, who keepest covenant and mercy, let not all the trouble seem little before thee, that hath come upon us, on our kings, on our princ"
+      },
+      "shortest_verse": {
+        "ref": "Nehemiah 10:2",
+        "words": 3,
+        "text": "Seraiah, Azariah, Jeremiah,"
+      }
+    },
+    "Esther": {
+      "testament": "Old Testament",
+      "category": "Historical",
+      "book_number": 17,
+      "num_chapters": 10,
+      "num_verses": 167,
+      "total_words": 5632,
+      "unique_words": 791,
+      "avg_words_per_verse": 33.7,
+      "avg_word_length": 4.21,
+      "type_token_ratio": 0.1404,
+      "longest_verse": {
+        "ref": "Esther 8:9",
+        "words": 90,
+        "text": "Then were the king\u2019s scribes called at that time in the third month, that is, the month Sivan, on the three and twentieth day thereof; and it was written according to all that Mordecai commanded unto "
+      },
+      "shortest_verse": {
+        "ref": "Esther 9:7",
+        "words": 6,
+        "text": "And Parshandatha, and Dalphon, and Aspatha,"
+      }
+    },
+    "Job": {
+      "testament": "Old Testament",
+      "category": "Wisdom/Poetry",
+      "book_number": 18,
+      "num_chapters": 42,
+      "num_verses": 1070,
+      "total_words": 18098,
+      "unique_words": 2242,
+      "avg_words_per_verse": 16.9,
+      "avg_word_length": 4.05,
+      "type_token_ratio": 0.1239,
+      "longest_verse": {
+        "ref": "Job 42:11",
+        "words": 65,
+        "text": "Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him"
+      },
+      "shortest_verse": {
+        "ref": "Job 3:2",
+        "words": 5,
+        "text": "And Job spake, and said,"
+      }
+    },
+    "Psalms": {
+      "testament": "Old Testament",
+      "category": "Wisdom/Poetry",
+      "book_number": 19,
+      "num_chapters": 150,
+      "num_verses": 2461,
+      "total_words": 42684,
+      "unique_words": 2890,
+      "avg_words_per_verse": 17.3,
+      "avg_word_length": 4.07,
+      "type_token_ratio": 0.0677,
+      "longest_verse": {
+        "ref": "Psalms 75:8",
+        "words": 45,
+        "text": "For in the hand of the LORD there is a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring them out, and dri"
+      },
+      "shortest_verse": {
+        "ref": "Psalms 87:1",
+        "words": 7,
+        "text": "His foundation is in the holy mountains."
+      }
+    },
+    "Proverbs": {
+      "testament": "Old Testament",
+      "category": "Wisdom/Poetry",
+      "book_number": 20,
+      "num_chapters": 31,
+      "num_verses": 915,
+      "total_words": 15038,
+      "unique_words": 1844,
+      "avg_words_per_verse": 16.4,
+      "avg_word_length": 4.17,
+      "type_token_ratio": 0.1226,
+      "longest_verse": {
+        "ref": "Proverbs 30:4",
+        "words": 47,
+        "text": "Who hath ascended up into heaven, or descended? who hath gathered the wind in his fists? who hath bound the waters in a garment? who hath established all the ends of the earth? what is his name, and w"
+      },
+      "shortest_verse": {
+        "ref": "Proverbs 6:7",
+        "words": 7,
+        "text": "Which having no guide, overseer, or ruler,"
+      }
+    },
+    "Ecclesiastes": {
+      "testament": "Old Testament",
+      "category": "Wisdom/Poetry",
+      "book_number": 21,
+      "num_chapters": 12,
+      "num_verses": 222,
+      "total_words": 5579,
+      "unique_words": 888,
+      "avg_words_per_verse": 25.1,
+      "avg_word_length": 3.94,
+      "type_token_ratio": 0.1592,
+      "longest_verse": {
+        "ref": "Ecclesiastes 4:8",
+        "words": 57,
+        "text": "There is one alone, and there is not a second; yea, he hath neither child nor brother: yet is there no end of all his labour; neither is his eye satisfied with riches; neither saith he, For whom do I "
+      },
+      "shortest_verse": {
+        "ref": "Ecclesiastes 1:12",
+        "words": 9,
+        "text": "I the Preacher was king over Israel in Jerusalem."
+      }
+    },
+    "Song of Solomon": {
+      "testament": "Old Testament",
+      "category": "Wisdom/Poetry",
+      "book_number": 22,
+      "num_chapters": 8,
+      "num_verses": 117,
+      "total_words": 2658,
+      "unique_words": 658,
+      "avg_words_per_verse": 22.7,
+      "avg_word_length": 3.97,
+      "type_token_ratio": 0.2476,
+      "longest_verse": {
+        "ref": "Song of Solomon 3:4",
+        "words": 45,
+        "text": "It was but a little that I passed from them, but I found him whom my soul loveth: I held him, and would not let him go, until I had brought him into my mother\u2019s house, and into the chamber of her that"
+      },
+      "shortest_verse": {
+        "ref": "Song of Solomon 1:1",
+        "words": 7,
+        "text": "The song of songs, which is Solomon\u2019s."
+      }
+    },
+    "Isaiah": {
+      "testament": "Old Testament",
+      "category": "Major Prophets",
+      "book_number": 23,
+      "num_chapters": 66,
+      "num_verses": 1292,
+      "total_words": 37038,
+      "unique_words": 3106,
+      "avg_words_per_verse": 28.7,
+      "avg_word_length": 4.08,
+      "type_token_ratio": 0.0839,
+      "longest_verse": {
+        "ref": "Isaiah 45:14",
+        "words": 68,
+        "text": "Thus saith the LORD, The labour of Egypt, and merchandise of Ethiopia and of the Sabeans, men of stature, shall come over unto thee, and they shall be thine: they shall come after thee; in chains they"
+      },
+      "shortest_verse": {
+        "ref": "Isaiah 3:21",
+        "words": 5,
+        "text": "The rings, and nose jewels,"
+      }
+    },
+    "Jeremiah": {
+      "testament": "Old Testament",
+      "category": "Major Prophets",
+      "book_number": 24,
+      "num_chapters": 52,
+      "num_verses": 1364,
+      "total_words": 42654,
+      "unique_words": 2607,
+      "avg_words_per_verse": 31.3,
+      "avg_word_length": 4.09,
+      "type_token_ratio": 0.0611,
+      "longest_verse": {
+        "ref": "Jeremiah 21:7",
+        "words": 83,
+        "text": "And afterward, saith the LORD, I will deliver Zedekiah king of Judah, and his servants, and the people, and such as are left in this city from the pestilence, from the sword, and from the famine, into"
+      },
+      "shortest_verse": {
+        "ref": "Jeremiah 32:13",
+        "words": 7,
+        "text": "And I charged Baruch before them, saying,"
+      }
+    },
+    "Lamentations": {
+      "testament": "Old Testament",
+      "category": "Major Prophets",
+      "book_number": 25,
+      "num_chapters": 5,
+      "num_verses": 154,
+      "total_words": 3411,
+      "unique_words": 806,
+      "avg_words_per_verse": 22.1,
+      "avg_word_length": 4.15,
+      "type_token_ratio": 0.2363,
+      "longest_verse": {
+        "ref": "Lamentations 2:6",
+        "words": 51,
+        "text": "And he hath violently taken away his tabernacle, as if it were of a garden: he hath destroyed his places of the assembly: the LORD hath caused the solemn feasts and sabbaths to be forgotten in Zion, a"
+      },
+      "shortest_verse": {
+        "ref": "Lamentations 3:23",
+        "words": 9,
+        "text": "They are new every morning: great is thy faithfulness."
+      }
+    },
+    "Ezekiel": {
+      "testament": "Old Testament",
+      "category": "Major Prophets",
+      "book_number": 26,
+      "num_chapters": 48,
+      "num_verses": 1273,
+      "total_words": 39401,
+      "unique_words": 2319,
+      "avg_words_per_verse": 31.0,
+      "avg_word_length": 4.06,
+      "type_token_ratio": 0.0589,
+      "longest_verse": {
+        "ref": "Ezekiel 46:9",
+        "words": 81,
+        "text": "But when the people of the land shall come before the LORD in the solemn feasts, he that entereth in by the way of the north gate to worship shall go out by the way of the south gate; and he that ente"
+      },
+      "shortest_verse": {
+        "ref": "Ezekiel 11:4",
+        "words": 9,
+        "text": "Therefore prophesy against them, prophesy, O son of man."
+      }
+    },
+    "Daniel": {
+      "testament": "Old Testament",
+      "category": "Major Prophets",
+      "book_number": 27,
+      "num_chapters": 12,
+      "num_verses": 357,
+      "total_words": 11603,
+      "unique_words": 1278,
+      "avg_words_per_verse": 32.5,
+      "avg_word_length": 4.17,
+      "type_token_ratio": 0.1101,
+      "longest_verse": {
+        "ref": "Daniel 5:23",
+        "words": 78,
+        "text": "But hast lifted up thyself against the Lord of heaven; and they have brought the vessels of his house before thee, and thou, and thy lords, thy wives, and thy concubines, have drunk wine in them; and "
+      },
+      "shortest_verse": {
+        "ref": "Daniel 4:28",
+        "words": 7,
+        "text": "All this came upon the king Nebuchadnezzar."
+      }
+    },
+    "Hosea": {
+      "testament": "Old Testament",
+      "category": "Minor Prophets",
+      "book_number": 28,
+      "num_chapters": 14,
+      "num_verses": 197,
+      "total_words": 5174,
+      "unique_words": 963,
+      "avg_words_per_verse": 26.3,
+      "avg_word_length": 4.08,
+      "type_token_ratio": 0.1861,
+      "longest_verse": {
+        "ref": "Hosea 1:10",
+        "words": 58,
+        "text": "Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my"
+      },
+      "shortest_verse": {
+        "ref": "Hosea 4:17",
+        "words": 8,
+        "text": "Ephraim is joined to idols: let him alone."
+      }
+    },
+    "Joel": {
+      "testament": "Old Testament",
+      "category": "Minor Prophets",
+      "book_number": 29,
+      "num_chapters": 3,
+      "num_verses": 73,
+      "total_words": 2033,
+      "unique_words": 531,
+      "avg_words_per_verse": 27.8,
+      "avg_word_length": 4.11,
+      "type_token_ratio": 0.2612,
+      "longest_verse": {
+        "ref": "Joel 2:20",
+        "words": 55,
+        "text": "But I will remove far off from you the northern army, and will drive him into a land barren and desolate, with his face toward the east sea, and his hinder part toward the utmost sea, and his stink sh"
+      },
+      "shortest_verse": {
+        "ref": "Joel 2:15",
+        "words": 12,
+        "text": "Blow the trumpet in Zion, sanctify a fast, call a solemn assembly:"
+      }
+    },
+    "Amos": {
+      "testament": "Old Testament",
+      "category": "Minor Prophets",
+      "book_number": 30,
+      "num_chapters": 9,
+      "num_verses": 146,
+      "total_words": 4216,
+      "unique_words": 832,
+      "avg_words_per_verse": 28.9,
+      "avg_word_length": 4.03,
+      "type_token_ratio": 0.1973,
+      "longest_verse": {
+        "ref": "Amos 6:10",
+        "words": 65,
+        "text": "And a man\u2019s uncle shall take him up, and he that burneth him, to bring out the bones out of the house, and shall say unto him that is by the sides of the house, Is there yet any with thee? and he shal"
+      },
+      "shortest_verse": {
+        "ref": "Amos 3:3",
+        "words": 8,
+        "text": "Can two walk together, except they be agreed?"
+      }
+    },
+    "Obadiah": {
+      "testament": "Old Testament",
+      "category": "Minor Prophets",
+      "book_number": 31,
+      "num_chapters": 1,
+      "num_verses": 21,
+      "total_words": 669,
+      "unique_words": 246,
+      "avg_words_per_verse": 31.9,
+      "avg_word_length": 4.21,
+      "type_token_ratio": 0.3677,
+      "longest_verse": {
+        "ref": "Obadiah 1:18",
+        "words": 50,
+        "text": "And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble, and they shall kindle in them, and devour them; and there shall not be any remaining of the "
+      },
+      "shortest_verse": {
+        "ref": "Obadiah 1:2",
+        "words": 13,
+        "text": "Behold, I have made thee small among the heathen: thou art greatly despised."
+      }
+    },
+    "Jonah": {
+      "testament": "Old Testament",
+      "category": "Minor Prophets",
+      "book_number": 32,
+      "num_chapters": 4,
+      "num_verses": 48,
+      "total_words": 1320,
+      "unique_words": 367,
+      "avg_words_per_verse": 27.5,
+      "avg_word_length": 3.85,
+      "type_token_ratio": 0.278,
+      "longest_verse": {
+        "ref": "Jonah 4:2",
+        "words": 55,
+        "text": "And he prayed unto the LORD, and said, I pray thee, O LORD, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou art a gracious God, and me"
+      },
+      "shortest_verse": {
+        "ref": "Jonah 2:8",
+        "words": 9,
+        "text": "They that observe lying vanities forsake their own mercy."
+      }
+    },
+    "Micah": {
+      "testament": "Old Testament",
+      "category": "Minor Prophets",
+      "book_number": 33,
+      "num_chapters": 7,
+      "num_verses": 105,
+      "total_words": 3152,
+      "unique_words": 739,
+      "avg_words_per_verse": 30.0,
+      "avg_word_length": 4.03,
+      "type_token_ratio": 0.2345,
+      "longest_verse": {
+        "ref": "Micah 4:2",
+        "words": 59,
+        "text": "And many nations shall come, and say, Come, and let us go up to the mountain of the LORD, and to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for the"
+      },
+      "shortest_verse": {
+        "ref": "Micah 3:10",
+        "words": 10,
+        "text": "They build up Zion with blood, and Jerusalem with iniquity."
+      }
+    },
+    "Nahum": {
+      "testament": "Old Testament",
+      "category": "Minor Prophets",
+      "book_number": 34,
+      "num_chapters": 3,
+      "num_verses": 47,
+      "total_words": 1284,
+      "unique_words": 467,
+      "avg_words_per_verse": 27.3,
+      "avg_word_length": 4.22,
+      "type_token_ratio": 0.3637,
+      "longest_verse": {
+        "ref": "Nahum 2:13",
+        "words": 48,
+        "text": "Behold, I am against thee, saith the LORD of hosts, and I will burn her chariots in the smoke, and the sword shall devour thy young lions: and I will cut off thy prey from the earth, and the voice of "
+      },
+      "shortest_verse": {
+        "ref": "Nahum 1:1",
+        "words": 13,
+        "text": "The burden of Nineveh. The book of the vision of Nahum the Elkoshite."
+      }
+    },
+    "Habakkuk": {
+      "testament": "Old Testament",
+      "category": "Minor Prophets",
+      "book_number": 35,
+      "num_chapters": 3,
+      "num_verses": 56,
+      "total_words": 1475,
+      "unique_words": 506,
+      "avg_words_per_verse": 26.3,
+      "avg_word_length": 4.21,
+      "type_token_ratio": 0.3431,
+      "longest_verse": {
+        "ref": "Habakkuk 3:17",
+        "words": 46,
+        "text": "Although the fig tree shall not blossom, neither shall fruit be in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and ther"
+      },
+      "shortest_verse": {
+        "ref": "Habakkuk 1:1",
+        "words": 8,
+        "text": "The burden which Habakkuk the prophet did see."
+      }
+    },
+    "Zephaniah": {
+      "testament": "Old Testament",
+      "category": "Minor Prophets",
+      "book_number": 36,
+      "num_chapters": 3,
+      "num_verses": 53,
+      "total_words": 1616,
+      "unique_words": 467,
+      "avg_words_per_verse": 30.5,
+      "avg_word_length": 4.11,
+      "type_token_ratio": 0.289,
+      "longest_verse": {
+        "ref": "Zephaniah 3:8",
+        "words": 56,
+        "text": "Therefore wait ye upon me, saith the LORD, until the day that I rise up to the prey: for my determination is to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation"
+      },
+      "shortest_verse": {
+        "ref": "Zephaniah 2:1",
+        "words": 10,
+        "text": "Gather yourselves together, yea, gather together, O nation not desired;"
+      }
+    },
+    "Haggai": {
+      "testament": "Old Testament",
+      "category": "Minor Prophets",
+      "book_number": 37,
+      "num_chapters": 2,
+      "num_verses": 38,
+      "total_words": 1130,
+      "unique_words": 288,
+      "avg_words_per_verse": 29.7,
+      "avg_word_length": 3.89,
+      "type_token_ratio": 0.2549,
+      "longest_verse": {
+        "ref": "Haggai 1:14",
+        "words": 54,
+        "text": "And the LORD stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people"
+      },
+      "shortest_verse": {
+        "ref": "Haggai 1:7",
+        "words": 9,
+        "text": "Thus saith the LORD of hosts; Consider your ways."
+      }
+    },
+    "Zechariah": {
+      "testament": "Old Testament",
+      "category": "Minor Prophets",
+      "book_number": 38,
+      "num_chapters": 14,
+      "num_verses": 211,
+      "total_words": 6443,
+      "unique_words": 944,
+      "avg_words_per_verse": 30.5,
+      "avg_word_length": 3.97,
+      "type_token_ratio": 0.1465,
+      "longest_verse": {
+        "ref": "Zechariah 14:4",
+        "words": 63,
+        "text": "And his feet shall stand in that day upon the mount of Olives, which is before Jerusalem on the east, and the mount of Olives shall cleave in the midst thereof toward the east and toward the west, and"
+      },
+      "shortest_verse": {
+        "ref": "Zechariah 1:20",
+        "words": 7,
+        "text": "And the LORD shewed me four carpenters."
+      }
+    },
+    "Malachi": {
+      "testament": "Old Testament",
+      "category": "Minor Prophets",
+      "book_number": 39,
+      "num_chapters": 4,
+      "num_verses": 55,
+      "total_words": 1789,
+      "unique_words": 461,
+      "avg_words_per_verse": 32.5,
+      "avg_word_length": 4.0,
+      "type_token_ratio": 0.2577,
+      "longest_verse": {
+        "ref": "Malachi 3:5",
+        "words": 60,
+        "text": "And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against false swearers, and against those that oppress the hireling in his"
+      },
+      "shortest_verse": {
+        "ref": "Malachi 2:1",
+        "words": 10,
+        "text": "And now, O ye priests, this commandment is for you."
+      }
+    },
+    "Matthew": {
+      "testament": "New Testament",
+      "category": "Gospels",
+      "book_number": 40,
+      "num_chapters": 28,
+      "num_verses": 1071,
+      "total_words": 23684,
+      "unique_words": 2118,
+      "avg_words_per_verse": 22.1,
+      "avg_word_length": 4.08,
+      "type_token_ratio": 0.0894,
+      "longest_verse": {
+        "ref": "Matthew 20:23",
+        "words": 54,
+        "text": "And he saith unto them, Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but it shall be giv"
+      },
+      "shortest_verse": {
+        "ref": "Matthew 24:25",
+        "words": 6,
+        "text": "Behold, I have told you before."
+      }
+    },
+    "Mark": {
+      "testament": "New Testament",
+      "category": "Gospels",
+      "book_number": 41,
+      "num_chapters": 16,
+      "num_verses": 678,
+      "total_words": 15166,
+      "unique_words": 1675,
+      "avg_words_per_verse": 22.4,
+      "avg_word_length": 4.04,
+      "type_token_ratio": 0.1104,
+      "longest_verse": {
+        "ref": "Mark 11:23",
+        "words": 49,
+        "text": "For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he s"
+      },
+      "shortest_verse": {
+        "ref": "Mark 3:16",
+        "words": 5,
+        "text": "And Simon he surnamed Peter;"
+      }
+    },
+    "Luke": {
+      "testament": "New Testament",
+      "category": "Gospels",
+      "book_number": 42,
+      "num_chapters": 24,
+      "num_verses": 1151,
+      "total_words": 25939,
+      "unique_words": 2387,
+      "avg_words_per_verse": 22.5,
+      "avg_word_length": 4.02,
+      "type_token_ratio": 0.092,
+      "longest_verse": {
+        "ref": "Luke 6:42",
+        "words": 62,
+        "text": "Either how canst thou say to thy brother, Brother, let me pull out the mote that is in thine eye, when thou thyself beholdest not the beam that is in thine own eye? Thou hypocrite, cast out first the "
+      },
+      "shortest_verse": {
+        "ref": "Luke 17:32",
+        "words": 3,
+        "text": "Remember Lot\u2019s wife."
+      }
+    },
+    "John": {
+      "testament": "New Testament",
+      "category": "Gospels",
+      "book_number": 43,
+      "num_chapters": 21,
+      "num_verses": 879,
+      "total_words": 19095,
+      "unique_words": 1390,
+      "avg_words_per_verse": 21.7,
+      "avg_word_length": 3.95,
+      "type_token_ratio": 0.0728,
+      "longest_verse": {
+        "ref": "John 8:44",
+        "words": 56,
+        "text": "Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he"
+      },
+      "shortest_verse": {
+        "ref": "John 11:35",
+        "words": 2,
+        "text": "Jesus wept."
+      }
+    },
+    "Acts": {
+      "testament": "New Testament",
+      "category": "Acts",
+      "book_number": 44,
+      "num_chapters": 28,
+      "num_verses": 1007,
+      "total_words": 24246,
+      "unique_words": 2282,
+      "avg_words_per_verse": 24.1,
+      "avg_word_length": 4.19,
+      "type_token_ratio": 0.0941,
+      "longest_verse": {
+        "ref": "Acts 28:17",
+        "words": 56,
+        "text": "And it came to pass, that after three days Paul called the chief of the Jews together: and when they were come together, he said unto them, Men and brethren, though I have committed nothing against th"
+      },
+      "shortest_verse": {
+        "ref": "Acts 7:47",
+        "words": 6,
+        "text": "But Solomon built him an house."
+      }
+    },
+    "Romans": {
+      "testament": "New Testament",
+      "category": "Pauline Epistles",
+      "book_number": 45,
+      "num_chapters": 16,
+      "num_verses": 433,
+      "total_words": 9422,
+      "unique_words": 1323,
+      "avg_words_per_verse": 21.8,
+      "avg_word_length": 4.17,
+      "type_token_ratio": 0.1404,
+      "longest_verse": {
+        "ref": "Romans 14:6",
+        "words": 52,
+        "text": "He that regardeth the day, regardeth it unto the Lord; and he that regardeth not the day, to the Lord he doth not regard it. He that eateth, eateth to the Lord, for he giveth God thanks; and he that e"
+      },
+      "shortest_verse": {
+        "ref": "Romans 5:4",
+        "words": 6,
+        "text": "And patience, experience; and experience, hope:"
+      }
+    },
+    "1 Corinthians": {
+      "testament": "New Testament",
+      "category": "Pauline Epistles",
+      "book_number": 46,
+      "num_chapters": 16,
+      "num_verses": 437,
+      "total_words": 9462,
+      "unique_words": 1241,
+      "avg_words_per_verse": 21.7,
+      "avg_word_length": 4.01,
+      "type_token_ratio": 0.1312,
+      "longest_verse": {
+        "ref": "1 Corinthians 7:34",
+        "words": 49,
+        "text": "There is difference also between a wife and a virgin. The unmarried woman careth for the things of the Lord, that she may be holy both in body and in spirit: but she that is married careth for the thi"
+      },
+      "shortest_verse": {
+        "ref": "1 Corinthians 10:14",
+        "words": 7,
+        "text": "Wherefore, my dearly beloved, flee from idolatry."
+      }
+    },
+    "2 Corinthians": {
+      "testament": "New Testament",
+      "category": "Pauline Epistles",
+      "book_number": 47,
+      "num_chapters": 13,
+      "num_verses": 257,
+      "total_words": 6065,
+      "unique_words": 1034,
+      "avg_words_per_verse": 23.6,
+      "avg_word_length": 4.12,
+      "type_token_ratio": 0.1705,
+      "longest_verse": {
+        "ref": "2 Corinthians 7:11",
+        "words": 52,
+        "text": "For behold this selfsame thing, that ye sorrowed after a godly sort, what carefulness it wrought in you, yea, what clearing of yourselves, yea, what indignation, yea, what fear, yea, what vehement des"
+      },
+      "shortest_verse": {
+        "ref": "2 Corinthians 13:13",
+        "words": 5,
+        "text": "All the saints salute you."
+      }
+    },
+    "Galatians": {
+      "testament": "New Testament",
+      "category": "Pauline Epistles",
+      "book_number": 48,
+      "num_chapters": 6,
+      "num_verses": 149,
+      "total_words": 3084,
+      "unique_words": 647,
+      "avg_words_per_verse": 20.7,
+      "avg_word_length": 4.1,
+      "type_token_ratio": 0.2098,
+      "longest_verse": {
+        "ref": "Galatians 2:16",
+        "words": 57,
+        "text": "Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the "
+      },
+      "shortest_verse": {
+        "ref": "Galatians 1:24",
+        "words": 6,
+        "text": "And they glorified God in me."
+      }
+    },
+    "Ephesians": {
+      "testament": "New Testament",
+      "category": "Pauline Epistles",
+      "book_number": 49,
+      "num_chapters": 6,
+      "num_verses": 155,
+      "total_words": 3022,
+      "unique_words": 662,
+      "avg_words_per_verse": 19.5,
+      "avg_word_length": 4.24,
+      "type_token_ratio": 0.2191,
+      "longest_verse": {
+        "ref": "Ephesians 4:16",
+        "words": 39,
+        "text": "From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the "
+      },
+      "shortest_verse": {
+        "ref": "Ephesians 4:5",
+        "words": 6,
+        "text": "One Lord, one faith, one baptism,"
+      }
+    },
+    "Philippians": {
+      "testament": "New Testament",
+      "category": "Pauline Epistles",
+      "book_number": 50,
+      "num_chapters": 4,
+      "num_verses": 104,
+      "total_words": 2183,
+      "unique_words": 551,
+      "avg_words_per_verse": 21.0,
+      "avg_word_length": 4.14,
+      "type_token_ratio": 0.2524,
+      "longest_verse": {
+        "ref": "Philippians 1:27",
+        "words": 47,
+        "text": "Only let your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striv"
+      },
+      "shortest_verse": {
+        "ref": "Philippians 2:14",
+        "words": 7,
+        "text": "Do all things without murmurings and disputings:"
+      }
+    },
+    "Colossians": {
+      "testament": "New Testament",
+      "category": "Pauline Epistles",
+      "book_number": 51,
+      "num_chapters": 4,
+      "num_verses": 95,
+      "total_words": 1979,
+      "unique_words": 533,
+      "avg_words_per_verse": 20.8,
+      "avg_word_length": 4.25,
+      "type_token_ratio": 0.2693,
+      "longest_verse": {
+        "ref": "Colossians 1:23",
+        "words": 42,
+        "text": "If ye continue in the faith grounded and settled, and be not moved away from the hope of the gospel, which ye have heard, and which was preached to every creature which is under heaven; whereof I Paul"
+      },
+      "shortest_verse": {
+        "ref": "Colossians 2:21",
+        "words": 6,
+        "text": "(Touch not; taste not; handle not;"
+      }
+    },
+    "1 Thessalonians": {
+      "testament": "New Testament",
+      "category": "Pauline Epistles",
+      "book_number": 52,
+      "num_chapters": 5,
+      "num_verses": 89,
+      "total_words": 1837,
+      "unique_words": 455,
+      "avg_words_per_verse": 20.6,
+      "avg_word_length": 4.11,
+      "type_token_ratio": 0.2477,
+      "longest_verse": {
+        "ref": "1 Thessalonians 2:13",
+        "words": 49,
+        "text": "For this cause also thank we God without ceasing, because, when ye received the word of God which ye heard of us, ye received it not as the word of men, but as it is in truth, the word of God, which e"
+      },
+      "shortest_verse": {
+        "ref": "1 Thessalonians 5:16",
+        "words": 2,
+        "text": "Rejoice evermore."
+      }
+    },
+    "2 Thessalonians": {
+      "testament": "New Testament",
+      "category": "Pauline Epistles",
+      "book_number": 53,
+      "num_chapters": 3,
+      "num_verses": 47,
+      "total_words": 1022,
+      "unique_words": 313,
+      "avg_words_per_verse": 21.7,
+      "avg_word_length": 4.18,
+      "type_token_ratio": 0.3063,
+      "longest_verse": {
+        "ref": "2 Thessalonians 2:13",
+        "words": 37,
+        "text": "But we are bound to give thanks alway to God for you, brethren beloved of the Lord, because God hath from the beginning chosen you to salvation through sanctification of the Spirit and belief of the t"
+      },
+      "shortest_verse": {
+        "ref": "2 Thessalonians 3:13",
+        "words": 9,
+        "text": "But ye, brethren, be not weary in well doing."
+      }
+    },
+    "1 Timothy": {
+      "testament": "New Testament",
+      "category": "Pauline Epistles",
+      "book_number": 54,
+      "num_chapters": 6,
+      "num_verses": 113,
+      "total_words": 2244,
+      "unique_words": 678,
+      "avg_words_per_verse": 19.9,
+      "avg_word_length": 4.48,
+      "type_token_ratio": 0.3021,
+      "longest_verse": {
+        "ref": "1 Timothy 1:9",
+        "words": 38,
+        "text": "Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of moth"
+      },
+      "shortest_verse": {
+        "ref": "1 Timothy 4:11",
+        "words": 5,
+        "text": "These things command and teach."
+      }
+    },
+    "2 Timothy": {
+      "testament": "New Testament",
+      "category": "Pauline Epistles",
+      "book_number": 55,
+      "num_chapters": 4,
+      "num_verses": 83,
+      "total_words": 1666,
+      "unique_words": 547,
+      "avg_words_per_verse": 20.1,
+      "avg_word_length": 4.35,
+      "type_token_ratio": 0.3283,
+      "longest_verse": {
+        "ref": "2 Timothy 1:12",
+        "words": 40,
+        "text": "For the which cause I also suffer these things: nevertheless I am not ashamed: for I know whom I have believed, and am persuaded that he is able to keep that which I have committed unto him against th"
+      },
+      "shortest_verse": {
+        "ref": "2 Timothy 4:12",
+        "words": 7,
+        "text": "And Tychicus have I sent to Ephesus."
+      }
+    },
+    "Titus": {
+      "testament": "New Testament",
+      "category": "Pauline Epistles",
+      "book_number": 56,
+      "num_chapters": 3,
+      "num_verses": 46,
+      "total_words": 896,
+      "unique_words": 364,
+      "avg_words_per_verse": 19.5,
+      "avg_word_length": 4.54,
+      "type_token_ratio": 0.4062,
+      "longest_verse": {
+        "ref": "Titus 3:8",
+        "words": 36,
+        "text": "This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto "
+      },
+      "shortest_verse": {
+        "ref": "Titus 2:6",
+        "words": 8,
+        "text": "Young men likewise exhort to be sober minded."
+      }
+    },
+    "Philemon": {
+      "testament": "New Testament",
+      "category": "Pauline Epistles",
+      "book_number": 57,
+      "num_chapters": 1,
+      "num_verses": 25,
+      "total_words": 430,
+      "unique_words": 191,
+      "avg_words_per_verse": 17.2,
+      "avg_word_length": 4.23,
+      "type_token_ratio": 0.4442,
+      "longest_verse": {
+        "ref": "Philemon 1:19",
+        "words": 30,
+        "text": "I Paul have written it with mine own hand, I will repay it: albeit I do not say to thee how thou owest unto me even thine own self besides."
+      },
+      "shortest_verse": {
+        "ref": "Philemon 1:24",
+        "words": 6,
+        "text": "Marcus, Aristarchus, Demas, Lucas, my fellowlabourers."
+      }
+    },
+    "Hebrews": {
+      "testament": "New Testament",
+      "category": "General Epistles",
+      "book_number": 58,
+      "num_chapters": 13,
+      "num_verses": 303,
+      "total_words": 6897,
+      "unique_words": 1214,
+      "avg_words_per_verse": 22.8,
+      "avg_word_length": 4.25,
+      "type_token_ratio": 0.176,
+      "longest_verse": {
+        "ref": "Hebrews 8:10",
+        "words": 50,
+        "text": "For this is the covenant that I will make with the house of Israel after those days, saith the Lord; I will put my laws into their mind, and write them in their hearts: and I will be to them a God, an"
+      },
+      "shortest_verse": {
+        "ref": "Hebrews 13:1",
+        "words": 4,
+        "text": "Let brotherly love continue."
+      }
+    },
+    "James": {
+      "testament": "New Testament",
+      "category": "General Epistles",
+      "book_number": 59,
+      "num_chapters": 5,
+      "num_verses": 108,
+      "total_words": 2304,
+      "unique_words": 670,
+      "avg_words_per_verse": 21.3,
+      "avg_word_length": 4.09,
+      "type_token_ratio": 0.2908,
+      "longest_verse": {
+        "ref": "James 4:11",
+        "words": 44,
+        "text": "Speak not evil one of another, brethren. He that speaketh evil of his brother, and judgeth his brother, speaketh evil of the law, and judgeth the law: but if thou judge the law, thou art not a doer of"
+      },
+      "shortest_verse": {
+        "ref": "James 1:16",
+        "words": 6,
+        "text": "Do not err, my beloved brethren."
+      }
+    },
+    "1 Peter": {
+      "testament": "New Testament",
+      "category": "General Epistles",
+      "book_number": 60,
+      "num_chapters": 5,
+      "num_verses": 105,
+      "total_words": 2475,
+      "unique_words": 680,
+      "avg_words_per_verse": 23.6,
+      "avg_word_length": 4.28,
+      "type_token_ratio": 0.2747,
+      "longest_verse": {
+        "ref": "1 Peter 4:11",
+        "words": 49,
+        "text": "If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be p"
+      },
+      "shortest_verse": {
+        "ref": "1 Peter 4:9",
+        "words": 7,
+        "text": "Use hospitality one to another without grudging."
+      }
+    },
+    "2 Peter": {
+      "testament": "New Testament",
+      "category": "General Epistles",
+      "book_number": 61,
+      "num_chapters": 3,
+      "num_verses": 61,
+      "total_words": 1553,
+      "unique_words": 513,
+      "avg_words_per_verse": 25.5,
+      "avg_word_length": 4.47,
+      "type_token_ratio": 0.3303,
+      "longest_verse": {
+        "ref": "2 Peter 3:10",
+        "words": 47,
+        "text": "But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that"
+      },
+      "shortest_verse": {
+        "ref": "2 Peter 1:7",
+        "words": 10,
+        "text": "And to godliness brotherly kindness; and to brotherly kindness charity."
+      }
+    },
+    "1 John": {
+      "testament": "New Testament",
+      "category": "General Epistles",
+      "book_number": 62,
+      "num_chapters": 5,
+      "num_verses": 105,
+      "total_words": 2516,
+      "unique_words": 360,
+      "avg_words_per_verse": 24.0,
+      "avg_word_length": 3.91,
+      "type_token_ratio": 0.1431,
+      "longest_verse": {
+        "ref": "1 John 2:27",
+        "words": 50,
+        "text": "But the anointing which ye have received of him abideth in you, and ye need not that any man teach you: but as the same anointing teacheth you of all things, and is truth, and is no lie, and even as i"
+      },
+      "shortest_verse": {
+        "ref": "1 John 5:21",
+        "words": 7,
+        "text": "Little children, keep yourselves from idols. Amen."
+      }
+    },
+    "2 John": {
+      "testament": "New Testament",
+      "category": "General Epistles",
+      "book_number": 63,
+      "num_chapters": 1,
+      "num_verses": 13,
+      "total_words": 298,
+      "unique_words": 132,
+      "avg_words_per_verse": 22.9,
+      "avg_word_length": 4.04,
+      "type_token_ratio": 0.443,
+      "longest_verse": {
+        "ref": "2 John 1:12",
+        "words": 33,
+        "text": "Having many things to write unto you, I would not write with paper and ink: but I trust to come unto you, and speak face to face, that our joy may be full."
+      },
+      "shortest_verse": {
+        "ref": "2 John 1:13",
+        "words": 9,
+        "text": "The children of thy elect sister greet thee. Amen."
+      }
+    },
+    "3 John": {
+      "testament": "New Testament",
+      "category": "General Epistles",
+      "book_number": 64,
+      "num_chapters": 1,
+      "num_verses": 14,
+      "total_words": 294,
+      "unique_words": 155,
+      "avg_words_per_verse": 21.0,
+      "avg_word_length": 4.25,
+      "type_token_ratio": 0.5272,
+      "longest_verse": {
+        "ref": "3 John 1:10",
+        "words": 41,
+        "text": "Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them th"
+      },
+      "shortest_verse": {
+        "ref": "3 John 1:1",
+        "words": 12,
+        "text": "The elder unto the wellbeloved Gaius, whom I love in the truth."
+      }
+    },
+    "Jude": {
+      "testament": "New Testament",
+      "category": "General Epistles",
+      "book_number": 65,
+      "num_chapters": 1,
+      "num_verses": 25,
+      "total_words": 608,
+      "unique_words": 295,
+      "avg_words_per_verse": 24.3,
+      "avg_word_length": 4.62,
+      "type_token_ratio": 0.4852,
+      "longest_verse": {
+        "ref": "Jude 1:3",
+        "words": 41,
+        "text": "Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort you that ye should earnestly contend for the faith which was once deli"
+      },
+      "shortest_verse": {
+        "ref": "Jude 1:22",
+        "words": 8,
+        "text": "And of some have compassion, making a difference:"
+      }
+    },
+    "Revelation": {
+      "testament": "New Testament",
+      "category": "Apocalyptic",
+      "book_number": 66,
+      "num_chapters": 22,
+      "num_verses": 404,
+      "total_words": 11995,
+      "unique_words": 1285,
+      "avg_words_per_verse": 29.7,
+      "avg_word_length": 4.02,
+      "type_token_ratio": 0.1071,
+      "longest_verse": {
+        "ref": "Revelation 20:4",
+        "words": 68,
+        "text": "And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worship"
+      },
+      "shortest_verse": {
+        "ref": "Revelation 2:28",
+        "words": 8,
+        "text": "And I will give him the morning star."
+      }
+    }
+  },
+  "categories": {
+    "Pentateuch": {
+      "books": [
+        "Genesis",
+        "Exodus",
+        "Leviticus",
+        "Numbers",
+        "Deuteronomy"
+      ],
+      "total_words": 156733,
+      "total_verses": 5852,
+      "total_chapters": 187,
+      "num_books": 5,
+      "avg_words_per_book": 31347,
+      "avg_verses_per_book": 1170
+    },
+    "Historical": {
+      "books": [
+        "Joshua",
+        "Judges",
+        "Ruth",
+        "1 Samuel",
+        "2 Samuel",
+        "1 Kings",
+        "2 Kings",
+        "1 Chronicles",
+        "2 Chronicles",
+        "Ezra",
+        "Nehemiah",
+        "Esther"
+      ],
+      "total_words": 204054,
+      "total_verses": 7018,
+      "total_chapters": 249,
+      "num_books": 12,
+      "avg_words_per_book": 17004,
+      "avg_verses_per_book": 585
+    },
+    "Wisdom/Poetry": {
+      "books": [
+        "Job",
+        "Psalms",
+        "Proverbs",
+        "Ecclesiastes",
+        "Song of Solomon"
+      ],
+      "total_words": 84057,
+      "total_verses": 4785,
+      "total_chapters": 243,
+      "num_books": 5,
+      "avg_words_per_book": 16811,
+      "avg_verses_per_book": 957
+    },
+    "Major Prophets": {
+      "books": [
+        "Isaiah",
+        "Jeremiah",
+        "Lamentations",
+        "Ezekiel",
+        "Daniel"
+      ],
+      "total_words": 134107,
+      "total_verses": 4440,
+      "total_chapters": 183,
+      "num_books": 5,
+      "avg_words_per_book": 26821,
+      "avg_verses_per_book": 888
+    },
+    "Minor Prophets": {
+      "books": [
+        "Hosea",
+        "Joel",
+        "Amos",
+        "Obadiah",
+        "Jonah",
+        "Micah",
+        "Nahum",
+        "Habakkuk",
+        "Zephaniah",
+        "Haggai",
+        "Zechariah",
+        "Malachi"
+      ],
+      "total_words": 30301,
+      "total_verses": 1050,
+      "total_chapters": 67,
+      "num_books": 12,
+      "avg_words_per_book": 2525,
+      "avg_verses_per_book": 88
+    },
+    "Gospels": {
+      "books": [
+        "Matthew",
+        "Mark",
+        "Luke",
+        "John"
+      ],
+      "total_words": 83884,
+      "total_verses": 3779,
+      "total_chapters": 89,
+      "num_books": 4,
+      "avg_words_per_book": 20971,
+      "avg_verses_per_book": 945
+    },
+    "Acts": {
+      "books": [
+        "Acts"
+      ],
+      "total_words": 24246,
+      "total_verses": 1007,
+      "total_chapters": 28,
+      "num_books": 1,
+      "avg_words_per_book": 24246,
+      "avg_verses_per_book": 1007
+    },
+    "Pauline Epistles": {
+      "books": [
+        "Romans",
+        "1 Corinthians",
+        "2 Corinthians",
+        "Galatians",
+        "Ephesians",
+        "Philippians",
+        "Colossians",
+        "1 Thessalonians",
+        "2 Thessalonians",
+        "1 Timothy",
+        "2 Timothy",
+        "Titus",
+        "Philemon"
+      ],
+      "total_words": 43312,
+      "total_verses": 2033,
+      "total_chapters": 87,
+      "num_books": 13,
+      "avg_words_per_book": 3332,
+      "avg_verses_per_book": 156
+    },
+    "General Epistles": {
+      "books": [
+        "Hebrews",
+        "James",
+        "1 Peter",
+        "2 Peter",
+        "1 John",
+        "2 John",
+        "3 John",
+        "Jude"
+      ],
+      "total_words": 16945,
+      "total_verses": 734,
+      "total_chapters": 34,
+      "num_books": 8,
+      "avg_words_per_book": 2118,
+      "avg_verses_per_book": 92
+    },
+    "Apocalyptic": {
+      "books": [
+        "Revelation"
+      ],
+      "total_words": 11995,
+      "total_verses": 404,
+      "total_chapters": 22,
+      "num_books": 1,
+      "avg_words_per_book": 11995,
+      "avg_verses_per_book": 404
+    }
+  },
+  "book_order": [
+    "Genesis",
+    "Exodus",
+    "Leviticus",
+    "Numbers",
+    "Deuteronomy",
+    "Joshua",
+    "Judges",
+    "Ruth",
+    "1 Samuel",
+    "2 Samuel",
+    "1 Kings",
+    "2 Kings",
+    "1 Chronicles",
+    "2 Chronicles",
+    "Ezra",
+    "Nehemiah",
+    "Esther",
+    "Job",
+    "Psalms",
+    "Proverbs",
+    "Ecclesiastes",
+    "Song of Solomon",
+    "Isaiah",
+    "Jeremiah",
+    "Lamentations",
+    "Ezekiel",
+    "Daniel",
+    "Hosea",
+    "Joel",
+    "Amos",
+    "Obadiah",
+    "Jonah",
+    "Micah",
+    "Nahum",
+    "Habakkuk",
+    "Zephaniah",
+    "Haggai",
+    "Zechariah",
+    "Malachi",
+    "Matthew",
+    "Mark",
+    "Luke",
+    "John",
+    "Acts",
+    "Romans",
+    "1 Corinthians",
+    "2 Corinthians",
+    "Galatians",
+    "Ephesians",
+    "Philippians",
+    "Colossians",
+    "1 Thessalonians",
+    "2 Thessalonians",
+    "1 Timothy",
+    "2 Timothy",
+    "Titus",
+    "Philemon",
+    "Hebrews",
+    "James",
+    "1 Peter",
+    "2 Peter",
+    "1 John",
+    "2 John",
+    "3 John",
+    "Jude",
+    "Revelation"
+  ]
+}

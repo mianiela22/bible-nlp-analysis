@@ -113,41 +113,62 @@ def find_book_positions(text):
     """
     Find where each book starts in the text.
 
-    Strategy: For each book header, find ALL occurrences in the text.
-    Then pick the LAST one — because the first occurrence is always
-    in the table of contents, and the last one is the actual book.
+    For LONG unique headers (like "The First Book of Moses: Called Genesis"),
+    we find the last occurrence that isn't after "Otherwise Called" or
+    "Commonly Called".
 
-    We also skip any match that appears right after 'Otherwise Called'
-    or 'Commonly Called', since those are subtitles inside other books
-    (e.g., Samuel's header says 'Otherwise Called: The First Book of the Kings').
+    For SHORT headers (single words like "Jonah", "Joel", "Ezra"),
+    these names can appear inside verse text as people's names.
+    So we look for the pattern where the name appears followed within
+    a short distance by "1:1" — that's a real book header.
     """
+    SHORT_HEADERS = {
+        "Ezra", "Hosea", "Joel", "Amos", "Obadiah", "Jonah",
+        "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai",
+        "Zechariah", "Malachi",
+    }
+
     positions = {}
 
     for book_name, header in BOOK_HEADERS.items():
-        # Find ALL occurrences
-        idx = 0
-        candidates = []
-        while True:
-            idx = text.find(header, idx)
-            if idx == -1:
-                break
 
-            # Check if this match is a subtitle of another book
-            lookback = text[max(0, idx - 100):idx]
-            is_subtitle = "Otherwise Called" in lookback or "Commonly Called" in lookback
-
-            if not is_subtitle:
-                candidates.append(idx)
-
-            idx += 1
-
-        if len(candidates) >= 2:
-            # Use the LAST non-subtitle occurrence (skip the TOC entry)
-            positions[book_name] = candidates[-1]
-        elif len(candidates) == 1:
-            positions[book_name] = candidates[0]
+        if book_name in SHORT_HEADERS:
+            # For short names, find "Name\n\n...1:1" pattern
+            pattern = re.compile(
+                re.escape(header) + r'\s{2,}1:1\s',
+            )
+            match = pattern.search(text, 2000)  # Skip TOC
+            if match:
+                positions[book_name] = match.start()
+            else:
+                print(f"  WARNING: Could not find header for {book_name}")
         else:
-            print(f"  WARNING: Could not find header for {book_name}")
+            # For long unique headers, find last non-subtitle occurrence
+            idx = 0
+            candidates = []
+            while True:
+                idx = text.find(header, idx)
+                if idx == -1:
+                    break
+
+                # Skip TOC entries
+                if idx < 2000:
+                    idx += 1
+                    continue
+
+                # Skip "Otherwise Called" / "Commonly Called" subtitles
+                lookback = text[max(0, idx - 100):idx]
+                if "Otherwise Called" in lookback or "Commonly Called" in lookback:
+                    idx += 1
+                    continue
+
+                candidates.append(idx)
+                idx += 1
+
+            if candidates:
+                positions[book_name] = candidates[-1]
+            else:
+                print(f"  WARNING: Could not find header for {book_name}")
 
     sorted_books = sorted(positions.items(), key=lambda x: x[1])
     print(f"Found positions for {len(sorted_books)}/66 books")
@@ -175,14 +196,13 @@ def extract_verses(text, book_positions):
         header = BOOK_HEADERS[book_name]
         book_text = book_text.replace(header, "", 1).strip()
 
-        # Collapse newlines into spaces (verses can wrap across lines)
+        # Collapse newlines into spaces
         book_text = re.sub(r"\n+", " ", book_text)
         book_text = re.sub(r"\s+", " ", book_text)
 
-        # Find all verse markers and split text by them
+        # Split by verse markers
         splits = verse_pattern.split(book_text)
 
-        # splits: [junk, chapter, verse, text, chapter, verse, text, ...]
         testament = "Old Testament" if book_name in OLD_TESTAMENT else "New Testament"
 
         j = 1
@@ -259,11 +279,3 @@ if __name__ == "__main__":
     save_to_csv(verses, csv_path)
 
     print_summary(verses)
-
-import csv
-with open('data/processed/kjv_bible.csv') as f:
-    rows = list(csv.DictReader(f))
-for book in ['Genesis', '1 Samuel', '2 Samuel', '1 Kings', '2 Kings', '1 John', 'Jude', 'Revelation']:
-    count = sum(1 for r in rows if r['book'] == book)
-    chapters = len(set(r['chapter'] for r in rows if r['book'] == book))
-    print(f'{book:15s} {count:>5,} verses  {chapters:>3} chapters')
