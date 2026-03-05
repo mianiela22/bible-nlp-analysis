@@ -1,0 +1,6405 @@
+{
+  "overall": {
+    "total_words": 789634,
+    "total_words_no_stops": 298525,
+    "unique_words": 12514,
+    "top_50_with_stops": [
+      {
+        "word": "the",
+        "count": 63926
+      },
+      {
+        "word": "and",
+        "count": 51696
+      },
+      {
+        "word": "of",
+        "count": 34617
+      },
+      {
+        "word": "to",
+        "count": 13562
+      },
+      {
+        "word": "that",
+        "count": 12912
+      },
+      {
+        "word": "in",
+        "count": 12667
+      },
+      {
+        "word": "he",
+        "count": 10419
+      },
+      {
+        "word": "shall",
+        "count": 9838
+      },
+      {
+        "word": "unto",
+        "count": 8997
+      },
+      {
+        "word": "for",
+        "count": 8971
+      },
+      {
+        "word": "i",
+        "count": 8854
+      },
+      {
+        "word": "his",
+        "count": 8473
+      },
+      {
+        "word": "a",
+        "count": 8177
+      },
+      {
+        "word": "lord",
+        "count": 7830
+      },
+      {
+        "word": "they",
+        "count": 7376
+      },
+      {
+        "word": "be",
+        "count": 7013
+      },
+      {
+        "word": "is",
+        "count": 6989
+      },
+      {
+        "word": "him",
+        "count": 6659
+      },
+      {
+        "word": "not",
+        "count": 6596
+      },
+      {
+        "word": "them",
+        "count": 6430
+      },
+      {
+        "word": "it",
+        "count": 6129
+      },
+      {
+        "word": "with",
+        "count": 6012
+      },
+      {
+        "word": "all",
+        "count": 5620
+      },
+      {
+        "word": "thou",
+        "count": 5474
+      },
+      {
+        "word": "thy",
+        "count": 4600
+      },
+      {
+        "word": "was",
+        "count": 4522
+      },
+      {
+        "word": "god",
+        "count": 4443
+      },
+      {
+        "word": "which",
+        "count": 4413
+      },
+      {
+        "word": "my",
+        "count": 4368
+      },
+      {
+        "word": "me",
+        "count": 4096
+      },
+      {
+        "word": "said",
+        "count": 3999
+      },
+      {
+        "word": "but",
+        "count": 3992
+      },
+      {
+        "word": "ye",
+        "count": 3983
+      },
+      {
+        "word": "their",
+        "count": 3932
+      },
+      {
+        "word": "have",
+        "count": 3904
+      },
+      {
+        "word": "will",
+        "count": 3836
+      },
+      {
+        "word": "thee",
+        "count": 3826
+      },
+      {
+        "word": "from",
+        "count": 3642
+      },
+      {
+        "word": "as",
+        "count": 3520
+      },
+      {
+        "word": "are",
+        "count": 2950
+      },
+      {
+        "word": "when",
+        "count": 2834
+      },
+      {
+        "word": "this",
+        "count": 2785
+      },
+      {
+        "word": "out",
+        "count": 2775
+      },
+      {
+        "word": "were",
+        "count": 2772
+      },
+      {
+        "word": "upon",
+        "count": 2748
+      },
+      {
+        "word": "by",
+        "count": 2625
+      },
+      {
+        "word": "you",
+        "count": 2615
+      },
+      {
+        "word": "man",
+        "count": 2613
+      },
+      {
+        "word": "israel",
+        "count": 2565
+      },
+      {
+        "word": "up",
+        "count": 2380
+      }
+    ],
+    "top_50_no_stops": [
+      {
+        "word": "lord",
+        "count": 7830
+      },
+      {
+        "word": "god",
+        "count": 4443
+      },
+      {
+        "word": "man",
+        "count": 2613
+      },
+      {
+        "word": "israel",
+        "count": 2565
+      },
+      {
+        "word": "son",
+        "count": 2370
+      },
+      {
+        "word": "king",
+        "count": 2257
+      },
+      {
+        "word": "people",
+        "count": 2139
+      },
+      {
+        "word": "house",
+        "count": 2024
+      },
+      {
+        "word": "into",
+        "count": 2015
+      },
+      {
+        "word": "children",
+        "count": 1802
+      },
+      {
+        "word": "day",
+        "count": 1734
+      },
+      {
+        "word": "land",
+        "count": 1718
+      },
+      {
+        "word": "men",
+        "count": 1653
+      },
+      {
+        "word": "go",
+        "count": 1492
+      },
+      {
+        "word": "hand",
+        "count": 1466
+      },
+      {
+        "word": "us",
+        "count": 1448
+      },
+      {
+        "word": "sons",
+        "count": 1116
+      },
+      {
+        "word": "o",
+        "count": 1065
+      },
+      {
+        "word": "make",
+        "count": 1055
+      },
+      {
+        "word": "david",
+        "count": 1011
+      },
+      {
+        "word": "earth",
+        "count": 987
+      },
+      {
+        "word": "jesus",
+        "count": 983
+      },
+      {
+        "word": "father",
+        "count": 979
+      },
+      {
+        "word": "great",
+        "count": 962
+      },
+      {
+        "word": "name",
+        "count": 928
+      },
+      {
+        "word": "among",
+        "count": 916
+      },
+      {
+        "word": "away",
+        "count": 915
+      },
+      {
+        "word": "any",
+        "count": 912
+      },
+      {
+        "word": "put",
+        "count": 911
+      },
+      {
+        "word": "give",
+        "count": 880
+      },
+      {
+        "word": "days",
+        "count": 877
+      },
+      {
+        "word": "take",
+        "count": 874
+      },
+      {
+        "word": "city",
+        "count": 868
+      },
+      {
+        "word": "brought",
+        "count": 863
+      },
+      {
+        "word": "moses",
+        "count": 847
+      },
+      {
+        "word": "two",
+        "count": 835
+      },
+      {
+        "word": "pass",
+        "count": 830
+      },
+      {
+        "word": "heart",
+        "count": 830
+      },
+      {
+        "word": "judah",
+        "count": 812
+      },
+      {
+        "word": "jerusalem",
+        "count": 811
+      },
+      {
+        "word": "according",
+        "count": 793
+      },
+      {
+        "word": "know",
+        "count": 763
+      },
+      {
+        "word": "took",
+        "count": 750
+      },
+      {
+        "word": "bring",
+        "count": 725
+      },
+      {
+        "word": "offering",
+        "count": 724
+      },
+      {
+        "word": "good",
+        "count": 720
+      },
+      {
+        "word": "place",
+        "count": 716
+      },
+      {
+        "word": "word",
+        "count": 697
+      },
+      {
+        "word": "fathers",
+        "count": 696
+      },
+      {
+        "word": "set",
+        "count": 695
+      }
+    ]
+  },
+  "old_testament": {
+    "total_words": 609252,
+    "top_30": [
+      {
+        "word": "lord",
+        "count": 7119
+      },
+      {
+        "word": "god",
+        "count": 3089
+      },
+      {
+        "word": "israel",
+        "count": 2490
+      },
+      {
+        "word": "king",
+        "count": 2171
+      },
+      {
+        "word": "son",
+        "count": 1948
+      },
+      {
+        "word": "people",
+        "count": 1908
+      },
+      {
+        "word": "house",
+        "count": 1818
+      },
+      {
+        "word": "man",
+        "count": 1744
+      },
+      {
+        "word": "land",
+        "count": 1668
+      },
+      {
+        "word": "children",
+        "count": 1645
+      },
+      {
+        "word": "day",
+        "count": 1418
+      },
+      {
+        "word": "into",
+        "count": 1371
+      },
+      {
+        "word": "hand",
+        "count": 1308
+      },
+      {
+        "word": "men",
+        "count": 1267
+      },
+      {
+        "word": "go",
+        "count": 1240
+      },
+      {
+        "word": "sons",
+        "count": 1084
+      },
+      {
+        "word": "o",
+        "count": 1008
+      },
+      {
+        "word": "us",
+        "count": 961
+      },
+      {
+        "word": "david",
+        "count": 953
+      },
+      {
+        "word": "make",
+        "count": 909
+      },
+      {
+        "word": "judah",
+        "count": 811
+      },
+      {
+        "word": "earth",
+        "count": 795
+      },
+      {
+        "word": "moses",
+        "count": 767
+      },
+      {
+        "word": "name",
+        "count": 755
+      },
+      {
+        "word": "put",
+        "count": 754
+      },
+      {
+        "word": "brought",
+        "count": 730
+      },
+      {
+        "word": "heart",
+        "count": 725
+      },
+      {
+        "word": "city",
+        "count": 716
+      },
+      {
+        "word": "take",
+        "count": 713
+      },
+      {
+        "word": "offering",
+        "count": 713
+      }
+    ]
+  },
+  "new_testament": {
+    "total_words": 180382,
+    "top_30": [
+      {
+        "word": "god",
+        "count": 1354
+      },
+      {
+        "word": "jesus",
+        "count": 983
+      },
+      {
+        "word": "man",
+        "count": 869
+      },
+      {
+        "word": "lord",
+        "count": 711
+      },
+      {
+        "word": "into",
+        "count": 644
+      },
+      {
+        "word": "christ",
+        "count": 555
+      },
+      {
+        "word": "us",
+        "count": 487
+      },
+      {
+        "word": "son",
+        "count": 422
+      },
+      {
+        "word": "men",
+        "count": 386
+      },
+      {
+        "word": "father",
+        "count": 352
+      },
+      {
+        "word": "day",
+        "count": 316
+      },
+      {
+        "word": "know",
+        "count": 299
+      },
+      {
+        "word": "many",
+        "count": 286
+      },
+      {
+        "word": "any",
+        "count": 284
+      },
+      {
+        "word": "spirit",
+        "count": 261
+      },
+      {
+        "word": "heaven",
+        "count": 255
+      },
+      {
+        "word": "great",
+        "count": 254
+      },
+      {
+        "word": "go",
+        "count": 252
+      },
+      {
+        "word": "heard",
+        "count": 248
+      },
+      {
+        "word": "good",
+        "count": 248
+      },
+      {
+        "word": "faith",
+        "count": 245
+      },
+      {
+        "word": "disciples",
+        "count": 244
+      },
+      {
+        "word": "world",
+        "count": 241
+      },
+      {
+        "word": "might",
+        "count": 239
+      },
+      {
+        "word": "brethren",
+        "count": 231
+      },
+      {
+        "word": "people",
+        "count": 231
+      },
+      {
+        "word": "called",
+        "count": 229
+      },
+      {
+        "word": "law",
+        "count": 223
+      },
+      {
+        "word": "saw",
+        "count": 221
+      },
+      {
+        "word": "another",
+        "count": 214
+      }
+    ]
+  },
+  "by_book": {
+    "Genesis": {
+      "total_words": 38264,
+      "total_words_no_stops": 14408,
+      "unique_words": 2331,
+      "top_20": [
+        {
+          "word": "god",
+          "count": 230
+        },
+        {
+          "word": "lord",
+          "count": 206
+        },
+        {
+          "word": "land",
+          "count": 187
+        },
+        {
+          "word": "father",
+          "count": 169
+        },
+        {
+          "word": "jacob",
+          "count": 166
+        },
+        {
+          "word": "sons",
+          "count": 158
+        },
+        {
+          "word": "son",
+          "count": 148
+        },
+        {
+          "word": "joseph",
+          "count": 138
+        },
+        {
+          "word": "earth",
+          "count": 121
+        },
+        {
+          "word": "abraham",
+          "count": 121
+        },
+        {
+          "word": "years",
+          "count": 113
+        },
+        {
+          "word": "man",
+          "count": 107
+        },
+        {
+          "word": "name",
+          "count": 101
+        },
+        {
+          "word": "wife",
+          "count": 101
+        },
+        {
+          "word": "called",
+          "count": 98
+        },
+        {
+          "word": "us",
+          "count": 94
+        },
+        {
+          "word": "hand",
+          "count": 88
+        },
+        {
+          "word": "into",
+          "count": 86
+        },
+        {
+          "word": "house",
+          "count": 86
+        },
+        {
+          "word": "pass",
+          "count": 82
+        }
+      ]
+    },
+    "Exodus": {
+      "total_words": 32684,
+      "total_words_no_stops": 12220,
+      "unique_words": 1887,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 398
+        },
+        {
+          "word": "moses",
+          "count": 290
+        },
+        {
+          "word": "people",
+          "count": 174
+        },
+        {
+          "word": "israel",
+          "count": 168
+        },
+        {
+          "word": "make",
+          "count": 140
+        },
+        {
+          "word": "children",
+          "count": 137
+        },
+        {
+          "word": "egypt",
+          "count": 122
+        },
+        {
+          "word": "land",
+          "count": 122
+        },
+        {
+          "word": "god",
+          "count": 122
+        },
+        {
+          "word": "go",
+          "count": 121
+        },
+        {
+          "word": "two",
+          "count": 112
+        },
+        {
+          "word": "aaron",
+          "count": 107
+        },
+        {
+          "word": "put",
+          "count": 105
+        },
+        {
+          "word": "pharaoh",
+          "count": 96
+        },
+        {
+          "word": "gold",
+          "count": 96
+        },
+        {
+          "word": "tabernacle",
+          "count": 91
+        },
+        {
+          "word": "hand",
+          "count": 88
+        },
+        {
+          "word": "man",
+          "count": 83
+        },
+        {
+          "word": "day",
+          "count": 78
+        },
+        {
+          "word": "into",
+          "count": 72
+        }
+      ]
+    },
+    "Leviticus": {
+      "total_words": 24541,
+      "total_words_no_stops": 8865,
+      "unique_words": 1280,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 307
+        },
+        {
+          "word": "offering",
+          "count": 249
+        },
+        {
+          "word": "priest",
+          "count": 174
+        },
+        {
+          "word": "unclean",
+          "count": 110
+        },
+        {
+          "word": "any",
+          "count": 101
+        },
+        {
+          "word": "holy",
+          "count": 94
+        },
+        {
+          "word": "sin",
+          "count": 89
+        },
+        {
+          "word": "blood",
+          "count": 88
+        },
+        {
+          "word": "altar",
+          "count": 87
+        },
+        {
+          "word": "moses",
+          "count": 86
+        },
+        {
+          "word": "burnt",
+          "count": 84
+        },
+        {
+          "word": "put",
+          "count": 78
+        },
+        {
+          "word": "offer",
+          "count": 77
+        },
+        {
+          "word": "man",
+          "count": 75
+        },
+        {
+          "word": "fire",
+          "count": 74
+        },
+        {
+          "word": "land",
+          "count": 72
+        },
+        {
+          "word": "israel",
+          "count": 65
+        },
+        {
+          "word": "make",
+          "count": 65
+        },
+        {
+          "word": "day",
+          "count": 65
+        },
+        {
+          "word": "bring",
+          "count": 63
+        }
+      ]
+    },
+    "Numbers": {
+      "total_words": 32893,
+      "total_words_no_stops": 12950,
+      "unique_words": 1921,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 394
+        },
+        {
+          "word": "children",
+          "count": 263
+        },
+        {
+          "word": "moses",
+          "count": 234
+        },
+        {
+          "word": "offering",
+          "count": 234
+        },
+        {
+          "word": "israel",
+          "count": 232
+        },
+        {
+          "word": "son",
+          "count": 148
+        },
+        {
+          "word": "congregation",
+          "count": 134
+        },
+        {
+          "word": "land",
+          "count": 115
+        },
+        {
+          "word": "tabernacle",
+          "count": 107
+        },
+        {
+          "word": "aaron",
+          "count": 99
+        },
+        {
+          "word": "according",
+          "count": 93
+        },
+        {
+          "word": "thousand",
+          "count": 93
+        },
+        {
+          "word": "sons",
+          "count": 93
+        },
+        {
+          "word": "hundred",
+          "count": 92
+        },
+        {
+          "word": "people",
+          "count": 89
+        },
+        {
+          "word": "tribe",
+          "count": 84
+        },
+        {
+          "word": "day",
+          "count": 83
+        },
+        {
+          "word": "numbered",
+          "count": 83
+        },
+        {
+          "word": "families",
+          "count": 81
+        },
+        {
+          "word": "family",
+          "count": 78
+        }
+      ]
+    },
+    "Deuteronomy": {
+      "total_words": 28351,
+      "total_words_no_stops": 10079,
+      "unique_words": 1895,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 549
+        },
+        {
+          "word": "god",
+          "count": 357
+        },
+        {
+          "word": "land",
+          "count": 187
+        },
+        {
+          "word": "day",
+          "count": 103
+        },
+        {
+          "word": "go",
+          "count": 101
+        },
+        {
+          "word": "people",
+          "count": 99
+        },
+        {
+          "word": "man",
+          "count": 78
+        },
+        {
+          "word": "israel",
+          "count": 71
+        },
+        {
+          "word": "children",
+          "count": 70
+        },
+        {
+          "word": "any",
+          "count": 69
+        },
+        {
+          "word": "hand",
+          "count": 68
+        },
+        {
+          "word": "into",
+          "count": 66
+        },
+        {
+          "word": "eat",
+          "count": 65
+        },
+        {
+          "word": "us",
+          "count": 61
+        },
+        {
+          "word": "fathers",
+          "count": 56
+        },
+        {
+          "word": "among",
+          "count": 54
+        },
+        {
+          "word": "possess",
+          "count": 52
+        },
+        {
+          "word": "give",
+          "count": 52
+        },
+        {
+          "word": "days",
+          "count": 50
+        },
+        {
+          "word": "egypt",
+          "count": 50
+        }
+      ]
+    },
+    "Joshua": {
+      "total_words": 18852,
+      "total_words_no_stops": 7259,
+      "unique_words": 1478,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 225
+        },
+        {
+          "word": "children",
+          "count": 191
+        },
+        {
+          "word": "joshua",
+          "count": 168
+        },
+        {
+          "word": "israel",
+          "count": 156
+        },
+        {
+          "word": "cities",
+          "count": 91
+        },
+        {
+          "word": "land",
+          "count": 87
+        },
+        {
+          "word": "king",
+          "count": 84
+        },
+        {
+          "word": "people",
+          "count": 76
+        },
+        {
+          "word": "god",
+          "count": 73
+        },
+        {
+          "word": "tribe",
+          "count": 72
+        },
+        {
+          "word": "jordan",
+          "count": 70
+        },
+        {
+          "word": "city",
+          "count": 69
+        },
+        {
+          "word": "moses",
+          "count": 58
+        },
+        {
+          "word": "inheritance",
+          "count": 58
+        },
+        {
+          "word": "day",
+          "count": 58
+        },
+        {
+          "word": "suburbs",
+          "count": 58
+        },
+        {
+          "word": "border",
+          "count": 56
+        },
+        {
+          "word": "us",
+          "count": 52
+        },
+        {
+          "word": "side",
+          "count": 51
+        },
+        {
+          "word": "men",
+          "count": 51
+        }
+      ]
+    },
+    "Judges": {
+      "total_words": 18966,
+      "total_words_no_stops": 7080,
+      "unique_words": 1526,
+      "top_20": [
+        {
+          "word": "israel",
+          "count": 184
+        },
+        {
+          "word": "lord",
+          "count": 180
+        },
+        {
+          "word": "children",
+          "count": 131
+        },
+        {
+          "word": "men",
+          "count": 123
+        },
+        {
+          "word": "man",
+          "count": 86
+        },
+        {
+          "word": "into",
+          "count": 74
+        },
+        {
+          "word": "house",
+          "count": 71
+        },
+        {
+          "word": "people",
+          "count": 69
+        },
+        {
+          "word": "go",
+          "count": 65
+        },
+        {
+          "word": "hand",
+          "count": 65
+        },
+        {
+          "word": "god",
+          "count": 63
+        },
+        {
+          "word": "us",
+          "count": 55
+        },
+        {
+          "word": "son",
+          "count": 52
+        },
+        {
+          "word": "city",
+          "count": 48
+        },
+        {
+          "word": "took",
+          "count": 48
+        },
+        {
+          "word": "day",
+          "count": 45
+        },
+        {
+          "word": "land",
+          "count": 44
+        },
+        {
+          "word": "benjamin",
+          "count": 41
+        },
+        {
+          "word": "gideon",
+          "count": 39
+        },
+        {
+          "word": "abimelech",
+          "count": 39
+        }
+      ]
+    },
+    "Ruth": {
+      "total_words": 2574,
+      "total_words_no_stops": 889,
+      "unique_words": 395,
+      "top_20": [
+        {
+          "word": "naomi",
+          "count": 20
+        },
+        {
+          "word": "boaz",
+          "count": 20
+        },
+        {
+          "word": "law",
+          "count": 19
+        },
+        {
+          "word": "lord",
+          "count": 19
+        },
+        {
+          "word": "go",
+          "count": 14
+        },
+        {
+          "word": "name",
+          "count": 13
+        },
+        {
+          "word": "ruth",
+          "count": 12
+        },
+        {
+          "word": "daughter",
+          "count": 12
+        },
+        {
+          "word": "kinsman",
+          "count": 12
+        },
+        {
+          "word": "mother",
+          "count": 11
+        },
+        {
+          "word": "people",
+          "count": 10
+        },
+        {
+          "word": "man",
+          "count": 9
+        },
+        {
+          "word": "begat",
+          "count": 9
+        },
+        {
+          "word": "moab",
+          "count": 8
+        },
+        {
+          "word": "two",
+          "count": 8
+        },
+        {
+          "word": "field",
+          "count": 8
+        },
+        {
+          "word": "redeem",
+          "count": 8
+        },
+        {
+          "word": "country",
+          "count": 7
+        },
+        {
+          "word": "sons",
+          "count": 7
+        },
+        {
+          "word": "left",
+          "count": 7
+        }
+      ]
+    },
+    "1 Samuel": {
+      "total_words": 25047,
+      "total_words_no_stops": 9310,
+      "unique_words": 1748,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 337
+        },
+        {
+          "word": "david",
+          "count": 277
+        },
+        {
+          "word": "saul",
+          "count": 276
+        },
+        {
+          "word": "israel",
+          "count": 146
+        },
+        {
+          "word": "samuel",
+          "count": 131
+        },
+        {
+          "word": "philistines",
+          "count": 120
+        },
+        {
+          "word": "men",
+          "count": 114
+        },
+        {
+          "word": "people",
+          "count": 111
+        },
+        {
+          "word": "man",
+          "count": 103
+        },
+        {
+          "word": "hand",
+          "count": 102
+        },
+        {
+          "word": "day",
+          "count": 97
+        },
+        {
+          "word": "god",
+          "count": 96
+        },
+        {
+          "word": "go",
+          "count": 80
+        },
+        {
+          "word": "son",
+          "count": 79
+        },
+        {
+          "word": "us",
+          "count": 79
+        },
+        {
+          "word": "king",
+          "count": 77
+        },
+        {
+          "word": "jonathan",
+          "count": 72
+        },
+        {
+          "word": "into",
+          "count": 66
+        },
+        {
+          "word": "house",
+          "count": 58
+        },
+        {
+          "word": "answered",
+          "count": 46
+        }
+      ]
+    },
+    "2 Samuel": {
+      "total_words": 20599,
+      "total_words_no_stops": 7881,
+      "unique_words": 1746,
+      "top_20": [
+        {
+          "word": "david",
+          "count": 268
+        },
+        {
+          "word": "king",
+          "count": 251
+        },
+        {
+          "word": "lord",
+          "count": 191
+        },
+        {
+          "word": "son",
+          "count": 133
+        },
+        {
+          "word": "israel",
+          "count": 115
+        },
+        {
+          "word": "people",
+          "count": 104
+        },
+        {
+          "word": "house",
+          "count": 104
+        },
+        {
+          "word": "men",
+          "count": 101
+        },
+        {
+          "word": "absalom",
+          "count": 97
+        },
+        {
+          "word": "joab",
+          "count": 93
+        },
+        {
+          "word": "god",
+          "count": 69
+        },
+        {
+          "word": "man",
+          "count": 68
+        },
+        {
+          "word": "day",
+          "count": 59
+        },
+        {
+          "word": "servants",
+          "count": 59
+        },
+        {
+          "word": "saul",
+          "count": 57
+        },
+        {
+          "word": "go",
+          "count": 55
+        },
+        {
+          "word": "hand",
+          "count": 54
+        },
+        {
+          "word": "servant",
+          "count": 54
+        },
+        {
+          "word": "sent",
+          "count": 49
+        },
+        {
+          "word": "abner",
+          "count": 45
+        }
+      ]
+    },
+    "1 Kings": {
+      "total_words": 24512,
+      "total_words_no_stops": 9419,
+      "unique_words": 1724,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 292
+        },
+        {
+          "word": "king",
+          "count": 264
+        },
+        {
+          "word": "israel",
+          "count": 203
+        },
+        {
+          "word": "house",
+          "count": 173
+        },
+        {
+          "word": "solomon",
+          "count": 147
+        },
+        {
+          "word": "son",
+          "count": 130
+        },
+        {
+          "word": "god",
+          "count": 96
+        },
+        {
+          "word": "people",
+          "count": 83
+        },
+        {
+          "word": "david",
+          "count": 75
+        },
+        {
+          "word": "father",
+          "count": 60
+        },
+        {
+          "word": "man",
+          "count": 60
+        },
+        {
+          "word": "go",
+          "count": 57
+        },
+        {
+          "word": "two",
+          "count": 55
+        },
+        {
+          "word": "jeroboam",
+          "count": 53
+        },
+        {
+          "word": "word",
+          "count": 49
+        },
+        {
+          "word": "ahab",
+          "count": 49
+        },
+        {
+          "word": "kings",
+          "count": 47
+        },
+        {
+          "word": "pass",
+          "count": 45
+        },
+        {
+          "word": "gold",
+          "count": 44
+        },
+        {
+          "word": "name",
+          "count": 43
+        }
+      ]
+    },
+    "2 Kings": {
+      "total_words": 23518,
+      "total_words_no_stops": 8888,
+      "unique_words": 1632,
+      "top_20": [
+        {
+          "word": "king",
+          "count": 303
+        },
+        {
+          "word": "lord",
+          "count": 292
+        },
+        {
+          "word": "israel",
+          "count": 161
+        },
+        {
+          "word": "son",
+          "count": 147
+        },
+        {
+          "word": "house",
+          "count": 134
+        },
+        {
+          "word": "judah",
+          "count": 95
+        },
+        {
+          "word": "god",
+          "count": 84
+        },
+        {
+          "word": "kings",
+          "count": 79
+        },
+        {
+          "word": "man",
+          "count": 76
+        },
+        {
+          "word": "into",
+          "count": 71
+        },
+        {
+          "word": "land",
+          "count": 63
+        },
+        {
+          "word": "jerusalem",
+          "count": 63
+        },
+        {
+          "word": "sent",
+          "count": 59
+        },
+        {
+          "word": "go",
+          "count": 56
+        },
+        {
+          "word": "hand",
+          "count": 56
+        },
+        {
+          "word": "elisha",
+          "count": 55
+        },
+        {
+          "word": "people",
+          "count": 55
+        },
+        {
+          "word": "took",
+          "count": 53
+        },
+        {
+          "word": "city",
+          "count": 51
+        },
+        {
+          "word": "samaria",
+          "count": 49
+        }
+      ]
+    },
+    "1 Chronicles": {
+      "total_words": 20365,
+      "total_words_no_stops": 8961,
+      "unique_words": 2352,
+      "top_20": [
+        {
+          "word": "son",
+          "count": 324
+        },
+        {
+          "word": "sons",
+          "count": 308
+        },
+        {
+          "word": "david",
+          "count": 181
+        },
+        {
+          "word": "lord",
+          "count": 177
+        },
+        {
+          "word": "israel",
+          "count": 114
+        },
+        {
+          "word": "god",
+          "count": 114
+        },
+        {
+          "word": "house",
+          "count": 106
+        },
+        {
+          "word": "begat",
+          "count": 86
+        },
+        {
+          "word": "brethren",
+          "count": 77
+        },
+        {
+          "word": "thousand",
+          "count": 75
+        },
+        {
+          "word": "children",
+          "count": 66
+        },
+        {
+          "word": "men",
+          "count": 62
+        },
+        {
+          "word": "king",
+          "count": 60
+        },
+        {
+          "word": "father",
+          "count": 55
+        },
+        {
+          "word": "chief",
+          "count": 54
+        },
+        {
+          "word": "fathers",
+          "count": 50
+        },
+        {
+          "word": "name",
+          "count": 44
+        },
+        {
+          "word": "suburbs",
+          "count": 44
+        },
+        {
+          "word": "people",
+          "count": 44
+        },
+        {
+          "word": "hundred",
+          "count": 38
+        }
+      ]
+    },
+    "2 Chronicles": {
+      "total_words": 26069,
+      "total_words_no_stops": 10459,
+      "unique_words": 1883,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 388
+        },
+        {
+          "word": "king",
+          "count": 227
+        },
+        {
+          "word": "house",
+          "count": 203
+        },
+        {
+          "word": "god",
+          "count": 187
+        },
+        {
+          "word": "israel",
+          "count": 187
+        },
+        {
+          "word": "judah",
+          "count": 161
+        },
+        {
+          "word": "jerusalem",
+          "count": 127
+        },
+        {
+          "word": "people",
+          "count": 111
+        },
+        {
+          "word": "son",
+          "count": 104
+        },
+        {
+          "word": "solomon",
+          "count": 83
+        },
+        {
+          "word": "david",
+          "count": 73
+        },
+        {
+          "word": "priests",
+          "count": 71
+        },
+        {
+          "word": "brought",
+          "count": 70
+        },
+        {
+          "word": "fathers",
+          "count": 68
+        },
+        {
+          "word": "kings",
+          "count": 62
+        },
+        {
+          "word": "levites",
+          "count": 62
+        },
+        {
+          "word": "hand",
+          "count": 59
+        },
+        {
+          "word": "thousand",
+          "count": 58
+        },
+        {
+          "word": "hundred",
+          "count": 58
+        },
+        {
+          "word": "father",
+          "count": 54
+        }
+      ]
+    },
+    "Ezra": {
+      "total_words": 7440,
+      "total_words_no_stops": 3126,
+      "unique_words": 952,
+      "top_20": [
+        {
+          "word": "children",
+          "count": 113
+        },
+        {
+          "word": "god",
+          "count": 97
+        },
+        {
+          "word": "house",
+          "count": 65
+        },
+        {
+          "word": "hundred",
+          "count": 60
+        },
+        {
+          "word": "king",
+          "count": 58
+        },
+        {
+          "word": "jerusalem",
+          "count": 48
+        },
+        {
+          "word": "sons",
+          "count": 48
+        },
+        {
+          "word": "son",
+          "count": 44
+        },
+        {
+          "word": "israel",
+          "count": 40
+        },
+        {
+          "word": "lord",
+          "count": 38
+        },
+        {
+          "word": "us",
+          "count": 31
+        },
+        {
+          "word": "people",
+          "count": 28
+        },
+        {
+          "word": "two",
+          "count": 28
+        },
+        {
+          "word": "priests",
+          "count": 26
+        },
+        {
+          "word": "levites",
+          "count": 21
+        },
+        {
+          "word": "three",
+          "count": 21
+        },
+        {
+          "word": "kings",
+          "count": 20
+        },
+        {
+          "word": "men",
+          "count": 19
+        },
+        {
+          "word": "thousand",
+          "count": 19
+        },
+        {
+          "word": "twenty",
+          "count": 19
+        }
+      ]
+    },
+    "Nehemiah": {
+      "total_words": 10480,
+      "total_words_no_stops": 4317,
+      "unique_words": 1324,
+      "top_20": [
+        {
+          "word": "son",
+          "count": 117
+        },
+        {
+          "word": "children",
+          "count": 114
+        },
+        {
+          "word": "god",
+          "count": 74
+        },
+        {
+          "word": "people",
+          "count": 50
+        },
+        {
+          "word": "hundred",
+          "count": 49
+        },
+        {
+          "word": "house",
+          "count": 45
+        },
+        {
+          "word": "levites",
+          "count": 43
+        },
+        {
+          "word": "jerusalem",
+          "count": 38
+        },
+        {
+          "word": "day",
+          "count": 36
+        },
+        {
+          "word": "repaired",
+          "count": 35
+        },
+        {
+          "word": "wall",
+          "count": 34
+        },
+        {
+          "word": "priests",
+          "count": 34
+        },
+        {
+          "word": "two",
+          "count": 33
+        },
+        {
+          "word": "judah",
+          "count": 28
+        },
+        {
+          "word": "great",
+          "count": 28
+        },
+        {
+          "word": "king",
+          "count": 28
+        },
+        {
+          "word": "us",
+          "count": 28
+        },
+        {
+          "word": "gate",
+          "count": 27
+        },
+        {
+          "word": "brethren",
+          "count": 25
+        },
+        {
+          "word": "men",
+          "count": 24
+        }
+      ]
+    },
+    "Esther": {
+      "total_words": 5632,
+      "total_words_no_stops": 2244,
+      "unique_words": 659,
+      "top_20": [
+        {
+          "word": "king",
+          "count": 127
+        },
+        {
+          "word": "kings",
+          "count": 69
+        },
+        {
+          "word": "mordecai",
+          "count": 56
+        },
+        {
+          "word": "esther",
+          "count": 53
+        },
+        {
+          "word": "haman",
+          "count": 50
+        },
+        {
+          "word": "jews",
+          "count": 45
+        },
+        {
+          "word": "day",
+          "count": 36
+        },
+        {
+          "word": "ahasuerus",
+          "count": 29
+        },
+        {
+          "word": "people",
+          "count": 27
+        },
+        {
+          "word": "queen",
+          "count": 27
+        },
+        {
+          "word": "house",
+          "count": 26
+        },
+        {
+          "word": "month",
+          "count": 22
+        },
+        {
+          "word": "according",
+          "count": 21
+        },
+        {
+          "word": "provinces",
+          "count": 20
+        },
+        {
+          "word": "shushan",
+          "count": 19
+        },
+        {
+          "word": "days",
+          "count": 18
+        },
+        {
+          "word": "commandment",
+          "count": 15
+        },
+        {
+          "word": "women",
+          "count": 14
+        },
+        {
+          "word": "palace",
+          "count": 13
+        },
+        {
+          "word": "royal",
+          "count": 13
+        }
+      ]
+    },
+    "Job": {
+      "total_words": 18098,
+      "total_words_no_stops": 6831,
+      "unique_words": 2087,
+      "top_20": [
+        {
+          "word": "god",
+          "count": 114
+        },
+        {
+          "word": "man",
+          "count": 90
+        },
+        {
+          "word": "job",
+          "count": 55
+        },
+        {
+          "word": "earth",
+          "count": 50
+        },
+        {
+          "word": "mine",
+          "count": 50
+        },
+        {
+          "word": "away",
+          "count": 48
+        },
+        {
+          "word": "hand",
+          "count": 45
+        },
+        {
+          "word": "know",
+          "count": 40
+        },
+        {
+          "word": "men",
+          "count": 39
+        },
+        {
+          "word": "words",
+          "count": 39
+        },
+        {
+          "word": "would",
+          "count": 38
+        },
+        {
+          "word": "wicked",
+          "count": 37
+        },
+        {
+          "word": "mouth",
+          "count": 36
+        },
+        {
+          "word": "days",
+          "count": 33
+        },
+        {
+          "word": "lord",
+          "count": 33
+        },
+        {
+          "word": "make",
+          "count": 33
+        },
+        {
+          "word": "answered",
+          "count": 32
+        },
+        {
+          "word": "without",
+          "count": 31
+        },
+        {
+          "word": "light",
+          "count": 31
+        },
+        {
+          "word": "almighty",
+          "count": 31
+        }
+      ]
+    },
+    "Psalms": {
+      "total_words": 42684,
+      "total_words_no_stops": 17266,
+      "unique_words": 2734,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 779
+        },
+        {
+          "word": "god",
+          "count": 439
+        },
+        {
+          "word": "o",
+          "count": 406
+        },
+        {
+          "word": "praise",
+          "count": 158
+        },
+        {
+          "word": "ever",
+          "count": 146
+        },
+        {
+          "word": "earth",
+          "count": 141
+        },
+        {
+          "word": "mine",
+          "count": 135
+        },
+        {
+          "word": "soul",
+          "count": 132
+        },
+        {
+          "word": "people",
+          "count": 130
+        },
+        {
+          "word": "heart",
+          "count": 123
+        },
+        {
+          "word": "us",
+          "count": 117
+        },
+        {
+          "word": "mercy",
+          "count": 100
+        },
+        {
+          "word": "name",
+          "count": 100
+        },
+        {
+          "word": "man",
+          "count": 99
+        },
+        {
+          "word": "hand",
+          "count": 97
+        },
+        {
+          "word": "wicked",
+          "count": 90
+        },
+        {
+          "word": "into",
+          "count": 86
+        },
+        {
+          "word": "enemies",
+          "count": 80
+        },
+        {
+          "word": "strength",
+          "count": 74
+        },
+        {
+          "word": "give",
+          "count": 72
+        }
+      ]
+    },
+    "Proverbs": {
+      "total_words": 15038,
+      "total_words_no_stops": 6302,
+      "unique_words": 1700,
+      "top_20": [
+        {
+          "word": "man",
+          "count": 157
+        },
+        {
+          "word": "wicked",
+          "count": 89
+        },
+        {
+          "word": "lord",
+          "count": 86
+        },
+        {
+          "word": "heart",
+          "count": 81
+        },
+        {
+          "word": "wise",
+          "count": 66
+        },
+        {
+          "word": "way",
+          "count": 57
+        },
+        {
+          "word": "wisdom",
+          "count": 54
+        },
+        {
+          "word": "understanding",
+          "count": 54
+        },
+        {
+          "word": "righteous",
+          "count": 54
+        },
+        {
+          "word": "mouth",
+          "count": 51
+        },
+        {
+          "word": "evil",
+          "count": 50
+        },
+        {
+          "word": "son",
+          "count": 44
+        },
+        {
+          "word": "good",
+          "count": 43
+        },
+        {
+          "word": "knowledge",
+          "count": 42
+        },
+        {
+          "word": "lips",
+          "count": 42
+        },
+        {
+          "word": "words",
+          "count": 40
+        },
+        {
+          "word": "life",
+          "count": 38
+        },
+        {
+          "word": "soul",
+          "count": 38
+        },
+        {
+          "word": "poor",
+          "count": 38
+        },
+        {
+          "word": "fool",
+          "count": 37
+        }
+      ]
+    },
+    "Ecclesiastes": {
+      "total_words": 5579,
+      "total_words_no_stops": 2057,
+      "unique_words": 757,
+      "top_20": [
+        {
+          "word": "man",
+          "count": 54
+        },
+        {
+          "word": "god",
+          "count": 41
+        },
+        {
+          "word": "heart",
+          "count": 40
+        },
+        {
+          "word": "time",
+          "count": 39
+        },
+        {
+          "word": "sun",
+          "count": 35
+        },
+        {
+          "word": "vanity",
+          "count": 33
+        },
+        {
+          "word": "wisdom",
+          "count": 28
+        },
+        {
+          "word": "good",
+          "count": 25
+        },
+        {
+          "word": "wise",
+          "count": 25
+        },
+        {
+          "word": "labour",
+          "count": 23
+        },
+        {
+          "word": "better",
+          "count": 23
+        },
+        {
+          "word": "evil",
+          "count": 22
+        },
+        {
+          "word": "men",
+          "count": 20
+        },
+        {
+          "word": "days",
+          "count": 20
+        },
+        {
+          "word": "spirit",
+          "count": 19
+        },
+        {
+          "word": "work",
+          "count": 15
+        },
+        {
+          "word": "done",
+          "count": 14
+        },
+        {
+          "word": "words",
+          "count": 13
+        },
+        {
+          "word": "seen",
+          "count": 13
+        },
+        {
+          "word": "great",
+          "count": 13
+        }
+      ]
+    },
+    "Song of Solomon": {
+      "total_words": 2658,
+      "total_words_no_stops": 1097,
+      "unique_words": 543,
+      "top_20": [
+        {
+          "word": "beloved",
+          "count": 31
+        },
+        {
+          "word": "love",
+          "count": 26
+        },
+        {
+          "word": "o",
+          "count": 24
+        },
+        {
+          "word": "among",
+          "count": 13
+        },
+        {
+          "word": "fair",
+          "count": 11
+        },
+        {
+          "word": "daughters",
+          "count": 10
+        },
+        {
+          "word": "into",
+          "count": 9
+        },
+        {
+          "word": "jerusalem",
+          "count": 8
+        },
+        {
+          "word": "go",
+          "count": 8
+        },
+        {
+          "word": "myrrh",
+          "count": 8
+        },
+        {
+          "word": "breasts",
+          "count": 8
+        },
+        {
+          "word": "eyes",
+          "count": 8
+        },
+        {
+          "word": "soul",
+          "count": 7
+        },
+        {
+          "word": "smell",
+          "count": 7
+        },
+        {
+          "word": "would",
+          "count": 7
+        },
+        {
+          "word": "lebanon",
+          "count": 7
+        },
+        {
+          "word": "sister",
+          "count": 7
+        },
+        {
+          "word": "wine",
+          "count": 6
+        },
+        {
+          "word": "flock",
+          "count": 6
+        },
+        {
+          "word": "gold",
+          "count": 6
+        }
+      ]
+    },
+    "Isaiah": {
+      "total_words": 37038,
+      "total_words_no_stops": 13790,
+      "unique_words": 2949,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 476
+        },
+        {
+          "word": "people",
+          "count": 138
+        },
+        {
+          "word": "god",
+          "count": 136
+        },
+        {
+          "word": "earth",
+          "count": 102
+        },
+        {
+          "word": "day",
+          "count": 98
+        },
+        {
+          "word": "israel",
+          "count": 92
+        },
+        {
+          "word": "make",
+          "count": 85
+        },
+        {
+          "word": "o",
+          "count": 84
+        },
+        {
+          "word": "hand",
+          "count": 82
+        },
+        {
+          "word": "land",
+          "count": 81
+        },
+        {
+          "word": "man",
+          "count": 68
+        },
+        {
+          "word": "away",
+          "count": 67
+        },
+        {
+          "word": "go",
+          "count": 65
+        },
+        {
+          "word": "into",
+          "count": 65
+        },
+        {
+          "word": "hosts",
+          "count": 62
+        },
+        {
+          "word": "house",
+          "count": 60
+        },
+        {
+          "word": "king",
+          "count": 60
+        },
+        {
+          "word": "us",
+          "count": 58
+        },
+        {
+          "word": "holy",
+          "count": 56
+        },
+        {
+          "word": "bring",
+          "count": 55
+        }
+      ]
+    },
+    "Jeremiah": {
+      "total_words": 42654,
+      "total_words_no_stops": 15609,
+      "unique_words": 2451,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 713
+        },
+        {
+          "word": "king",
+          "count": 218
+        },
+        {
+          "word": "land",
+          "count": 202
+        },
+        {
+          "word": "judah",
+          "count": 181
+        },
+        {
+          "word": "people",
+          "count": 168
+        },
+        {
+          "word": "babylon",
+          "count": 161
+        },
+        {
+          "word": "into",
+          "count": 152
+        },
+        {
+          "word": "son",
+          "count": 147
+        },
+        {
+          "word": "jeremiah",
+          "count": 130
+        },
+        {
+          "word": "god",
+          "count": 129
+        },
+        {
+          "word": "israel",
+          "count": 126
+        },
+        {
+          "word": "house",
+          "count": 117
+        },
+        {
+          "word": "man",
+          "count": 110
+        },
+        {
+          "word": "jerusalem",
+          "count": 108
+        },
+        {
+          "word": "go",
+          "count": 108
+        },
+        {
+          "word": "men",
+          "count": 103
+        },
+        {
+          "word": "evil",
+          "count": 99
+        },
+        {
+          "word": "word",
+          "count": 98
+        },
+        {
+          "word": "o",
+          "count": 92
+        },
+        {
+          "word": "hand",
+          "count": 88
+        }
+      ]
+    },
+    "Lamentations": {
+      "total_words": 3411,
+      "total_words_no_stops": 1368,
+      "unique_words": 685,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 44
+        },
+        {
+          "word": "daughter",
+          "count": 20
+        },
+        {
+          "word": "us",
+          "count": 20
+        },
+        {
+          "word": "o",
+          "count": 18
+        },
+        {
+          "word": "into",
+          "count": 17
+        },
+        {
+          "word": "zion",
+          "count": 15
+        },
+        {
+          "word": "day",
+          "count": 14
+        },
+        {
+          "word": "mine",
+          "count": 14
+        },
+        {
+          "word": "people",
+          "count": 11
+        },
+        {
+          "word": "enemy",
+          "count": 11
+        },
+        {
+          "word": "hand",
+          "count": 11
+        },
+        {
+          "word": "anger",
+          "count": 11
+        },
+        {
+          "word": "men",
+          "count": 10
+        },
+        {
+          "word": "children",
+          "count": 9
+        },
+        {
+          "word": "hands",
+          "count": 9
+        },
+        {
+          "word": "young",
+          "count": 9
+        },
+        {
+          "word": "heart",
+          "count": 9
+        },
+        {
+          "word": "become",
+          "count": 8
+        },
+        {
+          "word": "among",
+          "count": 8
+        },
+        {
+          "word": "seen",
+          "count": 8
+        }
+      ]
+    },
+    "Ezekiel": {
+      "total_words": 39401,
+      "total_words_no_stops": 14153,
+      "unique_words": 2165,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 434
+        },
+        {
+          "word": "god",
+          "count": 257
+        },
+        {
+          "word": "israel",
+          "count": 186
+        },
+        {
+          "word": "house",
+          "count": 163
+        },
+        {
+          "word": "land",
+          "count": 153
+        },
+        {
+          "word": "man",
+          "count": 153
+        },
+        {
+          "word": "side",
+          "count": 135
+        },
+        {
+          "word": "into",
+          "count": 117
+        },
+        {
+          "word": "son",
+          "count": 108
+        },
+        {
+          "word": "people",
+          "count": 97
+        },
+        {
+          "word": "hand",
+          "count": 96
+        },
+        {
+          "word": "midst",
+          "count": 94
+        },
+        {
+          "word": "day",
+          "count": 86
+        },
+        {
+          "word": "gate",
+          "count": 86
+        },
+        {
+          "word": "know",
+          "count": 84
+        },
+        {
+          "word": "sword",
+          "count": 82
+        },
+        {
+          "word": "toward",
+          "count": 80
+        },
+        {
+          "word": "cubits",
+          "count": 77
+        },
+        {
+          "word": "among",
+          "count": 73
+        },
+        {
+          "word": "set",
+          "count": 73
+        }
+      ]
+    },
+    "Daniel": {
+      "total_words": 11603,
+      "total_words_no_stops": 4549,
+      "unique_words": 1136,
+      "top_20": [
+        {
+          "word": "king",
+          "count": 154
+        },
+        {
+          "word": "daniel",
+          "count": 75
+        },
+        {
+          "word": "god",
+          "count": 66
+        },
+        {
+          "word": "kingdom",
+          "count": 56
+        },
+        {
+          "word": "o",
+          "count": 49
+        },
+        {
+          "word": "great",
+          "count": 41
+        },
+        {
+          "word": "men",
+          "count": 41
+        },
+        {
+          "word": "kings",
+          "count": 34
+        },
+        {
+          "word": "nebuchadnezzar",
+          "count": 32
+        },
+        {
+          "word": "heaven",
+          "count": 32
+        },
+        {
+          "word": "time",
+          "count": 31
+        },
+        {
+          "word": "interpretation",
+          "count": 30
+        },
+        {
+          "word": "lord",
+          "count": 29
+        },
+        {
+          "word": "into",
+          "count": 29
+        },
+        {
+          "word": "make",
+          "count": 28
+        },
+        {
+          "word": "set",
+          "count": 28
+        },
+        {
+          "word": "end",
+          "count": 27
+        },
+        {
+          "word": "people",
+          "count": 27
+        },
+        {
+          "word": "stand",
+          "count": 25
+        },
+        {
+          "word": "days",
+          "count": 25
+        }
+      ]
+    },
+    "Hosea": {
+      "total_words": 5174,
+      "total_words_no_stops": 1906,
+      "unique_words": 835,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 46
+        },
+        {
+          "word": "israel",
+          "count": 44
+        },
+        {
+          "word": "ephraim",
+          "count": 37
+        },
+        {
+          "word": "god",
+          "count": 30
+        },
+        {
+          "word": "children",
+          "count": 18
+        },
+        {
+          "word": "king",
+          "count": 17
+        },
+        {
+          "word": "people",
+          "count": 17
+        },
+        {
+          "word": "judah",
+          "count": 15
+        },
+        {
+          "word": "land",
+          "count": 15
+        },
+        {
+          "word": "away",
+          "count": 15
+        },
+        {
+          "word": "return",
+          "count": 15
+        },
+        {
+          "word": "o",
+          "count": 15
+        },
+        {
+          "word": "days",
+          "count": 14
+        },
+        {
+          "word": "house",
+          "count": 14
+        },
+        {
+          "word": "day",
+          "count": 14
+        },
+        {
+          "word": "iniquity",
+          "count": 14
+        },
+        {
+          "word": "egypt",
+          "count": 13
+        },
+        {
+          "word": "us",
+          "count": 12
+        },
+        {
+          "word": "go",
+          "count": 11
+        },
+        {
+          "word": "make",
+          "count": 11
+        }
+      ]
+    },
+    "Joel": {
+      "total_words": 2033,
+      "total_words_no_stops": 804,
+      "unique_words": 426,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 32
+        },
+        {
+          "word": "people",
+          "count": 14
+        },
+        {
+          "word": "land",
+          "count": 11
+        },
+        {
+          "word": "children",
+          "count": 11
+        },
+        {
+          "word": "god",
+          "count": 11
+        },
+        {
+          "word": "great",
+          "count": 10
+        },
+        {
+          "word": "into",
+          "count": 9
+        },
+        {
+          "word": "day",
+          "count": 9
+        },
+        {
+          "word": "men",
+          "count": 8
+        },
+        {
+          "word": "wine",
+          "count": 7
+        },
+        {
+          "word": "tree",
+          "count": 7
+        },
+        {
+          "word": "o",
+          "count": 7
+        },
+        {
+          "word": "zion",
+          "count": 7
+        },
+        {
+          "word": "offering",
+          "count": 6
+        },
+        {
+          "word": "field",
+          "count": 6
+        },
+        {
+          "word": "gather",
+          "count": 6
+        },
+        {
+          "word": "jerusalem",
+          "count": 6
+        },
+        {
+          "word": "judah",
+          "count": 6
+        },
+        {
+          "word": "strong",
+          "count": 5
+        },
+        {
+          "word": "house",
+          "count": 5
+        }
+      ]
+    },
+    "Amos": {
+      "total_words": 4216,
+      "total_words_no_stops": 1598,
+      "unique_words": 711,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 85
+        },
+        {
+          "word": "god",
+          "count": 35
+        },
+        {
+          "word": "israel",
+          "count": 30
+        },
+        {
+          "word": "house",
+          "count": 24
+        },
+        {
+          "word": "land",
+          "count": 20
+        },
+        {
+          "word": "into",
+          "count": 18
+        },
+        {
+          "word": "away",
+          "count": 17
+        },
+        {
+          "word": "go",
+          "count": 15
+        },
+        {
+          "word": "day",
+          "count": 15
+        },
+        {
+          "word": "o",
+          "count": 14
+        },
+        {
+          "word": "turn",
+          "count": 13
+        },
+        {
+          "word": "palaces",
+          "count": 12
+        },
+        {
+          "word": "earth",
+          "count": 12
+        },
+        {
+          "word": "three",
+          "count": 11
+        },
+        {
+          "word": "transgressions",
+          "count": 10
+        },
+        {
+          "word": "fire",
+          "count": 9
+        },
+        {
+          "word": "captivity",
+          "count": 9
+        },
+        {
+          "word": "take",
+          "count": 9
+        },
+        {
+          "word": "hosts",
+          "count": 9
+        },
+        {
+          "word": "four",
+          "count": 8
+        }
+      ]
+    },
+    "Obadiah": {
+      "total_words": 669,
+      "total_words_no_stops": 242,
+      "unique_words": 162,
+      "top_20": [
+        {
+          "word": "day",
+          "count": 12
+        },
+        {
+          "word": "esau",
+          "count": 7
+        },
+        {
+          "word": "shouldest",
+          "count": 7
+        },
+        {
+          "word": "lord",
+          "count": 6
+        },
+        {
+          "word": "mount",
+          "count": 6
+        },
+        {
+          "word": "possess",
+          "count": 6
+        },
+        {
+          "word": "house",
+          "count": 5
+        },
+        {
+          "word": "heathen",
+          "count": 4
+        },
+        {
+          "word": "cut",
+          "count": 4
+        },
+        {
+          "word": "men",
+          "count": 4
+        },
+        {
+          "word": "among",
+          "count": 3
+        },
+        {
+          "word": "though",
+          "count": 3
+        },
+        {
+          "word": "jacob",
+          "count": 3
+        },
+        {
+          "word": "calamity",
+          "count": 3
+        },
+        {
+          "word": "edom",
+          "count": 2
+        },
+        {
+          "word": "heart",
+          "count": 2
+        },
+        {
+          "word": "deceived",
+          "count": 2
+        },
+        {
+          "word": "bring",
+          "count": 2
+        },
+        {
+          "word": "would",
+          "count": 2
+        },
+        {
+          "word": "laid",
+          "count": 2
+        }
+      ]
+    },
+    "Jonah": {
+      "total_words": 1320,
+      "total_words_no_stops": 500,
+      "unique_words": 263,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 26
+        },
+        {
+          "word": "jonah",
+          "count": 18
+        },
+        {
+          "word": "god",
+          "count": 16
+        },
+        {
+          "word": "sea",
+          "count": 11
+        },
+        {
+          "word": "nineveh",
+          "count": 9
+        },
+        {
+          "word": "into",
+          "count": 9
+        },
+        {
+          "word": "great",
+          "count": 8
+        },
+        {
+          "word": "city",
+          "count": 8
+        },
+        {
+          "word": "us",
+          "count": 8
+        },
+        {
+          "word": "cast",
+          "count": 7
+        },
+        {
+          "word": "o",
+          "count": 6
+        },
+        {
+          "word": "evil",
+          "count": 6
+        },
+        {
+          "word": "cried",
+          "count": 5
+        },
+        {
+          "word": "gourd",
+          "count": 5
+        },
+        {
+          "word": "word",
+          "count": 4
+        },
+        {
+          "word": "arise",
+          "count": 4
+        },
+        {
+          "word": "tarshish",
+          "count": 4
+        },
+        {
+          "word": "ship",
+          "count": 4
+        },
+        {
+          "word": "men",
+          "count": 4
+        },
+        {
+          "word": "prepared",
+          "count": 4
+        }
+      ]
+    },
+    "Micah": {
+      "total_words": 3152,
+      "total_words_no_stops": 1153,
+      "unique_words": 618,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 40
+        },
+        {
+          "word": "people",
+          "count": 19
+        },
+        {
+          "word": "o",
+          "count": 15
+        },
+        {
+          "word": "house",
+          "count": 14
+        },
+        {
+          "word": "god",
+          "count": 13
+        },
+        {
+          "word": "israel",
+          "count": 12
+        },
+        {
+          "word": "jacob",
+          "count": 11
+        },
+        {
+          "word": "make",
+          "count": 11
+        },
+        {
+          "word": "man",
+          "count": 11
+        },
+        {
+          "word": "hear",
+          "count": 9
+        },
+        {
+          "word": "into",
+          "count": 9
+        },
+        {
+          "word": "zion",
+          "count": 9
+        },
+        {
+          "word": "jerusalem",
+          "count": 8
+        },
+        {
+          "word": "go",
+          "count": 8
+        },
+        {
+          "word": "daughter",
+          "count": 8
+        },
+        {
+          "word": "day",
+          "count": 8
+        },
+        {
+          "word": "midst",
+          "count": 8
+        },
+        {
+          "word": "land",
+          "count": 8
+        },
+        {
+          "word": "earth",
+          "count": 7
+        },
+        {
+          "word": "evil",
+          "count": 7
+        }
+      ]
+    },
+    "Nahum": {
+      "total_words": 1284,
+      "total_words_no_stops": 521,
+      "unique_words": 376,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 13
+        },
+        {
+          "word": "make",
+          "count": 9
+        },
+        {
+          "word": "away",
+          "count": 6
+        },
+        {
+          "word": "strong",
+          "count": 5
+        },
+        {
+          "word": "cut",
+          "count": 5
+        },
+        {
+          "word": "great",
+          "count": 4
+        },
+        {
+          "word": "end",
+          "count": 4
+        },
+        {
+          "word": "men",
+          "count": 4
+        },
+        {
+          "word": "chariots",
+          "count": 4
+        },
+        {
+          "word": "none",
+          "count": 4
+        },
+        {
+          "word": "lions",
+          "count": 4
+        },
+        {
+          "word": "nineveh",
+          "count": 3
+        },
+        {
+          "word": "take",
+          "count": 3
+        },
+        {
+          "word": "enemies",
+          "count": 3
+        },
+        {
+          "word": "wicked",
+          "count": 3
+        },
+        {
+          "word": "sea",
+          "count": 3
+        },
+        {
+          "word": "rivers",
+          "count": 3
+        },
+        {
+          "word": "mountains",
+          "count": 3
+        },
+        {
+          "word": "stand",
+          "count": 3
+        },
+        {
+          "word": "fire",
+          "count": 3
+        }
+      ]
+    },
+    "Habakkuk": {
+      "total_words": 1475,
+      "total_words_no_stops": 568,
+      "unique_words": 400,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 12
+        },
+        {
+          "word": "people",
+          "count": 7
+        },
+        {
+          "word": "o",
+          "count": 6
+        },
+        {
+          "word": "violence",
+          "count": 6
+        },
+        {
+          "word": "god",
+          "count": 6
+        },
+        {
+          "word": "didst",
+          "count": 6
+        },
+        {
+          "word": "land",
+          "count": 5
+        },
+        {
+          "word": "make",
+          "count": 5
+        },
+        {
+          "word": "woe",
+          "count": 5
+        },
+        {
+          "word": "earth",
+          "count": 5
+        },
+        {
+          "word": "judgment",
+          "count": 4
+        },
+        {
+          "word": "work",
+          "count": 4
+        },
+        {
+          "word": "sea",
+          "count": 4
+        },
+        {
+          "word": "nations",
+          "count": 4
+        },
+        {
+          "word": "glory",
+          "count": 4
+        },
+        {
+          "word": "salvation",
+          "count": 4
+        },
+        {
+          "word": "cry",
+          "count": 3
+        },
+        {
+          "word": "iniquity",
+          "count": 3
+        },
+        {
+          "word": "wicked",
+          "count": 3
+        },
+        {
+          "word": "horses",
+          "count": 3
+        }
+      ]
+    },
+    "Zephaniah": {
+      "total_words": 1616,
+      "total_words_no_stops": 605,
+      "unique_words": 362,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 30
+        },
+        {
+          "word": "day",
+          "count": 21
+        },
+        {
+          "word": "people",
+          "count": 8
+        },
+        {
+          "word": "desolation",
+          "count": 7
+        },
+        {
+          "word": "land",
+          "count": 6
+        },
+        {
+          "word": "cut",
+          "count": 6
+        },
+        {
+          "word": "gather",
+          "count": 6
+        },
+        {
+          "word": "midst",
+          "count": 6
+        },
+        {
+          "word": "son",
+          "count": 5
+        },
+        {
+          "word": "god",
+          "count": 5
+        },
+        {
+          "word": "bring",
+          "count": 5
+        },
+        {
+          "word": "o",
+          "count": 5
+        },
+        {
+          "word": "man",
+          "count": 4
+        },
+        {
+          "word": "hand",
+          "count": 4
+        },
+        {
+          "word": "jerusalem",
+          "count": 4
+        },
+        {
+          "word": "remnant",
+          "count": 4
+        },
+        {
+          "word": "name",
+          "count": 4
+        },
+        {
+          "word": "pass",
+          "count": 4
+        },
+        {
+          "word": "lords",
+          "count": 4
+        },
+        {
+          "word": "houses",
+          "count": 4
+        }
+      ]
+    },
+    "Haggai": {
+      "total_words": 1130,
+      "total_words_no_stops": 422,
+      "unique_words": 200,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 31
+        },
+        {
+          "word": "hosts",
+          "count": 14
+        },
+        {
+          "word": "day",
+          "count": 11
+        },
+        {
+          "word": "son",
+          "count": 10
+        },
+        {
+          "word": "haggai",
+          "count": 9
+        },
+        {
+          "word": "house",
+          "count": 9
+        },
+        {
+          "word": "month",
+          "count": 8
+        },
+        {
+          "word": "people",
+          "count": 8
+        },
+        {
+          "word": "zerubbabel",
+          "count": 7
+        },
+        {
+          "word": "word",
+          "count": 6
+        },
+        {
+          "word": "prophet",
+          "count": 5
+        },
+        {
+          "word": "shealtiel",
+          "count": 5
+        },
+        {
+          "word": "joshua",
+          "count": 5
+        },
+        {
+          "word": "josedech",
+          "count": 5
+        },
+        {
+          "word": "high",
+          "count": 5
+        },
+        {
+          "word": "priest",
+          "count": 5
+        },
+        {
+          "word": "consider",
+          "count": 5
+        },
+        {
+          "word": "twentieth",
+          "count": 5
+        },
+        {
+          "word": "governor",
+          "count": 4
+        },
+        {
+          "word": "judah",
+          "count": 4
+        }
+      ]
+    },
+    "Zechariah": {
+      "total_words": 6443,
+      "total_words_no_stops": 2270,
+      "unique_words": 811,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 140
+        },
+        {
+          "word": "hosts",
+          "count": 53
+        },
+        {
+          "word": "jerusalem",
+          "count": 41
+        },
+        {
+          "word": "day",
+          "count": 32
+        },
+        {
+          "word": "house",
+          "count": 31
+        },
+        {
+          "word": "judah",
+          "count": 22
+        },
+        {
+          "word": "angel",
+          "count": 20
+        },
+        {
+          "word": "land",
+          "count": 20
+        },
+        {
+          "word": "people",
+          "count": 20
+        },
+        {
+          "word": "man",
+          "count": 19
+        },
+        {
+          "word": "pass",
+          "count": 19
+        },
+        {
+          "word": "go",
+          "count": 18
+        },
+        {
+          "word": "o",
+          "count": 17
+        },
+        {
+          "word": "earth",
+          "count": 17
+        },
+        {
+          "word": "answered",
+          "count": 15
+        },
+        {
+          "word": "cut",
+          "count": 15
+        },
+        {
+          "word": "eyes",
+          "count": 14
+        },
+        {
+          "word": "word",
+          "count": 13
+        },
+        {
+          "word": "mine",
+          "count": 13
+        },
+        {
+          "word": "hand",
+          "count": 13
+        }
+      ]
+    },
+    "Malachi": {
+      "total_words": 1789,
+      "total_words_no_stops": 619,
+      "unique_words": 352,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 49
+        },
+        {
+          "word": "hosts",
+          "count": 24
+        },
+        {
+          "word": "name",
+          "count": 10
+        },
+        {
+          "word": "god",
+          "count": 9
+        },
+        {
+          "word": "offering",
+          "count": 7
+        },
+        {
+          "word": "mine",
+          "count": 6
+        },
+        {
+          "word": "covenant",
+          "count": 6
+        },
+        {
+          "word": "day",
+          "count": 6
+        },
+        {
+          "word": "israel",
+          "count": 5
+        },
+        {
+          "word": "return",
+          "count": 5
+        },
+        {
+          "word": "offer",
+          "count": 5
+        },
+        {
+          "word": "law",
+          "count": 5
+        },
+        {
+          "word": "treacherously",
+          "count": 5
+        },
+        {
+          "word": "loved",
+          "count": 4
+        },
+        {
+          "word": "fear",
+          "count": 4
+        },
+        {
+          "word": "among",
+          "count": 4
+        },
+        {
+          "word": "great",
+          "count": 4
+        },
+        {
+          "word": "heart",
+          "count": 4
+        },
+        {
+          "word": "curse",
+          "count": 4
+        },
+        {
+          "word": "away",
+          "count": 4
+        }
+      ]
+    },
+    "Matthew": {
+      "total_words": 23684,
+      "total_words_no_stops": 8551,
+      "unique_words": 1964,
+      "top_20": [
+        {
+          "word": "jesus",
+          "count": 172
+        },
+        {
+          "word": "into",
+          "count": 138
+        },
+        {
+          "word": "man",
+          "count": 125
+        },
+        {
+          "word": "son",
+          "count": 78
+        },
+        {
+          "word": "lord",
+          "count": 76
+        },
+        {
+          "word": "heaven",
+          "count": 76
+        },
+        {
+          "word": "disciples",
+          "count": 71
+        },
+        {
+          "word": "father",
+          "count": 60
+        },
+        {
+          "word": "men",
+          "count": 56
+        },
+        {
+          "word": "kingdom",
+          "count": 56
+        },
+        {
+          "word": "god",
+          "count": 55
+        },
+        {
+          "word": "go",
+          "count": 52
+        },
+        {
+          "word": "cast",
+          "count": 48
+        },
+        {
+          "word": "answered",
+          "count": 48
+        },
+        {
+          "word": "took",
+          "count": 45
+        },
+        {
+          "word": "away",
+          "count": 43
+        },
+        {
+          "word": "saw",
+          "count": 42
+        },
+        {
+          "word": "good",
+          "count": 42
+        },
+        {
+          "word": "begat",
+          "count": 39
+        },
+        {
+          "word": "many",
+          "count": 39
+        }
+      ]
+    },
+    "Mark": {
+      "total_words": 15166,
+      "total_words_no_stops": 5372,
+      "unique_words": 1527,
+      "top_20": [
+        {
+          "word": "jesus",
+          "count": 97
+        },
+        {
+          "word": "into",
+          "count": 96
+        },
+        {
+          "word": "man",
+          "count": 88
+        },
+        {
+          "word": "god",
+          "count": 51
+        },
+        {
+          "word": "disciples",
+          "count": 46
+        },
+        {
+          "word": "many",
+          "count": 43
+        },
+        {
+          "word": "son",
+          "count": 38
+        },
+        {
+          "word": "away",
+          "count": 33
+        },
+        {
+          "word": "saw",
+          "count": 32
+        },
+        {
+          "word": "house",
+          "count": 30
+        },
+        {
+          "word": "answered",
+          "count": 30
+        },
+        {
+          "word": "cast",
+          "count": 28
+        },
+        {
+          "word": "any",
+          "count": 28
+        },
+        {
+          "word": "took",
+          "count": 27
+        },
+        {
+          "word": "go",
+          "count": 27
+        },
+        {
+          "word": "john",
+          "count": 26
+        },
+        {
+          "word": "eat",
+          "count": 26
+        },
+        {
+          "word": "began",
+          "count": 26
+        },
+        {
+          "word": "take",
+          "count": 26
+        },
+        {
+          "word": "heard",
+          "count": 25
+        }
+      ]
+    },
+    "Luke": {
+      "total_words": 25939,
+      "total_words_no_stops": 9040,
+      "unique_words": 2227,
+      "top_20": [
+        {
+          "word": "son",
+          "count": 145
+        },
+        {
+          "word": "man",
+          "count": 131
+        },
+        {
+          "word": "god",
+          "count": 124
+        },
+        {
+          "word": "into",
+          "count": 109
+        },
+        {
+          "word": "lord",
+          "count": 103
+        },
+        {
+          "word": "jesus",
+          "count": 100
+        },
+        {
+          "word": "day",
+          "count": 63
+        },
+        {
+          "word": "pass",
+          "count": 58
+        },
+        {
+          "word": "people",
+          "count": 58
+        },
+        {
+          "word": "house",
+          "count": 58
+        },
+        {
+          "word": "us",
+          "count": 53
+        },
+        {
+          "word": "go",
+          "count": 49
+        },
+        {
+          "word": "men",
+          "count": 46
+        },
+        {
+          "word": "kingdom",
+          "count": 45
+        },
+        {
+          "word": "certain",
+          "count": 43
+        },
+        {
+          "word": "give",
+          "count": 43
+        },
+        {
+          "word": "father",
+          "count": 43
+        },
+        {
+          "word": "days",
+          "count": 38
+        },
+        {
+          "word": "great",
+          "count": 38
+        },
+        {
+          "word": "see",
+          "count": 38
+        }
+      ]
+    },
+    "John": {
+      "total_words": 19095,
+      "total_words_no_stops": 6339,
+      "unique_words": 1236,
+      "top_20": [
+        {
+          "word": "jesus",
+          "count": 256
+        },
+        {
+          "word": "father",
+          "count": 126
+        },
+        {
+          "word": "man",
+          "count": 125
+        },
+        {
+          "word": "god",
+          "count": 82
+        },
+        {
+          "word": "world",
+          "count": 80
+        },
+        {
+          "word": "answered",
+          "count": 77
+        },
+        {
+          "word": "know",
+          "count": 71
+        },
+        {
+          "word": "jews",
+          "count": 68
+        },
+        {
+          "word": "into",
+          "count": 66
+        },
+        {
+          "word": "disciples",
+          "count": 66
+        },
+        {
+          "word": "son",
+          "count": 63
+        },
+        {
+          "word": "sent",
+          "count": 57
+        },
+        {
+          "word": "believe",
+          "count": 52
+        },
+        {
+          "word": "go",
+          "count": 49
+        },
+        {
+          "word": "lord",
+          "count": 46
+        },
+        {
+          "word": "life",
+          "count": 44
+        },
+        {
+          "word": "cometh",
+          "count": 41
+        },
+        {
+          "word": "day",
+          "count": 40
+        },
+        {
+          "word": "see",
+          "count": 38
+        },
+        {
+          "word": "might",
+          "count": 37
+        }
+      ]
+    },
+    "Acts": {
+      "total_words": 24246,
+      "total_words_no_stops": 9323,
+      "unique_words": 2127,
+      "top_20": [
+        {
+          "word": "god",
+          "count": 174
+        },
+        {
+          "word": "paul",
+          "count": 126
+        },
+        {
+          "word": "lord",
+          "count": 110
+        },
+        {
+          "word": "into",
+          "count": 103
+        },
+        {
+          "word": "men",
+          "count": 95
+        },
+        {
+          "word": "man",
+          "count": 90
+        },
+        {
+          "word": "jews",
+          "count": 71
+        },
+        {
+          "word": "us",
+          "count": 69
+        },
+        {
+          "word": "people",
+          "count": 69
+        },
+        {
+          "word": "jesus",
+          "count": 68
+        },
+        {
+          "word": "jerusalem",
+          "count": 60
+        },
+        {
+          "word": "day",
+          "count": 59
+        },
+        {
+          "word": "certain",
+          "count": 58
+        },
+        {
+          "word": "peter",
+          "count": 57
+        },
+        {
+          "word": "heard",
+          "count": 54
+        },
+        {
+          "word": "brethren",
+          "count": 53
+        },
+        {
+          "word": "brought",
+          "count": 53
+        },
+        {
+          "word": "holy",
+          "count": 52
+        },
+        {
+          "word": "days",
+          "count": 52
+        },
+        {
+          "word": "many",
+          "count": 49
+        }
+      ]
+    },
+    "Romans": {
+      "total_words": 9422,
+      "total_words_no_stops": 3478,
+      "unique_words": 1176,
+      "top_20": [
+        {
+          "word": "god",
+          "count": 163
+        },
+        {
+          "word": "law",
+          "count": 78
+        },
+        {
+          "word": "christ",
+          "count": 67
+        },
+        {
+          "word": "sin",
+          "count": 45
+        },
+        {
+          "word": "lord",
+          "count": 44
+        },
+        {
+          "word": "faith",
+          "count": 39
+        },
+        {
+          "word": "righteousness",
+          "count": 39
+        },
+        {
+          "word": "jesus",
+          "count": 38
+        },
+        {
+          "word": "man",
+          "count": 37
+        },
+        {
+          "word": "us",
+          "count": 33
+        },
+        {
+          "word": "spirit",
+          "count": 29
+        },
+        {
+          "word": "might",
+          "count": 27
+        },
+        {
+          "word": "good",
+          "count": 27
+        },
+        {
+          "word": "flesh",
+          "count": 26
+        },
+        {
+          "word": "another",
+          "count": 26
+        },
+        {
+          "word": "dead",
+          "count": 25
+        },
+        {
+          "word": "grace",
+          "count": 24
+        },
+        {
+          "word": "gentiles",
+          "count": 24
+        },
+        {
+          "word": "death",
+          "count": 22
+        },
+        {
+          "word": "written",
+          "count": 21
+        }
+      ]
+    },
+    "1 Corinthians": {
+      "total_words": 9462,
+      "total_words_no_stops": 3311,
+      "unique_words": 1093,
+      "top_20": [
+        {
+          "word": "god",
+          "count": 103
+        },
+        {
+          "word": "man",
+          "count": 78
+        },
+        {
+          "word": "christ",
+          "count": 65
+        },
+        {
+          "word": "lord",
+          "count": 62
+        },
+        {
+          "word": "body",
+          "count": 44
+        },
+        {
+          "word": "any",
+          "count": 36
+        },
+        {
+          "word": "spirit",
+          "count": 35
+        },
+        {
+          "word": "world",
+          "count": 29
+        },
+        {
+          "word": "brethren",
+          "count": 28
+        },
+        {
+          "word": "another",
+          "count": 28
+        },
+        {
+          "word": "jesus",
+          "count": 27
+        },
+        {
+          "word": "know",
+          "count": 27
+        },
+        {
+          "word": "speak",
+          "count": 25
+        },
+        {
+          "word": "men",
+          "count": 23
+        },
+        {
+          "word": "eat",
+          "count": 23
+        },
+        {
+          "word": "power",
+          "count": 21
+        },
+        {
+          "word": "wife",
+          "count": 20
+        },
+        {
+          "word": "woman",
+          "count": 20
+        },
+        {
+          "word": "us",
+          "count": 19
+        },
+        {
+          "word": "wisdom",
+          "count": 18
+        }
+      ]
+    },
+    "2 Corinthians": {
+      "total_words": 6065,
+      "total_words_no_stops": 2161,
+      "unique_words": 901,
+      "top_20": [
+        {
+          "word": "god",
+          "count": 74
+        },
+        {
+          "word": "us",
+          "count": 49
+        },
+        {
+          "word": "christ",
+          "count": 43
+        },
+        {
+          "word": "lord",
+          "count": 30
+        },
+        {
+          "word": "glory",
+          "count": 28
+        },
+        {
+          "word": "man",
+          "count": 24
+        },
+        {
+          "word": "jesus",
+          "count": 20
+        },
+        {
+          "word": "though",
+          "count": 18
+        },
+        {
+          "word": "might",
+          "count": 15
+        },
+        {
+          "word": "spirit",
+          "count": 15
+        },
+        {
+          "word": "any",
+          "count": 14
+        },
+        {
+          "word": "lest",
+          "count": 14
+        },
+        {
+          "word": "grace",
+          "count": 13
+        },
+        {
+          "word": "whether",
+          "count": 12
+        },
+        {
+          "word": "would",
+          "count": 12
+        },
+        {
+          "word": "many",
+          "count": 12
+        },
+        {
+          "word": "according",
+          "count": 11
+        },
+        {
+          "word": "flesh",
+          "count": 11
+        },
+        {
+          "word": "love",
+          "count": 11
+        },
+        {
+          "word": "speak",
+          "count": 11
+        }
+      ]
+    },
+    "Galatians": {
+      "total_words": 3084,
+      "total_words_no_stops": 1111,
+      "unique_words": 517,
+      "top_20": [
+        {
+          "word": "christ",
+          "count": 39
+        },
+        {
+          "word": "god",
+          "count": 33
+        },
+        {
+          "word": "law",
+          "count": 32
+        },
+        {
+          "word": "faith",
+          "count": 22
+        },
+        {
+          "word": "flesh",
+          "count": 18
+        },
+        {
+          "word": "spirit",
+          "count": 18
+        },
+        {
+          "word": "jesus",
+          "count": 17
+        },
+        {
+          "word": "man",
+          "count": 15
+        },
+        {
+          "word": "might",
+          "count": 12
+        },
+        {
+          "word": "us",
+          "count": 12
+        },
+        {
+          "word": "gospel",
+          "count": 12
+        },
+        {
+          "word": "brethren",
+          "count": 11
+        },
+        {
+          "word": "son",
+          "count": 9
+        },
+        {
+          "word": "promise",
+          "count": 9
+        },
+        {
+          "word": "another",
+          "count": 8
+        },
+        {
+          "word": "would",
+          "count": 8
+        },
+        {
+          "word": "many",
+          "count": 8
+        },
+        {
+          "word": "live",
+          "count": 8
+        },
+        {
+          "word": "abraham",
+          "count": 8
+        },
+        {
+          "word": "children",
+          "count": 8
+        }
+      ]
+    },
+    "Ephesians": {
+      "total_words": 3022,
+      "total_words_no_stops": 1159,
+      "unique_words": 539,
+      "top_20": [
+        {
+          "word": "christ",
+          "count": 45
+        },
+        {
+          "word": "god",
+          "count": 33
+        },
+        {
+          "word": "lord",
+          "count": 25
+        },
+        {
+          "word": "jesus",
+          "count": 21
+        },
+        {
+          "word": "us",
+          "count": 16
+        },
+        {
+          "word": "according",
+          "count": 16
+        },
+        {
+          "word": "spirit",
+          "count": 15
+        },
+        {
+          "word": "love",
+          "count": 14
+        },
+        {
+          "word": "might",
+          "count": 13
+        },
+        {
+          "word": "grace",
+          "count": 12
+        },
+        {
+          "word": "man",
+          "count": 12
+        },
+        {
+          "word": "father",
+          "count": 10
+        },
+        {
+          "word": "flesh",
+          "count": 10
+        },
+        {
+          "word": "saints",
+          "count": 9
+        },
+        {
+          "word": "children",
+          "count": 9
+        },
+        {
+          "word": "church",
+          "count": 9
+        },
+        {
+          "word": "body",
+          "count": 9
+        },
+        {
+          "word": "glory",
+          "count": 8
+        },
+        {
+          "word": "faith",
+          "count": 8
+        },
+        {
+          "word": "peace",
+          "count": 7
+        }
+      ]
+    },
+    "Philippians": {
+      "total_words": 2183,
+      "total_words_no_stops": 788,
+      "unique_words": 435,
+      "top_20": [
+        {
+          "word": "christ",
+          "count": 37
+        },
+        {
+          "word": "god",
+          "count": 23
+        },
+        {
+          "word": "jesus",
+          "count": 22
+        },
+        {
+          "word": "lord",
+          "count": 15
+        },
+        {
+          "word": "rejoice",
+          "count": 10
+        },
+        {
+          "word": "gospel",
+          "count": 9
+        },
+        {
+          "word": "any",
+          "count": 9
+        },
+        {
+          "word": "brethren",
+          "count": 8
+        },
+        {
+          "word": "know",
+          "count": 8
+        },
+        {
+          "word": "mind",
+          "count": 7
+        },
+        {
+          "word": "whatsoever",
+          "count": 7
+        },
+        {
+          "word": "joy",
+          "count": 6
+        },
+        {
+          "word": "death",
+          "count": 6
+        },
+        {
+          "word": "day",
+          "count": 5
+        },
+        {
+          "word": "good",
+          "count": 5
+        },
+        {
+          "word": "abound",
+          "count": 5
+        },
+        {
+          "word": "glory",
+          "count": 5
+        },
+        {
+          "word": "flesh",
+          "count": 5
+        },
+        {
+          "word": "faith",
+          "count": 5
+        },
+        {
+          "word": "man",
+          "count": 5
+        }
+      ]
+    },
+    "Colossians": {
+      "total_words": 1979,
+      "total_words_no_stops": 748,
+      "unique_words": 427,
+      "top_20": [
+        {
+          "word": "christ",
+          "count": 26
+        },
+        {
+          "word": "god",
+          "count": 22
+        },
+        {
+          "word": "lord",
+          "count": 13
+        },
+        {
+          "word": "man",
+          "count": 11
+        },
+        {
+          "word": "jesus",
+          "count": 8
+        },
+        {
+          "word": "us",
+          "count": 8
+        },
+        {
+          "word": "flesh",
+          "count": 8
+        },
+        {
+          "word": "body",
+          "count": 7
+        },
+        {
+          "word": "father",
+          "count": 6
+        },
+        {
+          "word": "might",
+          "count": 6
+        },
+        {
+          "word": "wisdom",
+          "count": 6
+        },
+        {
+          "word": "grace",
+          "count": 5
+        },
+        {
+          "word": "heard",
+          "count": 5
+        },
+        {
+          "word": "faith",
+          "count": 5
+        },
+        {
+          "word": "heaven",
+          "count": 5
+        },
+        {
+          "word": "dead",
+          "count": 5
+        },
+        {
+          "word": "any",
+          "count": 5
+        },
+        {
+          "word": "put",
+          "count": 5
+        },
+        {
+          "word": "saints",
+          "count": 4
+        },
+        {
+          "word": "faithful",
+          "count": 4
+        }
+      ]
+    },
+    "1 Thessalonians": {
+      "total_words": 1837,
+      "total_words_no_stops": 701,
+      "unique_words": 353,
+      "top_20": [
+        {
+          "word": "god",
+          "count": 38
+        },
+        {
+          "word": "lord",
+          "count": 25
+        },
+        {
+          "word": "us",
+          "count": 21
+        },
+        {
+          "word": "jesus",
+          "count": 17
+        },
+        {
+          "word": "brethren",
+          "count": 17
+        },
+        {
+          "word": "christ",
+          "count": 14
+        },
+        {
+          "word": "know",
+          "count": 13
+        },
+        {
+          "word": "faith",
+          "count": 8
+        },
+        {
+          "word": "men",
+          "count": 8
+        },
+        {
+          "word": "word",
+          "count": 7
+        },
+        {
+          "word": "father",
+          "count": 6
+        },
+        {
+          "word": "love",
+          "count": 6
+        },
+        {
+          "word": "gospel",
+          "count": 6
+        },
+        {
+          "word": "among",
+          "count": 6
+        },
+        {
+          "word": "night",
+          "count": 6
+        },
+        {
+          "word": "day",
+          "count": 6
+        },
+        {
+          "word": "toward",
+          "count": 6
+        },
+        {
+          "word": "holy",
+          "count": 5
+        },
+        {
+          "word": "joy",
+          "count": 5
+        },
+        {
+          "word": "any",
+          "count": 5
+        }
+      ]
+    },
+    "2 Thessalonians": {
+      "total_words": 1022,
+      "total_words_no_stops": 389,
+      "unique_words": 220,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 21
+        },
+        {
+          "word": "god",
+          "count": 19
+        },
+        {
+          "word": "christ",
+          "count": 13
+        },
+        {
+          "word": "jesus",
+          "count": 12
+        },
+        {
+          "word": "us",
+          "count": 8
+        },
+        {
+          "word": "brethren",
+          "count": 7
+        },
+        {
+          "word": "work",
+          "count": 5
+        },
+        {
+          "word": "word",
+          "count": 5
+        },
+        {
+          "word": "any",
+          "count": 5
+        },
+        {
+          "word": "grace",
+          "count": 4
+        },
+        {
+          "word": "faith",
+          "count": 4
+        },
+        {
+          "word": "revealed",
+          "count": 4
+        },
+        {
+          "word": "power",
+          "count": 4
+        },
+        {
+          "word": "day",
+          "count": 4
+        },
+        {
+          "word": "man",
+          "count": 4
+        },
+        {
+          "word": "might",
+          "count": 4
+        },
+        {
+          "word": "father",
+          "count": 3
+        },
+        {
+          "word": "peace",
+          "count": 3
+        },
+        {
+          "word": "always",
+          "count": 3
+        },
+        {
+          "word": "glory",
+          "count": 3
+        }
+      ]
+    },
+    "1 Timothy": {
+      "total_words": 2244,
+      "total_words_no_stops": 997,
+      "unique_words": 561,
+      "top_20": [
+        {
+          "word": "good",
+          "count": 23
+        },
+        {
+          "word": "god",
+          "count": 22
+        },
+        {
+          "word": "faith",
+          "count": 19
+        },
+        {
+          "word": "christ",
+          "count": 16
+        },
+        {
+          "word": "jesus",
+          "count": 14
+        },
+        {
+          "word": "man",
+          "count": 14
+        },
+        {
+          "word": "into",
+          "count": 10
+        },
+        {
+          "word": "men",
+          "count": 9
+        },
+        {
+          "word": "godliness",
+          "count": 9
+        },
+        {
+          "word": "lord",
+          "count": 8
+        },
+        {
+          "word": "doctrine",
+          "count": 8
+        },
+        {
+          "word": "house",
+          "count": 7
+        },
+        {
+          "word": "thyself",
+          "count": 7
+        },
+        {
+          "word": "charge",
+          "count": 6
+        },
+        {
+          "word": "teach",
+          "count": 6
+        },
+        {
+          "word": "give",
+          "count": 6
+        },
+        {
+          "word": "first",
+          "count": 6
+        },
+        {
+          "word": "any",
+          "count": 5
+        },
+        {
+          "word": "faithful",
+          "count": 5
+        },
+        {
+          "word": "worthy",
+          "count": 5
+        }
+      ]
+    },
+    "2 Timothy": {
+      "total_words": 1666,
+      "total_words_no_stops": 683,
+      "unique_words": 443,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 17
+        },
+        {
+          "word": "christ",
+          "count": 15
+        },
+        {
+          "word": "god",
+          "count": 15
+        },
+        {
+          "word": "jesus",
+          "count": 14
+        },
+        {
+          "word": "faith",
+          "count": 8
+        },
+        {
+          "word": "men",
+          "count": 7
+        },
+        {
+          "word": "according",
+          "count": 6
+        },
+        {
+          "word": "us",
+          "count": 6
+        },
+        {
+          "word": "good",
+          "count": 6
+        },
+        {
+          "word": "truth",
+          "count": 6
+        },
+        {
+          "word": "man",
+          "count": 5
+        },
+        {
+          "word": "life",
+          "count": 4
+        },
+        {
+          "word": "grace",
+          "count": 4
+        },
+        {
+          "word": "remembrance",
+          "count": 4
+        },
+        {
+          "word": "day",
+          "count": 4
+        },
+        {
+          "word": "ashamed",
+          "count": 4
+        },
+        {
+          "word": "suffer",
+          "count": 4
+        },
+        {
+          "word": "able",
+          "count": 4
+        },
+        {
+          "word": "away",
+          "count": 4
+        },
+        {
+          "word": "give",
+          "count": 4
+        }
+      ]
+    },
+    "Titus": {
+      "total_words": 896,
+      "total_words_no_stops": 413,
+      "unique_words": 283,
+      "top_20": [
+        {
+          "word": "god",
+          "count": 12
+        },
+        {
+          "word": "good",
+          "count": 11
+        },
+        {
+          "word": "men",
+          "count": 7
+        },
+        {
+          "word": "saviour",
+          "count": 6
+        },
+        {
+          "word": "works",
+          "count": 6
+        },
+        {
+          "word": "us",
+          "count": 6
+        },
+        {
+          "word": "faith",
+          "count": 5
+        },
+        {
+          "word": "sound",
+          "count": 5
+        },
+        {
+          "word": "jesus",
+          "count": 4
+        },
+        {
+          "word": "christ",
+          "count": 4
+        },
+        {
+          "word": "according",
+          "count": 4
+        },
+        {
+          "word": "grace",
+          "count": 4
+        },
+        {
+          "word": "sober",
+          "count": 4
+        },
+        {
+          "word": "doctrine",
+          "count": 4
+        },
+        {
+          "word": "exhort",
+          "count": 4
+        },
+        {
+          "word": "love",
+          "count": 4
+        },
+        {
+          "word": "shewing",
+          "count": 4
+        },
+        {
+          "word": "man",
+          "count": 4
+        },
+        {
+          "word": "hope",
+          "count": 3
+        },
+        {
+          "word": "word",
+          "count": 3
+        }
+      ]
+    },
+    "Philemon": {
+      "total_words": 430,
+      "total_words_no_stops": 161,
+      "unique_words": 116,
+      "top_20": [
+        {
+          "word": "jesus",
+          "count": 7
+        },
+        {
+          "word": "christ",
+          "count": 7
+        },
+        {
+          "word": "lord",
+          "count": 6
+        },
+        {
+          "word": "brother",
+          "count": 4
+        },
+        {
+          "word": "paul",
+          "count": 3
+        },
+        {
+          "word": "beloved",
+          "count": 3
+        },
+        {
+          "word": "bowels",
+          "count": 3
+        },
+        {
+          "word": "receive",
+          "count": 3
+        },
+        {
+          "word": "mine",
+          "count": 3
+        },
+        {
+          "word": "prisoner",
+          "count": 2
+        },
+        {
+          "word": "grace",
+          "count": 2
+        },
+        {
+          "word": "god",
+          "count": 2
+        },
+        {
+          "word": "prayers",
+          "count": 2
+        },
+        {
+          "word": "love",
+          "count": 2
+        },
+        {
+          "word": "faith",
+          "count": 2
+        },
+        {
+          "word": "toward",
+          "count": 2
+        },
+        {
+          "word": "saints",
+          "count": 2
+        },
+        {
+          "word": "joy",
+          "count": 2
+        },
+        {
+          "word": "might",
+          "count": 2
+        },
+        {
+          "word": "much",
+          "count": 2
+        }
+      ]
+    },
+    "Hebrews": {
+      "total_words": 6897,
+      "total_words_no_stops": 2645,
+      "unique_words": 1068,
+      "top_20": [
+        {
+          "word": "god",
+          "count": 72
+        },
+        {
+          "word": "faith",
+          "count": 32
+        },
+        {
+          "word": "us",
+          "count": 31
+        },
+        {
+          "word": "priest",
+          "count": 26
+        },
+        {
+          "word": "into",
+          "count": 25
+        },
+        {
+          "word": "blood",
+          "count": 22
+        },
+        {
+          "word": "without",
+          "count": 22
+        },
+        {
+          "word": "high",
+          "count": 20
+        },
+        {
+          "word": "man",
+          "count": 19
+        },
+        {
+          "word": "son",
+          "count": 18
+        },
+        {
+          "word": "lord",
+          "count": 17
+        },
+        {
+          "word": "day",
+          "count": 15
+        },
+        {
+          "word": "sins",
+          "count": 14
+        },
+        {
+          "word": "any",
+          "count": 14
+        },
+        {
+          "word": "first",
+          "count": 14
+        },
+        {
+          "word": "jesus",
+          "count": 14
+        },
+        {
+          "word": "covenant",
+          "count": 14
+        },
+        {
+          "word": "better",
+          "count": 13
+        },
+        {
+          "word": "angels",
+          "count": 13
+        },
+        {
+          "word": "ever",
+          "count": 13
+        }
+      ]
+    },
+    "James": {
+      "total_words": 2304,
+      "total_words_no_stops": 928,
+      "unique_words": 543,
+      "top_20": [
+        {
+          "word": "man",
+          "count": 25
+        },
+        {
+          "word": "god",
+          "count": 17
+        },
+        {
+          "word": "faith",
+          "count": 16
+        },
+        {
+          "word": "lord",
+          "count": 15
+        },
+        {
+          "word": "brethren",
+          "count": 15
+        },
+        {
+          "word": "works",
+          "count": 13
+        },
+        {
+          "word": "any",
+          "count": 11
+        },
+        {
+          "word": "law",
+          "count": 10
+        },
+        {
+          "word": "evil",
+          "count": 8
+        },
+        {
+          "word": "without",
+          "count": 7
+        },
+        {
+          "word": "perfect",
+          "count": 6
+        },
+        {
+          "word": "receive",
+          "count": 6
+        },
+        {
+          "word": "among",
+          "count": 6
+        },
+        {
+          "word": "another",
+          "count": 6
+        },
+        {
+          "word": "into",
+          "count": 5
+        },
+        {
+          "word": "patience",
+          "count": 5
+        },
+        {
+          "word": "ask",
+          "count": 5
+        },
+        {
+          "word": "rich",
+          "count": 5
+        },
+        {
+          "word": "good",
+          "count": 5
+        },
+        {
+          "word": "word",
+          "count": 5
+        }
+      ]
+    },
+    "1 Peter": {
+      "total_words": 2475,
+      "total_words_no_stops": 995,
+      "unique_words": 563,
+      "top_20": [
+        {
+          "word": "god",
+          "count": 39
+        },
+        {
+          "word": "christ",
+          "count": 20
+        },
+        {
+          "word": "glory",
+          "count": 12
+        },
+        {
+          "word": "jesus",
+          "count": 11
+        },
+        {
+          "word": "us",
+          "count": 10
+        },
+        {
+          "word": "evil",
+          "count": 10
+        },
+        {
+          "word": "time",
+          "count": 9
+        },
+        {
+          "word": "man",
+          "count": 9
+        },
+        {
+          "word": "good",
+          "count": 9
+        },
+        {
+          "word": "according",
+          "count": 8
+        },
+        {
+          "word": "grace",
+          "count": 8
+        },
+        {
+          "word": "holy",
+          "count": 8
+        },
+        {
+          "word": "spirit",
+          "count": 7
+        },
+        {
+          "word": "lord",
+          "count": 7
+        },
+        {
+          "word": "word",
+          "count": 7
+        },
+        {
+          "word": "flesh",
+          "count": 7
+        },
+        {
+          "word": "love",
+          "count": 6
+        },
+        {
+          "word": "conversation",
+          "count": 6
+        },
+        {
+          "word": "another",
+          "count": 6
+        },
+        {
+          "word": "ever",
+          "count": 6
+        }
+      ]
+    },
+    "2 Peter": {
+      "total_words": 1553,
+      "total_words_no_stops": 637,
+      "unique_words": 407,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 15
+        },
+        {
+          "word": "day",
+          "count": 11
+        },
+        {
+          "word": "jesus",
+          "count": 9
+        },
+        {
+          "word": "christ",
+          "count": 8
+        },
+        {
+          "word": "god",
+          "count": 7
+        },
+        {
+          "word": "knowledge",
+          "count": 7
+        },
+        {
+          "word": "beloved",
+          "count": 6
+        },
+        {
+          "word": "holy",
+          "count": 6
+        },
+        {
+          "word": "us",
+          "count": 5
+        },
+        {
+          "word": "saviour",
+          "count": 5
+        },
+        {
+          "word": "world",
+          "count": 5
+        },
+        {
+          "word": "way",
+          "count": 5
+        },
+        {
+          "word": "heavens",
+          "count": 5
+        },
+        {
+          "word": "righteousness",
+          "count": 4
+        },
+        {
+          "word": "according",
+          "count": 4
+        },
+        {
+          "word": "godliness",
+          "count": 4
+        },
+        {
+          "word": "glory",
+          "count": 4
+        },
+        {
+          "word": "old",
+          "count": 4
+        },
+        {
+          "word": "remembrance",
+          "count": 4
+        },
+        {
+          "word": "judgment",
+          "count": 4
+        }
+      ]
+    },
+    "1 John": {
+      "total_words": 2516,
+      "total_words_no_stops": 886,
+      "unique_words": 257,
+      "top_20": [
+        {
+          "word": "god",
+          "count": 64
+        },
+        {
+          "word": "us",
+          "count": 38
+        },
+        {
+          "word": "love",
+          "count": 33
+        },
+        {
+          "word": "know",
+          "count": 27
+        },
+        {
+          "word": "son",
+          "count": 23
+        },
+        {
+          "word": "world",
+          "count": 22
+        },
+        {
+          "word": "sin",
+          "count": 16
+        },
+        {
+          "word": "life",
+          "count": 15
+        },
+        {
+          "word": "father",
+          "count": 13
+        },
+        {
+          "word": "jesus",
+          "count": 12
+        },
+        {
+          "word": "children",
+          "count": 12
+        },
+        {
+          "word": "brother",
+          "count": 12
+        },
+        {
+          "word": "spirit",
+          "count": 12
+        },
+        {
+          "word": "christ",
+          "count": 10
+        },
+        {
+          "word": "truth",
+          "count": 10
+        },
+        {
+          "word": "whosoever",
+          "count": 10
+        },
+        {
+          "word": "beginning",
+          "count": 9
+        },
+        {
+          "word": "heard",
+          "count": 9
+        },
+        {
+          "word": "little",
+          "count": 9
+        },
+        {
+          "word": "loveth",
+          "count": 9
+        }
+      ]
+    },
+    "2 John": {
+      "total_words": 298,
+      "total_words_no_stops": 111,
+      "unique_words": 75,
+      "top_20": [
+        {
+          "word": "love",
+          "count": 4
+        },
+        {
+          "word": "truth",
+          "count": 4
+        },
+        {
+          "word": "god",
+          "count": 4
+        },
+        {
+          "word": "father",
+          "count": 4
+        },
+        {
+          "word": "christ",
+          "count": 4
+        },
+        {
+          "word": "children",
+          "count": 3
+        },
+        {
+          "word": "commandment",
+          "count": 3
+        },
+        {
+          "word": "doctrine",
+          "count": 3
+        },
+        {
+          "word": "elect",
+          "count": 2
+        },
+        {
+          "word": "lady",
+          "count": 2
+        },
+        {
+          "word": "us",
+          "count": 2
+        },
+        {
+          "word": "jesus",
+          "count": 2
+        },
+        {
+          "word": "son",
+          "count": 2
+        },
+        {
+          "word": "beginning",
+          "count": 2
+        },
+        {
+          "word": "walk",
+          "count": 2
+        },
+        {
+          "word": "many",
+          "count": 2
+        },
+        {
+          "word": "into",
+          "count": 2
+        },
+        {
+          "word": "receive",
+          "count": 2
+        },
+        {
+          "word": "full",
+          "count": 2
+        },
+        {
+          "word": "abideth",
+          "count": 2
+        }
+      ]
+    },
+    "3 John": {
+      "total_words": 294,
+      "total_words_no_stops": 113,
+      "unique_words": 89,
+      "top_20": [
+        {
+          "word": "truth",
+          "count": 6
+        },
+        {
+          "word": "beloved",
+          "count": 3
+        },
+        {
+          "word": "brethren",
+          "count": 3
+        },
+        {
+          "word": "church",
+          "count": 3
+        },
+        {
+          "word": "doeth",
+          "count": 3
+        },
+        {
+          "word": "good",
+          "count": 3
+        },
+        {
+          "word": "doest",
+          "count": 2
+        },
+        {
+          "word": "receive",
+          "count": 2
+        },
+        {
+          "word": "us",
+          "count": 2
+        },
+        {
+          "word": "evil",
+          "count": 2
+        },
+        {
+          "word": "god",
+          "count": 2
+        },
+        {
+          "word": "record",
+          "count": 2
+        },
+        {
+          "word": "write",
+          "count": 2
+        },
+        {
+          "word": "face",
+          "count": 2
+        },
+        {
+          "word": "friends",
+          "count": 2
+        },
+        {
+          "word": "elder",
+          "count": 1
+        },
+        {
+          "word": "wellbeloved",
+          "count": 1
+        },
+        {
+          "word": "gaius",
+          "count": 1
+        },
+        {
+          "word": "love",
+          "count": 1
+        },
+        {
+          "word": "wish",
+          "count": 1
+        }
+      ]
+    },
+    "Jude": {
+      "total_words": 608,
+      "total_words_no_stops": 268,
+      "unique_words": 214,
+      "top_20": [
+        {
+          "word": "lord",
+          "count": 7
+        },
+        {
+          "word": "ungodly",
+          "count": 6
+        },
+        {
+          "word": "jesus",
+          "count": 5
+        },
+        {
+          "word": "christ",
+          "count": 5
+        },
+        {
+          "word": "god",
+          "count": 5
+        },
+        {
+          "word": "beloved",
+          "count": 3
+        },
+        {
+          "word": "flesh",
+          "count": 3
+        },
+        {
+          "word": "without",
+          "count": 3
+        },
+        {
+          "word": "mercy",
+          "count": 2
+        },
+        {
+          "word": "love",
+          "count": 2
+        },
+        {
+          "word": "write",
+          "count": 2
+        },
+        {
+          "word": "faith",
+          "count": 2
+        },
+        {
+          "word": "saints",
+          "count": 2
+        },
+        {
+          "word": "men",
+          "count": 2
+        },
+        {
+          "word": "reserved",
+          "count": 2
+        },
+        {
+          "word": "darkness",
+          "count": 2
+        },
+        {
+          "word": "judgment",
+          "count": 2
+        },
+        {
+          "word": "great",
+          "count": 2
+        },
+        {
+          "word": "eternal",
+          "count": 2
+        },
+        {
+          "word": "fire",
+          "count": 2
+        }
+      ]
+    },
+    "Revelation": {
+      "total_words": 11995,
+      "total_words_no_stops": 4632,
+      "unique_words": 1143,
+      "top_20": [
+        {
+          "word": "god",
+          "count": 99
+        },
+        {
+          "word": "earth",
+          "count": 81
+        },
+        {
+          "word": "great",
+          "count": 72
+        },
+        {
+          "word": "heaven",
+          "count": 56
+        },
+        {
+          "word": "seven",
+          "count": 54
+        },
+        {
+          "word": "angel",
+          "count": 51
+        },
+        {
+          "word": "beast",
+          "count": 44
+        },
+        {
+          "word": "saw",
+          "count": 42
+        },
+        {
+          "word": "voice",
+          "count": 42
+        },
+        {
+          "word": "throne",
+          "count": 39
+        },
+        {
+          "word": "heard",
+          "count": 33
+        },
+        {
+          "word": "man",
+          "count": 33
+        },
+        {
+          "word": "into",
+          "count": 33
+        },
+        {
+          "word": "power",
+          "count": 32
+        },
+        {
+          "word": "four",
+          "count": 30
+        },
+        {
+          "word": "thousand",
+          "count": 30
+        },
+        {
+          "word": "book",
+          "count": 28
+        },
+        {
+          "word": "name",
+          "count": 28
+        },
+        {
+          "word": "city",
+          "count": 28
+        },
+        {
+          "word": "lamb",
+          "count": 27
+        }
+      ]
+    }
+  }
+}
