@@ -6,6 +6,11 @@ import BookExplorerTab from './tabs/BookExplorerTab'
 import AboutTab from './tabs/AboutTab'
 import WordTrackerTab from './tabs/WordTrackerTab'
 import ReadabilityTab from './tabs/ReadabilityTab'
+import DivineNamesTab from './tabs/DivineNamesTab'
+import TopicModelingTab from './tabs/TopicModelingTab'
+import VerseSentimentTab from './tabs/VerseSentimentTab'
+import CommandsPromisesTab from './tabs/CommandsPromisesTab'
+import CrossTestamentTab from './tabs/CrossTestamentTab'
 
 function App() {
   const [activeTab, setActiveTab] = useState('words')
@@ -14,6 +19,10 @@ function App() {
   const [bookData, setBookData] = useState(null)
   const [trackerData, setTrackerData] = useState(null)
   const [readabilityData, setReadabilityData] = useState(null)
+  const [divineNamesData, setDivineNamesData] = useState(null)
+  const [topicData, setTopicData] = useState(null)
+  const [cpData, setCpData] = useState(null)
+  const [crossData, setCrossData] = useState(null)
   const [loading, setLoading] = useState(true)
 
   // Load all our JSON data files when the app starts
@@ -32,6 +41,14 @@ function App() {
         setTrackerData(tracker)
         const readability = await fetch('/data/readability.json').then(r => r.json())
         setReadabilityData(readability)
+        const divineNames = await fetch('/data/divine_names.json').then(r => r.json())
+        setDivineNamesData(divineNames)
+        const topics = await fetch('/data/topic_modeling.json').then(r => r.json())
+        setTopicData(topics)
+        const cp = await fetch('/data/commands_promises.json').then(r => r.json())
+        setCpData(cp)
+        const cross = await fetch('/data/cross_testament.json').then(r => r.json())
+        setCrossData(cross)
         setLoading(false)
       } catch (err) {
         console.error('Error loading data:', err)
@@ -56,6 +73,11 @@ function App() {
     { id: 'books', label: '📖 Book Explorer' },
     { id: 'tracker', label: '🔍 Word Tracker' },
     { id: 'readability', label: '📚 Readability' },
+    { id: 'divine', label: '✝️ Divine Names' },
+    { id: 'topics', label: '🧠 Topic Modeling' },
+    { id: 'reading', label: '🎨 Color Reading' },
+    { id: 'commands', label: '📜 Commands & Promises' },
+    { id: 'cross', label: '🔗 OT → NT Connections' },
     { id: 'about', label: 'ℹ️ About' },
   ]
 
@@ -86,6 +108,11 @@ function App() {
         {activeTab === 'books' && <BookExplorerTab data={bookData} />}
         {activeTab === 'tracker' && <WordTrackerTab data={trackerData} />}
         {activeTab === 'readability' && <ReadabilityTab data={readabilityData} />}
+        {activeTab === 'divine' && <DivineNamesTab data={divineNamesData} />}
+        {activeTab === 'topics' && <TopicModelingTab data={topicData} />}
+        {activeTab === 'reading' && <VerseSentimentTab />}
+        {activeTab === 'commands' && <CommandsPromisesTab data={cpData} />}
+        {activeTab === 'cross' && <CrossTestamentTab data={crossData} />}
         {activeTab === 'about' && <AboutTab />}
       </main>
 

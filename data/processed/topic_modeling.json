@@ -1,0 +1,2775 @@
+{
+  "n_topics": 12,
+  "book_order": [
+    "Genesis",
+    "Exodus",
+    "Leviticus",
+    "Numbers",
+    "Deuteronomy",
+    "Joshua",
+    "Judges",
+    "Ruth",
+    "1 Samuel",
+    "2 Samuel",
+    "1 Kings",
+    "2 Kings",
+    "1 Chronicles",
+    "2 Chronicles",
+    "Ezra",
+    "Nehemiah",
+    "Esther",
+    "Job",
+    "Psalms",
+    "Proverbs",
+    "Ecclesiastes",
+    "Song of Solomon",
+    "Isaiah",
+    "Jeremiah",
+    "Lamentations",
+    "Ezekiel",
+    "Daniel",
+    "Hosea",
+    "Joel",
+    "Amos",
+    "Obadiah",
+    "Jonah",
+    "Micah",
+    "Nahum",
+    "Habakkuk",
+    "Zephaniah",
+    "Haggai",
+    "Zechariah",
+    "Malachi",
+    "Matthew",
+    "Mark",
+    "Luke",
+    "John",
+    "Acts",
+    "Romans",
+    "1 Corinthians",
+    "2 Corinthians",
+    "Galatians",
+    "Ephesians",
+    "Philippians",
+    "Colossians",
+    "1 Thessalonians",
+    "2 Thessalonians",
+    "1 Timothy",
+    "2 Timothy",
+    "Titus",
+    "Philemon",
+    "Hebrews",
+    "James",
+    "1 Peter",
+    "2 Peter",
+    "1 John",
+    "2 John",
+    "3 John",
+    "Jude",
+    "Revelation"
+  ],
+  "topics": [
+    {
+      "id": 0,
+      "default_label": "david \u00b7 saul \u00b7 sons",
+      "color": "#8B4513",
+      "top_words": [
+        {
+          "word": "david",
+          "weight": 0.067727
+        },
+        {
+          "word": "saul",
+          "weight": 0.03535
+        },
+        {
+          "word": "sons",
+          "weight": 0.025098
+        },
+        {
+          "word": "father",
+          "weight": 0.021566
+        },
+        {
+          "word": "begat",
+          "weight": 0.019024
+        },
+        {
+          "word": "name",
+          "weight": 0.014809
+        },
+        {
+          "word": "jacob",
+          "weight": 0.013923
+        },
+        {
+          "word": "philistines",
+          "weight": 0.013306
+        },
+        {
+          "word": "wife",
+          "weight": 0.013259
+        },
+        {
+          "word": "abraham",
+          "weight": 0.012535
+        },
+        {
+          "word": "joab",
+          "weight": 0.012115
+        },
+        {
+          "word": "called",
+          "weight": 0.011711
+        },
+        {
+          "word": "took",
+          "weight": 0.011683
+        },
+        {
+          "word": "samuel",
+          "weight": 0.01127
+        },
+        {
+          "word": "jonathan",
+          "weight": 0.009709
+        },
+        {
+          "word": "house",
+          "weight": 0.008887
+        },
+        {
+          "word": "absalom",
+          "weight": 0.008825
+        },
+        {
+          "word": "brother",
+          "weight": 0.008795
+        },
+        {
+          "word": "servant",
+          "weight": 0.008525
+        },
+        {
+          "word": "esau",
+          "weight": 0.008272
+        }
+      ],
+      "dominant_books": [
+        {
+          "book": "2 Samuel",
+          "weight": 0.3788
+        },
+        {
+          "book": "1 Samuel",
+          "weight": 0.3715
+        },
+        {
+          "book": "Genesis",
+          "weight": 0.3458
+        },
+        {
+          "book": "Ruth",
+          "weight": 0.2734
+        },
+        {
+          "book": "1 Chronicles",
+          "weight": 0.238
+        }
+      ],
+      "top_chapters": [
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "score": 0.992,
+          "preview": "Adam, Sheth, Enosh,"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "score": 0.9208,
+          "preview": "And the whole earth was of one language, and of one speech."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "score": 0.838,
+          "preview": "This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 36,
+          "score": 0.8202,
+          "preview": "Now these are the generations of Esau, who is Edom."
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 19,
+          "score": 0.7514,
+          "preview": "And Saul spake to Jonathan his son, and to all his servants, that they should kill David."
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 18,
+          "score": 0.7168,
+          "preview": "And it came to pass, when he had made an end of speaking unto Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own"
+        }
+      ],
+      "suggested_label": "Royal Genealogies & David"
+    },
+    {
+      "id": 1,
+      "default_label": "jesus \u00b7 christ \u00b7 things",
+      "color": "#4169E1",
+      "top_words": [
+        {
+          "word": "jesus",
+          "weight": 0.047533
+        },
+        {
+          "word": "christ",
+          "weight": 0.036917
+        },
+        {
+          "word": "things",
+          "weight": 0.03162
+        },
+        {
+          "word": "faith",
+          "weight": 0.014193
+        },
+        {
+          "word": "whom",
+          "weight": 0.013694
+        },
+        {
+          "word": "world",
+          "weight": 0.013466
+        },
+        {
+          "word": "should",
+          "weight": 0.012366
+        },
+        {
+          "word": "might",
+          "weight": 0.011659
+        },
+        {
+          "word": "being",
+          "weight": 0.010805
+        },
+        {
+          "word": "brethren",
+          "weight": 0.010501
+        },
+        {
+          "word": "spirit",
+          "weight": 0.010131
+        },
+        {
+          "word": "good",
+          "weight": 0.009684
+        },
+        {
+          "word": "jews",
+          "weight": 0.009677
+        },
+        {
+          "word": "law",
+          "weight": 0.009492
+        },
+        {
+          "word": "same",
+          "weight": 0.00863
+        },
+        {
+          "word": "holy",
+          "weight": 0.008419
+        },
+        {
+          "word": "grace",
+          "weight": 0.00833
+        },
+        {
+          "word": "paul",
+          "weight": 0.0082
+        },
+        {
+          "word": "glory",
+          "weight": 0.00818
+        },
+        {
+          "word": "many",
+          "weight": 0.008099
+        }
+      ],
+      "dominant_books": [
+        {
+          "book": "Philemon",
+          "weight": 0.6594
+        },
+        {
+          "book": "Galatians",
+          "weight": 0.6448
+        },
+        {
+          "book": "2 Thessalonians",
+          "weight": 0.6355
+        },
+        {
+          "book": "Titus",
+          "weight": 0.6193
+        },
+        {
+          "book": "Philippians",
+          "weight": 0.6135
+        }
+      ],
+      "top_chapters": [
+        {
+          "book": "2 Peter",
+          "chapter": 1,
+          "score": 0.7671,
+          "preview": "Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour J"
+        },
+        {
+          "book": "Galatians",
+          "chapter": 3,
+          "score": 0.7629,
+          "preview": "O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among yo"
+        },
+        {
+          "book": "Romans",
+          "chapter": 6,
+          "score": 0.7524,
+          "preview": "What shall we say then? Shall we continue in sin, that grace may abound?"
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 1,
+          "score": 0.7374,
+          "preview": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, f"
+        },
+        {
+          "book": "Galatians",
+          "chapter": 2,
+          "score": 0.7346,
+          "preview": "Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "score": 0.7289,
+          "preview": "Finally, my brethren, rejoice in the Lord. To write the same things to you, to me indeed is not grievous, but for you it is safe."
+        }
+      ],
+      "suggested_label": "Faith & Salvation"
+    },
+    {
+      "id": 2,
+      "default_label": "israel \u00b7 king \u00b7 people",
+      "color": "#2ecc71",
+      "top_words": [
+        {
+          "word": "israel",
+          "weight": 0.043551
+        },
+        {
+          "word": "king",
+          "weight": 0.034444
+        },
+        {
+          "word": "people",
+          "weight": 0.025457
+        },
+        {
+          "word": "house",
+          "weight": 0.019477
+        },
+        {
+          "word": "judah",
+          "weight": 0.013854
+        },
+        {
+          "word": "city",
+          "weight": 0.012567
+        },
+        {
+          "word": "land",
+          "weight": 0.0119
+        },
+        {
+          "word": "saying",
+          "weight": 0.011546
+        },
+        {
+          "word": "children",
+          "weight": 0.010059
+        },
+        {
+          "word": "jerusalem",
+          "weight": 0.00979
+        },
+        {
+          "word": "pass",
+          "weight": 0.00937
+        },
+        {
+          "word": "took",
+          "weight": 0.007662
+        },
+        {
+          "word": "great",
+          "weight": 0.006135
+        },
+        {
+          "word": "cities",
+          "weight": 0.006134
+        },
+        {
+          "word": "sword",
+          "weight": 0.005842
+        },
+        {
+          "word": "david",
+          "weight": 0.005741
+        },
+        {
+          "word": "kings",
+          "weight": 0.005411
+        },
+        {
+          "word": "father",
+          "weight": 0.005358
+        },
+        {
+          "word": "done",
+          "weight": 0.004794
+        },
+        {
+          "word": "princes",
+          "weight": 0.004723
+        }
+      ],
+      "dominant_books": [
+        {
+          "book": "Judges",
+          "weight": 0.5925
+        },
+        {
+          "book": "Joshua",
+          "weight": 0.4896
+        },
+        {
+          "book": "2 Chronicles",
+          "weight": 0.4719
+        },
+        {
+          "book": "2 Kings",
+          "weight": 0.4342
+        },
+        {
+          "book": "1 Kings",
+          "weight": 0.4307
+        }
+      ],
+      "top_chapters": [
+        {
+          "book": "Joshua",
+          "chapter": 10,
+          "score": 0.9944,
+          "preview": "Now it came to pass, when Adonizedec king of Jerusalem had heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, "
+        },
+        {
+          "book": "Judges",
+          "chapter": 11,
+          "score": 0.9895,
+          "preview": "Now Jephthah the Gileadite was a mighty man of valour, and he was the son of an harlot: and Gilead begat Jephthah."
+        },
+        {
+          "book": "2 Chronicles",
+          "chapter": 10,
+          "score": 0.9162,
+          "preview": "And Rehoboam went to Shechem: for to Shechem were all Israel come to make him king."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 11,
+          "score": 0.916,
+          "preview": "And it came to pass, when Jabin king of Hazor had heard those things, that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achsha"
+        },
+        {
+          "book": "Judges",
+          "chapter": 9,
+          "score": 0.902,
+          "preview": "And Abimelech the son of Jerubbaal went to Shechem unto his mother\u2019s brethren, and communed with them, and with all the family of the house of his mother\u2019s fath"
+        },
+        {
+          "book": "Judges",
+          "chapter": 10,
+          "score": 0.8806,
+          "preview": "And after Abimelech there arose to defend Israel Tola the son of Puah, the son of Dodo, a man of Issachar; and he dwelt in Shamir in mount Ephraim."
+        }
+      ],
+      "suggested_label": "Kingdom of Israel & Conquest"
+    },
+    {
+      "id": 3,
+      "default_label": "saying \u00b7 saw \u00b7 great",
+      "color": "#e74c3c",
+      "top_words": [
+        {
+          "word": "saying",
+          "weight": 0.026246
+        },
+        {
+          "word": "saw",
+          "weight": 0.017483
+        },
+        {
+          "word": "great",
+          "weight": 0.014272
+        },
+        {
+          "word": "heaven",
+          "weight": 0.013738
+        },
+        {
+          "word": "answered",
+          "weight": 0.013011
+        },
+        {
+          "word": "angel",
+          "weight": 0.010172
+        },
+        {
+          "word": "disciples",
+          "weight": 0.009076
+        },
+        {
+          "word": "should",
+          "weight": 0.008679
+        },
+        {
+          "word": "sat",
+          "weight": 0.008512
+        },
+        {
+          "word": "kingdom",
+          "weight": 0.008477
+        },
+        {
+          "word": "took",
+          "weight": 0.008339
+        },
+        {
+          "word": "people",
+          "weight": 0.008331
+        },
+        {
+          "word": "stood",
+          "weight": 0.007797
+        },
+        {
+          "word": "jesus",
+          "weight": 0.007766
+        },
+        {
+          "word": "cast",
+          "weight": 0.007705
+        },
+        {
+          "word": "city",
+          "weight": 0.00759
+        },
+        {
+          "word": "house",
+          "weight": 0.007274
+        },
+        {
+          "word": "called",
+          "weight": 0.006761
+        },
+        {
+          "word": "many",
+          "weight": 0.00671
+        },
+        {
+          "word": "temple",
+          "weight": 0.00652
+        }
+      ],
+      "dominant_books": [
+        {
+          "book": "Mark",
+          "weight": 0.5969
+        },
+        {
+          "book": "Luke",
+          "weight": 0.4933
+        },
+        {
+          "book": "Matthew",
+          "weight": 0.4797
+        },
+        {
+          "book": "Acts",
+          "weight": 0.459
+        },
+        {
+          "book": "John",
+          "weight": 0.3377
+        }
+      ],
+      "top_chapters": [
+        {
+          "book": "Mark",
+          "chapter": 6,
+          "score": 0.8093,
+          "preview": "And he went out from thence, and came into his own country; and his disciples follow him."
+        },
+        {
+          "book": "Mark",
+          "chapter": 8,
+          "score": 0.7816,
+          "preview": "In those days the multitude being very great, and having nothing to eat, Jesus called his disciples unto him, and saith unto them,"
+        },
+        {
+          "book": "Luke",
+          "chapter": 9,
+          "score": 0.78,
+          "preview": "Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 28,
+          "score": 0.7787,
+          "preview": "In the end of the sabbath, as it began to dawn toward the first day of the week, came Mary Magdalene and the other Mary to see the sepulchre."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 14,
+          "score": 0.7782,
+          "preview": "At that time Herod the tetrarch heard of the fame of Jesus,"
+        },
+        {
+          "book": "Mark",
+          "chapter": 16,
+          "score": 0.7515,
+          "preview": "And when the sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome, had bought sweet spices, that they might come and anoint him."
+        }
+      ],
+      "suggested_label": "Gospel Narratives & Ministry"
+    },
+    {
+      "id": 4,
+      "default_label": "gold \u00b7 house \u00b7 side",
+      "color": "#9370DB",
+      "top_words": [
+        {
+          "word": "gold",
+          "weight": 0.032009
+        },
+        {
+          "word": "house",
+          "weight": 0.029505
+        },
+        {
+          "word": "side",
+          "weight": 0.026742
+        },
+        {
+          "word": "cubits",
+          "weight": 0.021971
+        },
+        {
+          "word": "solomon",
+          "weight": 0.018309
+        },
+        {
+          "word": "gate",
+          "weight": 0.017428
+        },
+        {
+          "word": "toward",
+          "weight": 0.013779
+        },
+        {
+          "word": "round",
+          "weight": 0.013496
+        },
+        {
+          "word": "work",
+          "weight": 0.013129
+        },
+        {
+          "word": "twenty",
+          "weight": 0.012427
+        },
+        {
+          "word": "silver",
+          "weight": 0.011674
+        },
+        {
+          "word": "hundred",
+          "weight": 0.010649
+        },
+        {
+          "word": "brass",
+          "weight": 0.010491
+        },
+        {
+          "word": "court",
+          "weight": 0.009804
+        },
+        {
+          "word": "breadth",
+          "weight": 0.009291
+        },
+        {
+          "word": "wall",
+          "weight": 0.008927
+        },
+        {
+          "word": "daniel",
+          "weight": 0.008916
+        },
+        {
+          "word": "pillars",
+          "weight": 0.008307
+        },
+        {
+          "word": "vessels",
+          "weight": 0.008096
+        },
+        {
+          "word": "east",
+          "weight": 0.008015
+        }
+      ],
+      "dominant_books": [
+        {
+          "book": "Exodus",
+          "weight": 0.1891
+        },
+        {
+          "book": "Ezekiel",
+          "weight": 0.165
+        },
+        {
+          "book": "1 Kings",
+          "weight": 0.1639
+        },
+        {
+          "book": "Song of Solomon",
+          "weight": 0.1512
+        },
+        {
+          "book": "2 Chronicles",
+          "weight": 0.1195
+        }
+      ],
+      "top_chapters": [
+        {
+          "book": "Exodus",
+          "chapter": 26,
+          "score": 0.996,
+          "preview": "Moreover thou shalt make the tabernacle with ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubims of cunning work shalt thou mak"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 37,
+          "score": 0.9952,
+          "preview": "And Bezaleel made the ark of shittim wood: two cubits and a half was the length of it, and a cubit and a half the breadth of it, and a cubit and a half the heig"
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 41,
+          "score": 0.9824,
+          "preview": "Afterward he brought me to the temple, and measured the posts, six cubits broad on the one side, and six cubits broad on the other side, which was the breadth o"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 7,
+          "score": 0.9753,
+          "preview": "But Solomon was building his own house thirteen years, and he finished all his house."
+        },
+        {
+          "book": "2 Chronicles",
+          "chapter": 3,
+          "score": 0.9604,
+          "preview": "Then Solomon began to build the house of the LORD at Jerusalem in mount Moriah, where the Lord appeared unto David his father, in the place that David had prepa"
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 42,
+          "score": 0.9551,
+          "preview": "Then he brought me forth into the utter court, the way toward the north: and he brought me into the chamber that was over against the separate place, and which "
+        }
+      ],
+      "suggested_label": "Temple Architecture & Wealth"
+    },
+    {
+      "id": 5,
+      "default_label": "father \u00b7 love \u00b7 eat",
+      "color": "#DAA520",
+      "top_words": [
+        {
+          "word": "father",
+          "weight": 0.026889
+        },
+        {
+          "word": "love",
+          "weight": 0.018612
+        },
+        {
+          "word": "eat",
+          "weight": 0.016228
+        },
+        {
+          "word": "things",
+          "weight": 0.014026
+        },
+        {
+          "word": "brother",
+          "weight": 0.013457
+        },
+        {
+          "word": "wife",
+          "weight": 0.012388
+        },
+        {
+          "word": "children",
+          "weight": 0.011633
+        },
+        {
+          "word": "life",
+          "weight": 0.010228
+        },
+        {
+          "word": "mother",
+          "weight": 0.009471
+        },
+        {
+          "word": "sin",
+          "weight": 0.009391
+        },
+        {
+          "word": "name",
+          "weight": 0.008967
+        },
+        {
+          "word": "himself",
+          "weight": 0.007831
+        },
+        {
+          "word": "spirit",
+          "weight": 0.007697
+        },
+        {
+          "word": "little",
+          "weight": 0.007399
+        },
+        {
+          "word": "thing",
+          "weight": 0.007191
+        },
+        {
+          "word": "write",
+          "weight": 0.006818
+        },
+        {
+          "word": "husband",
+          "weight": 0.006715
+        },
+        {
+          "word": "water",
+          "weight": 0.0064
+        },
+        {
+          "word": "daughter",
+          "weight": 0.006058
+        },
+        {
+          "word": "death",
+          "weight": 0.005736
+        }
+      ],
+      "dominant_books": [
+        {
+          "book": "1 John",
+          "weight": 0.5162
+        },
+        {
+          "book": "2 John",
+          "weight": 0.4038
+        },
+        {
+          "book": "3 John",
+          "weight": 0.362
+        },
+        {
+          "book": "Song of Solomon",
+          "weight": 0.3598
+        },
+        {
+          "book": "Ruth",
+          "weight": 0.2528
+        }
+      ],
+      "top_chapters": [
+        {
+          "book": "Numbers",
+          "chapter": 30,
+          "score": 0.9129,
+          "preview": "And Moses spake unto the heads of the tribes concerning the children of Israel, saying, This is the thing which the LORD hath commanded."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 18,
+          "score": 0.8044,
+          "preview": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "score": 0.6737,
+          "preview": "And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou has"
+        },
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "score": 0.6628,
+          "preview": "Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 15,
+          "score": 0.6375,
+          "preview": "And the LORD spake unto Moses and to Aaron, saying,"
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "score": 0.6209,
+          "preview": "Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him "
+        }
+      ],
+      "suggested_label": "Family, Love & Community"
+    },
+    {
+      "id": 6,
+      "default_label": "land \u00b7 egypt \u00b7 people",
+      "color": "#DC143C",
+      "top_words": [
+        {
+          "word": "land",
+          "weight": 0.068457
+        },
+        {
+          "word": "egypt",
+          "weight": 0.036026
+        },
+        {
+          "word": "people",
+          "weight": 0.02982
+        },
+        {
+          "word": "israel",
+          "weight": 0.023873
+        },
+        {
+          "word": "moses",
+          "weight": 0.021906
+        },
+        {
+          "word": "pharaoh",
+          "weight": 0.018302
+        },
+        {
+          "word": "children",
+          "weight": 0.017087
+        },
+        {
+          "word": "eat",
+          "weight": 0.011897
+        },
+        {
+          "word": "fathers",
+          "weight": 0.01176
+        },
+        {
+          "word": "joseph",
+          "weight": 0.009199
+        },
+        {
+          "word": "statutes",
+          "weight": 0.008214
+        },
+        {
+          "word": "pass",
+          "weight": 0.007859
+        },
+        {
+          "word": "forth",
+          "weight": 0.007849
+        },
+        {
+          "word": "house",
+          "weight": 0.007715
+        },
+        {
+          "word": "keep",
+          "weight": 0.007638
+        },
+        {
+          "word": "field",
+          "weight": 0.007498
+        },
+        {
+          "word": "saying",
+          "weight": 0.007408
+        },
+        {
+          "word": "wilderness",
+          "weight": 0.007283
+        },
+        {
+          "word": "serve",
+          "weight": 0.007097
+        },
+        {
+          "word": "law",
+          "weight": 0.006718
+        }
+      ],
+      "dominant_books": [
+        {
+          "book": "Deuteronomy",
+          "weight": 0.3684
+        },
+        {
+          "book": "Exodus",
+          "weight": 0.3566
+        },
+        {
+          "book": "Genesis",
+          "weight": 0.1495
+        },
+        {
+          "book": "Joel",
+          "weight": 0.1349
+        },
+        {
+          "book": "Ruth",
+          "weight": 0.1323
+        }
+      ],
+      "top_chapters": [
+        {
+          "book": "Exodus",
+          "chapter": 8,
+          "score": 0.9948,
+          "preview": "And the LORD spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the LORD, Let my people go, that they may serve me."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 7,
+          "score": 0.9945,
+          "preview": "And the LORD said unto Moses, See, I have made thee a god to Pharaoh: and Aaron thy brother shall be thy prophet."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 11,
+          "score": 0.9878,
+          "preview": "And the LORD said unto Moses, Yet will I bring one plague more upon Pharaoh, and upon Egypt; afterwards he will let you go hence: when he shall let you go, he s"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 25,
+          "score": 0.9115,
+          "preview": "And the LORD spake unto Moses in mount Sinai, saying,"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 13,
+          "score": 0.9041,
+          "preview": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 3,
+          "score": 0.8296,
+          "preview": "Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God,"
+        }
+      ],
+      "suggested_label": "Exodus & the Promised Land"
+    },
+    {
+      "id": 7,
+      "default_label": "king \u00b7 babylon \u00b7 judah",
+      "color": "#2E8B57",
+      "top_words": [
+        {
+          "word": "king",
+          "weight": 0.115185
+        },
+        {
+          "word": "babylon",
+          "weight": 0.027201
+        },
+        {
+          "word": "judah",
+          "weight": 0.023466
+        },
+        {
+          "word": "jerusalem",
+          "weight": 0.022976
+        },
+        {
+          "word": "house",
+          "weight": 0.020698
+        },
+        {
+          "word": "book",
+          "weight": 0.015087
+        },
+        {
+          "word": "jeremiah",
+          "weight": 0.014943
+        },
+        {
+          "word": "reign",
+          "weight": 0.013488
+        },
+        {
+          "word": "reigned",
+          "weight": 0.013258
+        },
+        {
+          "word": "hezekiah",
+          "weight": 0.012915
+        },
+        {
+          "word": "written",
+          "weight": 0.010923
+        },
+        {
+          "word": "month",
+          "weight": 0.010654
+        },
+        {
+          "word": "prophet",
+          "weight": 0.010241
+        },
+        {
+          "word": "ahab",
+          "weight": 0.00929
+        },
+        {
+          "word": "words",
+          "weight": 0.009253
+        },
+        {
+          "word": "saying",
+          "weight": 0.009147
+        },
+        {
+          "word": "assyria",
+          "weight": 0.008507
+        },
+        {
+          "word": "jehoshaphat",
+          "weight": 0.008251
+        },
+        {
+          "word": "jews",
+          "weight": 0.007735
+        },
+        {
+          "word": "prophets",
+          "weight": 0.00758
+        }
+      ],
+      "dominant_books": [
+        {
+          "book": "Esther",
+          "weight": 0.4297
+        },
+        {
+          "book": "2 Kings",
+          "weight": 0.3419
+        },
+        {
+          "book": "Ezra",
+          "weight": 0.2264
+        },
+        {
+          "book": "Haggai",
+          "weight": 0.2249
+        },
+        {
+          "book": "2 Chronicles",
+          "weight": 0.1787
+        }
+      ],
+      "top_chapters": [
+        {
+          "book": "Isaiah",
+          "chapter": 39,
+          "score": 0.8421,
+          "preview": "At that time Merodachbaladan, the son of Baladan, king of Babylon, sent letters and a present to Hezekiah: for he had heard that he had been sick, and was recov"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 36,
+          "score": 0.6484,
+          "preview": "And it came to pass in the fourth year of Jehoiakim the son of Josiah king of Judah, that this word came unto Jeremiah from the LORD, saying,"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 24,
+          "score": 0.6352,
+          "preview": "In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 20,
+          "score": 0.6148,
+          "preview": "In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the LORD, Set thine house in order"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 15,
+          "score": 0.6042,
+          "preview": "In the twenty and seventh year of Jeroboam king of Israel began Azariah son of Amaziah king of Judah to reign."
+        },
+        {
+          "book": "Esther",
+          "chapter": 8,
+          "score": 0.6036,
+          "preview": "On that day did the king Ahasuerus give the house of Haman the Jews\u2019 enemy unto Esther the queen. And Mordecai came before the king; for Esther had told what he"
+        }
+      ],
+      "suggested_label": "Exile, Babylon & Prophecy"
+    },
+    {
+      "id": 8,
+      "default_label": "offering \u00b7 burnt \u00b7 offerings",
+      "color": "#E67E22",
+      "top_words": [
+        {
+          "word": "offering",
+          "weight": 0.132459
+        },
+        {
+          "word": "burnt",
+          "weight": 0.052224
+        },
+        {
+          "word": "offerings",
+          "weight": 0.042103
+        },
+        {
+          "word": "offer",
+          "weight": 0.033681
+        },
+        {
+          "word": "meat",
+          "weight": 0.030035
+        },
+        {
+          "word": "sacrifice",
+          "weight": 0.025342
+        },
+        {
+          "word": "sin",
+          "weight": 0.025014
+        },
+        {
+          "word": "oil",
+          "weight": 0.024769
+        },
+        {
+          "word": "bullock",
+          "weight": 0.017962
+        },
+        {
+          "word": "offered",
+          "weight": 0.017908
+        },
+        {
+          "word": "ram",
+          "weight": 0.017403
+        },
+        {
+          "word": "altar",
+          "weight": 0.017312
+        },
+        {
+          "word": "holy",
+          "weight": 0.017304
+        },
+        {
+          "word": "goats",
+          "weight": 0.016135
+        },
+        {
+          "word": "lambs",
+          "weight": 0.015985
+        },
+        {
+          "word": "drink",
+          "weight": 0.014923
+        },
+        {
+          "word": "rams",
+          "weight": 0.014241
+        },
+        {
+          "word": "shekels",
+          "weight": 0.014029
+        },
+        {
+          "word": "lamb",
+          "weight": 0.013266
+        },
+        {
+          "word": "peace",
+          "weight": 0.012552
+        }
+      ],
+      "dominant_books": [
+        {
+          "book": "Leviticus",
+          "weight": 0.178
+        },
+        {
+          "book": "Numbers",
+          "weight": 0.1187
+        },
+        {
+          "book": "Ezra",
+          "weight": 0.0565
+        },
+        {
+          "book": "Malachi",
+          "weight": 0.0489
+        },
+        {
+          "book": "Joel",
+          "weight": 0.0333
+        }
+      ],
+      "top_chapters": [
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "score": 0.9971,
+          "preview": "And in the seventh month, on the first day of the month, ye shall have an holy convocation; ye shall do no servile work: it is a day of blowing the trumpets unt"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 28,
+          "score": 0.9961,
+          "preview": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 7,
+          "score": 0.9021,
+          "preview": "And it came to pass on the day that Moses had fully set up the tabernacle, and had anointed it, and sanctified it, and all the instruments thereof, both the alt"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 2,
+          "score": 0.755,
+          "preview": "And when any will offer a meat offering unto the LORD, his offering shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon:"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 23,
+          "score": 0.512,
+          "preview": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 45,
+          "score": 0.473,
+          "preview": "Moreover, when ye shall divide by lot the land for inheritance, ye shall offer an oblation unto the LORD, an holy portion of the land: the length shall be the l"
+        }
+      ],
+      "suggested_label": "Sacrifice & Burnt Offerings"
+    },
+    {
+      "id": 9,
+      "default_label": "earth \u00b7 heart \u00b7 mine",
+      "color": "#5F9EA0",
+      "top_words": [
+        {
+          "word": "earth",
+          "weight": 0.013616
+        },
+        {
+          "word": "heart",
+          "weight": 0.008816
+        },
+        {
+          "word": "mine",
+          "weight": 0.007142
+        },
+        {
+          "word": "great",
+          "weight": 0.006919
+        },
+        {
+          "word": "people",
+          "weight": 0.005856
+        },
+        {
+          "word": "forth",
+          "weight": 0.005735
+        },
+        {
+          "word": "ever",
+          "weight": 0.00561
+        },
+        {
+          "word": "mouth",
+          "weight": 0.005474
+        },
+        {
+          "word": "wicked",
+          "weight": 0.005289
+        },
+        {
+          "word": "name",
+          "weight": 0.005168
+        },
+        {
+          "word": "evil",
+          "weight": 0.005117
+        },
+        {
+          "word": "soul",
+          "weight": 0.005113
+        },
+        {
+          "word": "voice",
+          "weight": 0.005002
+        },
+        {
+          "word": "nations",
+          "weight": 0.004593
+        },
+        {
+          "word": "things",
+          "weight": 0.00457
+        },
+        {
+          "word": "good",
+          "weight": 0.004521
+        },
+        {
+          "word": "fire",
+          "weight": 0.004403
+        },
+        {
+          "word": "heaven",
+          "weight": 0.004272
+        },
+        {
+          "word": "righteousness",
+          "weight": 0.004202
+        },
+        {
+          "word": "fear",
+          "weight": 0.004088
+        }
+      ],
+      "dominant_books": [
+        {
+          "book": "Habakkuk",
+          "weight": 0.8883
+        },
+        {
+          "book": "Psalms",
+          "weight": 0.8607
+        },
+        {
+          "book": "Proverbs",
+          "weight": 0.856
+        },
+        {
+          "book": "Job",
+          "weight": 0.8439
+        },
+        {
+          "book": "Nahum",
+          "weight": 0.8138
+        }
+      ],
+      "top_chapters": [
+        {
+          "book": "Lamentations",
+          "chapter": 3,
+          "score": 0.9956,
+          "preview": "I am the man that hath seen affliction by the rod of his wrath."
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 7,
+          "score": 0.9937,
+          "preview": "A good name is better than precious ointment; and the day of death than the day of one\u2019s birth."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 11,
+          "score": 0.993,
+          "preview": "A false balance is abomination to the LORD: but a just weight is his delight."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 22,
+          "score": 0.9927,
+          "preview": "A good name is rather to be chosen than great riches, and loving favour rather than silver and gold."
+        },
+        {
+          "book": "Psalms",
+          "chapter": 74,
+          "score": 0.9921,
+          "preview": "O God, why hast thou cast us off for ever? why doth thine anger smoke against the sheep of thy pasture?"
+        },
+        {
+          "book": "Psalms",
+          "chapter": 139,
+          "score": 0.9903,
+          "preview": "O lord, thou hast searched me, and known me."
+        }
+      ],
+      "suggested_label": "Wisdom, Praise & Lament"
+    },
+    {
+      "id": 10,
+      "default_label": "children \u00b7 sons \u00b7 thousand",
+      "color": "#B8860B",
+      "top_words": [
+        {
+          "word": "children",
+          "weight": 0.064915
+        },
+        {
+          "word": "sons",
+          "weight": 0.040058
+        },
+        {
+          "word": "thousand",
+          "weight": 0.030617
+        },
+        {
+          "word": "hundred",
+          "weight": 0.02793
+        },
+        {
+          "word": "tribe",
+          "weight": 0.023961
+        },
+        {
+          "word": "levites",
+          "weight": 0.022189
+        },
+        {
+          "word": "israel",
+          "weight": 0.020612
+        },
+        {
+          "word": "brethren",
+          "weight": 0.015049
+        },
+        {
+          "word": "families",
+          "weight": 0.013573
+        },
+        {
+          "word": "cities",
+          "weight": 0.012275
+        },
+        {
+          "word": "moses",
+          "weight": 0.011558
+        },
+        {
+          "word": "house",
+          "weight": 0.011464
+        },
+        {
+          "word": "fathers",
+          "weight": 0.011186
+        },
+        {
+          "word": "twenty",
+          "weight": 0.009973
+        },
+        {
+          "word": "suburbs",
+          "weight": 0.009898
+        },
+        {
+          "word": "manasseh",
+          "weight": 0.009855
+        },
+        {
+          "word": "inheritance",
+          "weight": 0.009837
+        },
+        {
+          "word": "family",
+          "weight": 0.009235
+        },
+        {
+          "word": "numbered",
+          "weight": 0.00897
+        },
+        {
+          "word": "congregation",
+          "weight": 0.008815
+        }
+      ],
+      "dominant_books": [
+        {
+          "book": "1 Chronicles",
+          "weight": 0.3113
+        },
+        {
+          "book": "Numbers",
+          "weight": 0.274
+        },
+        {
+          "book": "Joshua",
+          "weight": 0.2643
+        },
+        {
+          "book": "Ezra",
+          "weight": 0.2573
+        },
+        {
+          "book": "Nehemiah",
+          "weight": 0.2324
+        }
+      ],
+      "top_chapters": [
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "score": 0.9975,
+          "preview": "And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after "
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "score": 0.9959,
+          "preview": "And the LORD spake unto Moses and unto Aaron, saying,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "score": 0.9778,
+          "preview": "Then came near the heads of the fathers of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of the fathers of the tribes "
+        },
+        {
+          "book": "Numbers",
+          "chapter": 26,
+          "score": 0.9588,
+          "preview": "And it came to pass after the plague, that the LORD spake unto Moses and unto Eleazar the son of Aaron the priest, saying,"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 2,
+          "score": 0.9242,
+          "preview": "Now these are the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had "
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 6,
+          "score": 0.9062,
+          "preview": "The sons of Levi; Gershon, Kohath, and Merari."
+        }
+      ],
+      "suggested_label": "Census & Tribal Records"
+    },
+    {
+      "id": 11,
+      "default_label": "priest \u00b7 moses \u00b7 altar",
+      "color": "#6A5ACD",
+      "top_words": [
+        {
+          "word": "priest",
+          "weight": 0.029588
+        },
+        {
+          "word": "moses",
+          "weight": 0.02902
+        },
+        {
+          "word": "altar",
+          "weight": 0.022313
+        },
+        {
+          "word": "congregation",
+          "weight": 0.020992
+        },
+        {
+          "word": "blood",
+          "weight": 0.019614
+        },
+        {
+          "word": "israel",
+          "weight": 0.019296
+        },
+        {
+          "word": "aaron",
+          "weight": 0.018181
+        },
+        {
+          "word": "ark",
+          "weight": 0.017342
+        },
+        {
+          "word": "tabernacle",
+          "weight": 0.016389
+        },
+        {
+          "word": "fire",
+          "weight": 0.016354
+        },
+        {
+          "word": "seven",
+          "weight": 0.015415
+        },
+        {
+          "word": "holy",
+          "weight": 0.013332
+        },
+        {
+          "word": "earth",
+          "weight": 0.012249
+        },
+        {
+          "word": "saying",
+          "weight": 0.011977
+        },
+        {
+          "word": "sons",
+          "weight": 0.011078
+        },
+        {
+          "word": "people",
+          "weight": 0.011068
+        },
+        {
+          "word": "flesh",
+          "weight": 0.010727
+        },
+        {
+          "word": "commanded",
+          "weight": 0.009553
+        },
+        {
+          "word": "ever",
+          "weight": 0.00945
+        },
+        {
+          "word": "unclean",
+          "weight": 0.009367
+        }
+      ],
+      "dominant_books": [
+        {
+          "book": "Leviticus",
+          "weight": 0.457
+        },
+        {
+          "book": "Numbers",
+          "weight": 0.1794
+        },
+        {
+          "book": "Exodus",
+          "weight": 0.1771
+        },
+        {
+          "book": "Revelation",
+          "weight": 0.0988
+        },
+        {
+          "book": "Hebrews",
+          "weight": 0.0777
+        }
+      ],
+      "top_chapters": [
+        {
+          "book": "Leviticus",
+          "chapter": 17,
+          "score": 0.9647,
+          "preview": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 8,
+          "score": 0.8735,
+          "preview": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 16,
+          "score": 0.8073,
+          "preview": "And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died;"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 24,
+          "score": 0.8019,
+          "preview": "And he said unto Moses, Come up unto the LORD, thou, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship ye afar off."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 19,
+          "score": 0.795,
+          "preview": "And the LORD spake unto Moses and unto Aaron, saying,"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "score": 0.7528,
+          "preview": "And the LORD spake unto Moses, saying,"
+        }
+      ],
+      "suggested_label": "Priestly Law & Atonement"
+    }
+  ],
+  "book_profiles": {
+    "Genesis": [
+      0.3458,
+      0.0142,
+      0.0898,
+      0.1155,
+      0.0106,
+      0.0865,
+      0.1495,
+      0.0018,
+      0.0063,
+      0.0855,
+      0.0375,
+      0.057
+    ],
+    "Exodus": [
+      0.0144,
+      0.0059,
+      0.0539,
+      0.0417,
+      0.1891,
+      0.0382,
+      0.3566,
+      0.0011,
+      0.0267,
+      0.0638,
+      0.0316,
+      0.1771
+    ],
+    "Leviticus": [
+      0.0005,
+      0.0005,
+      0.0005,
+      0.0005,
+      0.0109,
+      0.1668,
+      0.1183,
+      0.0005,
+      0.178,
+      0.0302,
+      0.0365,
+      0.457
+    ],
+    "Numbers": [
+      0.02,
+      0.0043,
+      0.152,
+      0.0283,
+      0.0163,
+      0.0743,
+      0.0983,
+      0.0004,
+      0.1187,
+      0.034,
+      0.274,
+      0.1794
+    ],
+    "Deuteronomy": [
+      0.012,
+      0.0065,
+      0.156,
+      0.017,
+      0.006,
+      0.1155,
+      0.3684,
+      0.0036,
+      0.01,
+      0.2285,
+      0.0284,
+      0.0482
+    ],
+    "Joshua": [
+      0.0031,
+      0.0018,
+      0.4896,
+      0.0142,
+      0.0407,
+      0.0021,
+      0.0908,
+      0.0005,
+      0.005,
+      0.0178,
+      0.2643,
+      0.0699
+    ],
+    "Judges": [
+      0.1043,
+      0.0032,
+      0.5925,
+      0.0675,
+      0.0091,
+      0.0393,
+      0.0282,
+      0.0005,
+      0.0166,
+      0.0414,
+      0.0884,
+      0.009
+    ],
+    "Ruth": [
+      0.2734,
+      0.0118,
+      0.0868,
+      0.1968,
+      0.0122,
+      0.2528,
+      0.1323,
+      0.0006,
+      0.0006,
+      0.0314,
+      0.0006,
+      0.0006
+    ],
+    "1 Samuel": [
+      0.3715,
+      0.0055,
+      0.3952,
+      0.0593,
+      0.0044,
+      0.0252,
+      0.0198,
+      0.0042,
+      0.0151,
+      0.0575,
+      0.0091,
+      0.0331
+    ],
+    "2 Samuel": [
+      0.3788,
+      0.0021,
+      0.4209,
+      0.0204,
+      0.0123,
+      0.034,
+      0.003,
+      0.0235,
+      0.0067,
+      0.0802,
+      0.0082,
+      0.0101
+    ],
+    "1 Kings": [
+      0.0456,
+      0.0022,
+      0.4307,
+      0.0538,
+      0.1639,
+      0.0469,
+      0.0355,
+      0.1462,
+      0.0085,
+      0.0289,
+      0.0117,
+      0.0263
+    ],
+    "2 Kings": [
+      0.0252,
+      0.0004,
+      0.4342,
+      0.073,
+      0.0215,
+      0.0232,
+      0.0177,
+      0.3419,
+      0.0129,
+      0.0257,
+      0.0038,
+      0.0205
+    ],
+    "1 Chronicles": [
+      0.238,
+      0.0065,
+      0.2271,
+      0.0103,
+      0.0508,
+      0.0006,
+      0.0067,
+      0.0676,
+      0.0158,
+      0.0414,
+      0.3113,
+      0.0239
+    ],
+    "2 Chronicles": [
+      0.0115,
+      0.0054,
+      0.4719,
+      0.0095,
+      0.1195,
+      0.0025,
+      0.0205,
+      0.1787,
+      0.0237,
+      0.0343,
+      0.0873,
+      0.0352
+    ],
+    "Ezra": [
+      0.0078,
+      0.0045,
+      0.1968,
+      0.06,
+      0.0856,
+      0.0005,
+      0.0364,
+      0.2264,
+      0.0565,
+      0.0538,
+      0.2573,
+      0.0145
+    ],
+    "Nehemiah": [
+      0.0068,
+      0.0244,
+      0.1711,
+      0.0788,
+      0.1095,
+      0.012,
+      0.1176,
+      0.1066,
+      0.0227,
+      0.1104,
+      0.2324,
+      0.0076
+    ],
+    "Esther": [
+      0.0021,
+      0.0406,
+      0.264,
+      0.0967,
+      0.0467,
+      0.0226,
+      0.0008,
+      0.4297,
+      0.0008,
+      0.087,
+      0.0081,
+      0.0008
+    ],
+    "Job": [
+      0.0151,
+      0.0071,
+      0.0115,
+      0.0602,
+      0.0151,
+      0.0291,
+      0.0045,
+      0.0013,
+      0.004,
+      0.8439,
+      0.0045,
+      0.0036
+    ],
+    "Psalms": [
+      0.0098,
+      0.0041,
+      0.0357,
+      0.0083,
+      0.0094,
+      0.0167,
+      0.026,
+      0.0048,
+      0.0075,
+      0.8607,
+      0.0047,
+      0.0124
+    ],
+    "Proverbs": [
+      0.001,
+      0.0025,
+      0.0029,
+      0.0044,
+      0.0117,
+      0.1034,
+      0.0052,
+      0.0045,
+      0.0038,
+      0.856,
+      0.0014,
+      0.0033
+    ],
+    "Ecclesiastes": [
+      0.0008,
+      0.0177,
+      0.0297,
+      0.0241,
+      0.0076,
+      0.1058,
+      0.0036,
+      0.0066,
+      0.0008,
+      0.7952,
+      0.0072,
+      0.0008
+    ],
+    "Song of Solomon": [
+      0.0072,
+      0.001,
+      0.1052,
+      0.0201,
+      0.1512,
+      0.3598,
+      0.0036,
+      0.001,
+      0.0028,
+      0.3422,
+      0.0047,
+      0.001
+    ],
+    "Isaiah": [
+      0.0064,
+      0.0052,
+      0.1345,
+      0.0108,
+      0.0088,
+      0.0202,
+      0.0453,
+      0.0374,
+      0.0089,
+      0.7055,
+      0.0018,
+      0.0151
+    ],
+    "Jeremiah": [
+      0.0078,
+      0.002,
+      0.3103,
+      0.0097,
+      0.0096,
+      0.0153,
+      0.0655,
+      0.1615,
+      0.006,
+      0.4083,
+      0.0014,
+      0.0028
+    ],
+    "Lamentations": [
+      0.0006,
+      0.0006,
+      0.1659,
+      0.0107,
+      0.0103,
+      0.0275,
+      0.0282,
+      0.002,
+      0.0006,
+      0.7461,
+      0.0006,
+      0.0071
+    ],
+    "Ezekiel": [
+      0.0016,
+      0.0006,
+      0.1285,
+      0.0229,
+      0.165,
+      0.0569,
+      0.102,
+      0.0115,
+      0.033,
+      0.4281,
+      0.0142,
+      0.0358
+    ],
+    "Daniel": [
+      0.0004,
+      0.0057,
+      0.0962,
+      0.1897,
+      0.0965,
+      0.0105,
+      0.0063,
+      0.126,
+      0.019,
+      0.4366,
+      0.0075,
+      0.0057
+    ],
+    "Hosea": [
+      0.006,
+      0.0011,
+      0.3405,
+      0.0011,
+      0.002,
+      0.0923,
+      0.0499,
+      0.009,
+      0.0164,
+      0.4586,
+      0.0126,
+      0.0104
+    ],
+    "Joel": [
+      0.0005,
+      0.0029,
+      0.1398,
+      0.0005,
+      0.0165,
+      0.0092,
+      0.1349,
+      0.0073,
+      0.0333,
+      0.6255,
+      0.0112,
+      0.0186
+    ],
+    "Amos": [
+      0.0008,
+      0.0008,
+      0.3366,
+      0.0154,
+      0.012,
+      0.0057,
+      0.1012,
+      0.0137,
+      0.0219,
+      0.4797,
+      0.0026,
+      0.0096
+    ],
+    "Obadiah": [
+      0.108,
+      0.0005,
+      0.3381,
+      0.0005,
+      0.0005,
+      0.0005,
+      0.0576,
+      0.0005,
+      0.0005,
+      0.4921,
+      0.0005,
+      0.0005
+    ],
+    "Jonah": [
+      0.0012,
+      0.0166,
+      0.0282,
+      0.3035,
+      0.0012,
+      0.0012,
+      0.0272,
+      0.0609,
+      0.0012,
+      0.5562,
+      0.0012,
+      0.0012
+    ],
+    "Micah": [
+      0.0008,
+      0.0008,
+      0.1949,
+      0.0008,
+      0.0033,
+      0.0086,
+      0.0497,
+      0.0203,
+      0.0106,
+      0.693,
+      0.0163,
+      0.0008
+    ],
+    "Nahum": [
+      0.0008,
+      0.0008,
+      0.1354,
+      0.0008,
+      0.0326,
+      0.0116,
+      0.0008,
+      0.0008,
+      0.0008,
+      0.8138,
+      0.0008,
+      0.0008
+    ],
+    "Habakkuk": [
+      0.0007,
+      0.0007,
+      0.0504,
+      0.0147,
+      0.0259,
+      0.0106,
+      0.0007,
+      0.0007,
+      0.006,
+      0.8883,
+      0.0007,
+      0.0007
+    ],
+    "Zephaniah": [
+      0.0007,
+      0.0007,
+      0.2916,
+      0.0007,
+      0.0007,
+      0.004,
+      0.0217,
+      0.0114,
+      0.0032,
+      0.6604,
+      0.0044,
+      0.0007
+    ],
+    "Haggai": [
+      0.0007,
+      0.0007,
+      0.2135,
+      0.048,
+      0.036,
+      0.0007,
+      0.0466,
+      0.2249,
+      0.0007,
+      0.3692,
+      0.0007,
+      0.0584
+    ],
+    "Zechariah": [
+      0.006,
+      0.0009,
+      0.2211,
+      0.1323,
+      0.079,
+      0.0377,
+      0.0354,
+      0.033,
+      0.0058,
+      0.4247,
+      0.0107,
+      0.0135
+    ],
+    "Malachi": [
+      0.033,
+      0.017,
+      0.061,
+      0.0129,
+      0.0126,
+      0.0777,
+      0.0968,
+      0.0151,
+      0.0489,
+      0.5838,
+      0.001,
+      0.0402
+    ],
+    "Matthew": [
+      0.0228,
+      0.1461,
+      0.0096,
+      0.4797,
+      0.0128,
+      0.1274,
+      0.0085,
+      0.0087,
+      0.0015,
+      0.1703,
+      0.0032,
+      0.0095
+    ],
+    "Mark": [
+      0.0032,
+      0.1489,
+      0.0063,
+      0.5969,
+      0.0106,
+      0.1006,
+      0.0004,
+      0.0019,
+      0.0024,
+      0.1185,
+      0.0012,
+      0.0093
+    ],
+    "Luke": [
+      0.0179,
+      0.1515,
+      0.0121,
+      0.4933,
+      0.0084,
+      0.1201,
+      0.0108,
+      0.0025,
+      0.0025,
+      0.1686,
+      0.0042,
+      0.0081
+    ],
+    "John": [
+      0.0009,
+      0.3719,
+      0.0034,
+      0.3377,
+      0.006,
+      0.1884,
+      0.0075,
+      0.0028,
+      0.0008,
+      0.0743,
+      0.001,
+      0.0052
+    ],
+    "Acts": [
+      0.0143,
+      0.331,
+      0.026,
+      0.459,
+      0.0067,
+      0.0196,
+      0.0251,
+      0.0078,
+      0.0009,
+      0.1025,
+      0.0032,
+      0.0039
+    ],
+    "Romans": [
+      0.0051,
+      0.5298,
+      0.0095,
+      0.003,
+      0.0006,
+      0.1619,
+      0.0064,
+      0.0045,
+      0.001,
+      0.2716,
+      0.0052,
+      0.0014
+    ],
+    "1 Corinthians": [
+      0.0008,
+      0.4768,
+      0.0045,
+      0.0399,
+      0.0107,
+      0.1849,
+      0.0022,
+      0.0031,
+      0.0102,
+      0.2654,
+      0.0008,
+      0.0008
+    ],
+    "2 Corinthians": [
+      0.0037,
+      0.5236,
+      0.016,
+      0.0147,
+      0.0107,
+      0.0998,
+      0.0026,
+      0.0083,
+      0.0041,
+      0.2958,
+      0.0009,
+      0.02
+    ],
+    "Galatians": [
+      0.0007,
+      0.6448,
+      0.0183,
+      0.0374,
+      0.0025,
+      0.0992,
+      0.0216,
+      0.0007,
+      0.0007,
+      0.1607,
+      0.0127,
+      0.0007
+    ],
+    "Ephesians": [
+      0.0007,
+      0.55,
+      0.0007,
+      0.0042,
+      0.0129,
+      0.1016,
+      0.0007,
+      0.0022,
+      0.0057,
+      0.3172,
+      0.0035,
+      0.0007
+    ],
+    "Philippians": [
+      0.0006,
+      0.6135,
+      0.0006,
+      0.0006,
+      0.0006,
+      0.0891,
+      0.0006,
+      0.0006,
+      0.0047,
+      0.2818,
+      0.0064,
+      0.0006
+    ],
+    "Colossians": [
+      0.0008,
+      0.5639,
+      0.0008,
+      0.0224,
+      0.0008,
+      0.1367,
+      0.0008,
+      0.0008,
+      0.0008,
+      0.2707,
+      0.0008,
+      0.0008
+    ],
+    "1 Thessalonians": [
+      0.0011,
+      0.6075,
+      0.0011,
+      0.0441,
+      0.0011,
+      0.067,
+      0.0011,
+      0.0011,
+      0.0011,
+      0.2729,
+      0.0011,
+      0.0011
+    ],
+    "2 Thessalonians": [
+      0.0011,
+      0.6355,
+      0.0011,
+      0.0185,
+      0.0011,
+      0.1235,
+      0.0011,
+      0.0072,
+      0.0011,
+      0.2077,
+      0.0011,
+      0.0011
+    ],
+    "1 Timothy": [
+      0.0009,
+      0.5304,
+      0.0034,
+      0.0147,
+      0.0009,
+      0.1687,
+      0.0009,
+      0.0029,
+      0.0009,
+      0.2744,
+      0.0009,
+      0.0009
+    ],
+    "2 Timothy": [
+      0.0044,
+      0.5536,
+      0.0226,
+      0.0263,
+      0.0054,
+      0.0556,
+      0.0009,
+      0.0104,
+      0.0009,
+      0.3182,
+      0.0009,
+      0.0009
+    ],
+    "Titus": [
+      0.0011,
+      0.6193,
+      0.0011,
+      0.0011,
+      0.0011,
+      0.1569,
+      0.0011,
+      0.0011,
+      0.0011,
+      0.2138,
+      0.0011,
+      0.0011
+    ],
+    "Philemon": [
+      0.0009,
+      0.6594,
+      0.0009,
+      0.0009,
+      0.0009,
+      0.1704,
+      0.0009,
+      0.0104,
+      0.0009,
+      0.1524,
+      0.0009,
+      0.0009
+    ],
+    "Hebrews": [
+      0.0087,
+      0.3768,
+      0.0367,
+      0.0673,
+      0.0073,
+      0.0461,
+      0.0322,
+      0.006,
+      0.027,
+      0.31,
+      0.0042,
+      0.0777
+    ],
+    "James": [
+      0.0069,
+      0.2859,
+      0.0008,
+      0.0559,
+      0.0008,
+      0.1928,
+      0.0008,
+      0.0043,
+      0.0037,
+      0.4467,
+      0.0008,
+      0.0008
+    ],
+    "1 Peter": [
+      0.0007,
+      0.5289,
+      0.012,
+      0.0075,
+      0.0007,
+      0.1169,
+      0.0007,
+      0.0007,
+      0.0049,
+      0.3129,
+      0.0007,
+      0.0133
+    ],
+    "2 Peter": [
+      0.0006,
+      0.5653,
+      0.0006,
+      0.0006,
+      0.0006,
+      0.0382,
+      0.0006,
+      0.0006,
+      0.0006,
+      0.3908,
+      0.0006,
+      0.0006
+    ],
+    "1 John": [
+      0.003,
+      0.3973,
+      0.0009,
+      0.0009,
+      0.0009,
+      0.5162,
+      0.0009,
+      0.0009,
+      0.0058,
+      0.0711,
+      0.0009,
+      0.0009
+    ],
+    "2 John": [
+      0.0011,
+      0.5013,
+      0.0011,
+      0.0011,
+      0.0011,
+      0.4038,
+      0.0011,
+      0.0011,
+      0.0011,
+      0.085,
+      0.0011,
+      0.0011
+    ],
+    "3 John": [
+      0.0011,
+      0.5069,
+      0.0011,
+      0.0011,
+      0.0011,
+      0.362,
+      0.0011,
+      0.0011,
+      0.0011,
+      0.1215,
+      0.0011,
+      0.0011
+    ],
+    "Jude": [
+      0.0005,
+      0.5369,
+      0.0005,
+      0.0501,
+      0.0005,
+      0.0509,
+      0.0174,
+      0.0005,
+      0.0005,
+      0.3414,
+      0.0005,
+      0.0005
+    ],
+    "Revelation": [
+      0.0006,
+      0.0387,
+      0.0067,
+      0.3088,
+      0.0423,
+      0.1133,
+      0.001,
+      0.0168,
+      0.0036,
+      0.3487,
+      0.0208,
+      0.0988
+    ]
+  }
+}

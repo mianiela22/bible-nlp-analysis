@@ -1,0 +1,4094 @@
+{
+  "names": {
+    "LORD": {
+      "description": "YHWH \u2014 God's personal covenant name, rendered in ALL CAPS in KJV",
+      "short": "YHWH / LORD",
+      "color": "#8B4513",
+      "theology": "The personal covenant name of God, revealed to Moses as 'I AM WHO I AM' (Exodus 3:14). Written in Hebrew as four consonants \u2014 YHWH (the Tetragrammaton). So sacred that Jewish readers substituted 'Adonai' when reading aloud. The KJV renders it in ALL CAPS to distinguish it from 'Lord' (Adonai). It appears almost exclusively in the Old Testament \u2014 showing God's intimate covenant relationship with Israel. Its near-absence in the NT is not silence \u2014 it's fulfillment. The NT writers pour the Tetragrammaton's weight into the name Jesus Christ.",
+      "total": 6649,
+      "ot_count": 6620,
+      "nt_count": 29,
+      "by_book": {
+        "Genesis": 170,
+        "Exodus": 404,
+        "Leviticus": 311,
+        "Numbers": 397,
+        "Deuteronomy": 549,
+        "Joshua": 227,
+        "Judges": 173,
+        "Ruth": 18,
+        "1 Samuel": 322,
+        "2 Samuel": 145,
+        "1 Kings": 260,
+        "2 Kings": 279,
+        "1 Chronicles": 174,
+        "2 Chronicles": 384,
+        "Ezra": 37,
+        "Nehemiah": 21,
+        "Esther": 0,
+        "Job": 33,
+        "Psalms": 714,
+        "Proverbs": 87,
+        "Ecclesiastes": 0,
+        "Song of Solomon": 0,
+        "Isaiah": 433,
+        "Jeremiah": 712,
+        "Lamentations": 44,
+        "Ezekiel": 222,
+        "Daniel": 9,
+        "Hosea": 47,
+        "Joel": 33,
+        "Amos": 64,
+        "Obadiah": 6,
+        "Jonah": 26,
+        "Micah": 40,
+        "Nahum": 13,
+        "Habakkuk": 13,
+        "Zephaniah": 33,
+        "Haggai": 35,
+        "Zechariah": 136,
+        "Malachi": 49,
+        "Matthew": 2,
+        "Mark": 1,
+        "Luke": 3,
+        "John": 7,
+        "Acts": 10,
+        "Romans": 0,
+        "1 Corinthians": 2,
+        "2 Corinthians": 1,
+        "Galatians": 0,
+        "Ephesians": 0,
+        "Philippians": 0,
+        "Colossians": 0,
+        "1 Thessalonians": 0,
+        "2 Thessalonians": 0,
+        "1 Timothy": 0,
+        "2 Timothy": 0,
+        "Titus": 0,
+        "Philemon": 0,
+        "Hebrews": 0,
+        "James": 0,
+        "1 Peter": 0,
+        "2 Peter": 0,
+        "1 John": 0,
+        "2 John": 0,
+        "3 John": 0,
+        "Jude": 0,
+        "Revelation": 3
+      },
+      "by_book_rate": {
+        "Genesis": 4.443,
+        "Exodus": 12.361,
+        "Leviticus": 12.673,
+        "Numbers": 12.069,
+        "Deuteronomy": 19.364,
+        "Joshua": 12.041,
+        "Judges": 9.122,
+        "Ruth": 6.993,
+        "1 Samuel": 12.856,
+        "2 Samuel": 7.039,
+        "1 Kings": 10.607,
+        "2 Kings": 11.863,
+        "1 Chronicles": 8.544,
+        "2 Chronicles": 14.73,
+        "Ezra": 4.973,
+        "Nehemiah": 2.004,
+        "Esther": 0.0,
+        "Job": 1.823,
+        "Psalms": 16.728,
+        "Proverbs": 5.785,
+        "Ecclesiastes": 0.0,
+        "Song of Solomon": 0.0,
+        "Isaiah": 11.691,
+        "Jeremiah": 16.692,
+        "Lamentations": 12.899,
+        "Ezekiel": 5.634,
+        "Daniel": 0.776,
+        "Hosea": 9.084,
+        "Joel": 16.232,
+        "Amos": 15.18,
+        "Obadiah": 8.969,
+        "Jonah": 19.697,
+        "Micah": 12.69,
+        "Nahum": 10.125,
+        "Habakkuk": 8.814,
+        "Zephaniah": 20.421,
+        "Haggai": 30.973,
+        "Zechariah": 21.108,
+        "Malachi": 27.374,
+        "Matthew": 0.084,
+        "Mark": 0.066,
+        "Luke": 0.116,
+        "John": 0.367,
+        "Acts": 0.412,
+        "Romans": 0.0,
+        "1 Corinthians": 0.211,
+        "2 Corinthians": 0.165,
+        "Galatians": 0.0,
+        "Ephesians": 0.0,
+        "Philippians": 0.0,
+        "Colossians": 0.0,
+        "1 Thessalonians": 0.0,
+        "2 Thessalonians": 0.0,
+        "1 Timothy": 0.0,
+        "2 Timothy": 0.0,
+        "Titus": 0.0,
+        "Philemon": 0.0,
+        "Hebrews": 0.0,
+        "James": 0.0,
+        "1 Peter": 0.0,
+        "2 Peter": 0.0,
+        "1 John": 0.0,
+        "2 John": 0.0,
+        "3 John": 0.0,
+        "Jude": 0.0,
+        "Revelation": 0.25
+      },
+      "sample_verses": [
+        {
+          "book": "Genesis",
+          "chapter": 2,
+          "verse": 4,
+          "text": "These are the generations of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens,",
+          "testament": "Old Testament"
+        },
+        {
+          "book": "Judges",
+          "chapter": 20,
+          "verse": 27,
+          "text": "And the children of Israel enquired of the LORD, (for the ark of the covenant of God was there in those days,",
+          "testament": "Old Testament"
+        },
+        {
+          "book": "Psalms",
+          "chapter": 119,
+          "verse": 75,
+          "text": "I know, O LORD, that thy judgments are right, and that thou in faithfulness hast afflicted me.",
+          "testament": "Old Testament"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 20,
+          "text": "But while he thought on these things, behold, the angel of the LORD appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost.",
+          "testament": "New Testament"
+        },
+        {
+          "book": "John",
+          "chapter": 20,
+          "verse": 18,
+          "text": "Mary Magdalene came and told the disciples that she had seen the LORD, and that he had spoken these things unto her.",
+          "testament": "New Testament"
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 11,
+          "text": "But we believe that through the grace of the LORD Jesus Christ we shall be saved, even as they.",
+          "testament": "New Testament"
+        }
+      ],
+      "associations": [
+        {
+          "word": "lord\u2019s",
+          "count": 109,
+          "rate": 2.224,
+          "specificity": 4.36
+        },
+        {
+          "word": "moses",
+          "count": 483,
+          "rate": 9.856,
+          "specificity": 3.12
+        },
+        {
+          "word": "word",
+          "count": 348,
+          "rate": 7.101,
+          "specificity": 2.67
+        },
+        {
+          "word": "offer",
+          "count": 134,
+          "rate": 2.734,
+          "specificity": 3.04
+        },
+        {
+          "word": "commanded",
+          "count": 219,
+          "rate": 4.469,
+          "specificity": 2.65
+        },
+        {
+          "word": "savour",
+          "count": 39,
+          "rate": 0.796,
+          "specificity": 3.87
+        },
+        {
+          "word": "samuel",
+          "count": 83,
+          "rate": 1.694,
+          "specificity": 3.13
+        },
+        {
+          "word": "israel",
+          "count": 959,
+          "rate": 19.569,
+          "specificity": 2.0
+        },
+        {
+          "word": "wave",
+          "count": 25,
+          "rate": 0.51,
+          "specificity": 4.18
+        },
+        {
+          "word": "offerings",
+          "count": 136,
+          "rate": 2.775,
+          "specificity": 2.75
+        },
+        {
+          "word": "offering",
+          "count": 307,
+          "rate": 6.264,
+          "specificity": 2.27
+        },
+        {
+          "word": "choose",
+          "count": 38,
+          "rate": 0.775,
+          "specificity": 3.45
+        },
+        {
+          "word": "jeremiah",
+          "count": 77,
+          "rate": 1.571,
+          "specificity": 2.82
+        },
+        {
+          "word": "memorial",
+          "count": 23,
+          "rate": 0.469,
+          "specificity": 3.85
+        },
+        {
+          "word": "burnt",
+          "count": 162,
+          "rate": 3.306,
+          "specificity": 2.37
+        },
+        {
+          "word": "liveth",
+          "count": 54,
+          "rate": 1.102,
+          "specificity": 3.01
+        },
+        {
+          "word": "praise",
+          "count": 116,
+          "rate": 2.367,
+          "specificity": 2.53
+        },
+        {
+          "word": "anger",
+          "count": 110,
+          "rate": 2.245,
+          "specificity": 2.52
+        },
+        {
+          "word": "zion",
+          "count": 77,
+          "rate": 1.571,
+          "specificity": 2.71
+        },
+        {
+          "word": "covenant",
+          "count": 131,
+          "rate": 2.673,
+          "specificity": 2.4
+        },
+        {
+          "word": "aaron",
+          "count": 139,
+          "rate": 2.836,
+          "specificity": 2.33
+        },
+        {
+          "word": "joshua",
+          "count": 100,
+          "rate": 2.041,
+          "specificity": 2.48
+        },
+        {
+          "word": "house",
+          "count": 653,
+          "rate": 13.325,
+          "specificity": 1.73
+        },
+        {
+          "word": "vow",
+          "count": 26,
+          "rate": 0.531,
+          "specificity": 3.4
+        },
+        {
+          "word": "possess",
+          "count": 55,
+          "rate": 1.122,
+          "specificity": 2.78
+        },
+        {
+          "word": "ark",
+          "count": 103,
+          "rate": 2.102,
+          "specificity": 2.4
+        },
+        {
+          "word": "sight",
+          "count": 139,
+          "rate": 2.836,
+          "specificity": 2.24
+        },
+        {
+          "word": "bless",
+          "count": 63,
+          "rate": 1.286,
+          "specificity": 2.66
+        },
+        {
+          "word": "saying",
+          "count": 482,
+          "rate": 9.835,
+          "specificity": 1.79
+        },
+        {
+          "word": "sanctify",
+          "count": 39,
+          "rate": 0.796,
+          "specificity": 2.98
+        },
+        {
+          "word": "hand",
+          "count": 471,
+          "rate": 9.611,
+          "specificity": 1.72
+        },
+        {
+          "word": "altar",
+          "count": 148,
+          "rate": 3.02,
+          "specificity": 2.1
+        },
+        {
+          "word": "promised",
+          "count": 28,
+          "rate": 0.571,
+          "specificity": 3.12
+        },
+        {
+          "word": "sware",
+          "count": 40,
+          "rate": 0.816,
+          "specificity": 2.75
+        },
+        {
+          "word": "commandments",
+          "count": 75,
+          "rate": 1.53,
+          "specificity": 2.35
+        },
+        {
+          "word": "sacrifice",
+          "count": 91,
+          "rate": 1.857,
+          "specificity": 2.24
+        },
+        {
+          "word": "spoken",
+          "count": 114,
+          "rate": 2.326,
+          "specificity": 2.13
+        },
+        {
+          "word": "people",
+          "count": 624,
+          "rate": 12.733,
+          "specificity": 1.56
+        },
+        {
+          "word": "sinai",
+          "count": 22,
+          "rate": 0.449,
+          "specificity": 3.18
+        },
+        {
+          "word": "hezekiah",
+          "count": 58,
+          "rate": 1.184,
+          "specificity": 2.43
+        }
+      ]
+    },
+    "Lord": {
+      "description": "Adonai / Kurios \u2014 Sovereign, Master",
+      "short": "Lord / Adonai",
+      "color": "#CD853F",
+      "theology": "A title of authority meaning 'master' or 'sovereign.' In the OT it's Adonai \u2014 a reverent alternative to YHWH. In the NT, Greek Kurios ('Lord') applied to Jesus is a profound theological claim: it was the exact word the Greek Old Testament (Septuagint) used to translate YHWH. When Thomas kneels and says 'My Lord and my God' (John 20:28), he is placing Jesus where only YHWH had stood. Watch how 'Lord' shifts from OT Adonai-worship to NT Christology.",
+      "total": 1068,
+      "ot_count": 411,
+      "nt_count": 657,
+      "by_book": {
+        "Genesis": 0,
+        "Exodus": 1,
+        "Leviticus": 2,
+        "Numbers": 1,
+        "Deuteronomy": 4,
+        "Joshua": 1,
+        "Judges": 4,
+        "Ruth": 0,
+        "1 Samuel": 0,
+        "2 Samuel": 6,
+        "1 Kings": 1,
+        "2 Kings": 1,
+        "1 Chronicles": 0,
+        "2 Chronicles": 3,
+        "Ezra": 0,
+        "Nehemiah": 1,
+        "Esther": 0,
+        "Job": 0,
+        "Psalms": 68,
+        "Proverbs": 0,
+        "Ecclesiastes": 0,
+        "Song of Solomon": 0,
+        "Isaiah": 47,
+        "Jeremiah": 14,
+        "Lamentations": 2,
+        "Ezekiel": 217,
+        "Daniel": 13,
+        "Hosea": 0,
+        "Joel": 0,
+        "Amos": 21,
+        "Obadiah": 1,
+        "Jonah": 0,
+        "Micah": 2,
+        "Nahum": 0,
+        "Habakkuk": 0,
+        "Zephaniah": 1,
+        "Haggai": 0,
+        "Zechariah": 0,
+        "Malachi": 0,
+        "Matthew": 56,
+        "Mark": 18,
+        "Luke": 88,
+        "John": 36,
+        "Acts": 99,
+        "Romans": 45,
+        "1 Corinthians": 67,
+        "2 Corinthians": 29,
+        "Galatians": 6,
+        "Ephesians": 25,
+        "Philippians": 15,
+        "Colossians": 13,
+        "1 Thessalonians": 25,
+        "2 Thessalonians": 21,
+        "1 Timothy": 8,
+        "2 Timothy": 17,
+        "Titus": 1,
+        "Philemon": 6,
+        "Hebrews": 17,
+        "James": 15,
+        "1 Peter": 7,
+        "2 Peter": 15,
+        "1 John": 0,
+        "2 John": 1,
+        "3 John": 0,
+        "Jude": 7,
+        "Revelation": 20
+      },
+      "by_book_rate": {
+        "Genesis": 0.0,
+        "Exodus": 0.031,
+        "Leviticus": 0.081,
+        "Numbers": 0.03,
+        "Deuteronomy": 0.141,
+        "Joshua": 0.053,
+        "Judges": 0.211,
+        "Ruth": 0.0,
+        "1 Samuel": 0.0,
+        "2 Samuel": 0.291,
+        "1 Kings": 0.041,
+        "2 Kings": 0.043,
+        "1 Chronicles": 0.0,
+        "2 Chronicles": 0.115,
+        "Ezra": 0.0,
+        "Nehemiah": 0.095,
+        "Esther": 0.0,
+        "Job": 0.0,
+        "Psalms": 1.593,
+        "Proverbs": 0.0,
+        "Ecclesiastes": 0.0,
+        "Song of Solomon": 0.0,
+        "Isaiah": 1.269,
+        "Jeremiah": 0.328,
+        "Lamentations": 0.586,
+        "Ezekiel": 5.507,
+        "Daniel": 1.12,
+        "Hosea": 0.0,
+        "Joel": 0.0,
+        "Amos": 4.981,
+        "Obadiah": 1.495,
+        "Jonah": 0.0,
+        "Micah": 0.635,
+        "Nahum": 0.0,
+        "Habakkuk": 0.0,
+        "Zephaniah": 0.619,
+        "Haggai": 0.0,
+        "Zechariah": 0.0,
+        "Malachi": 0.0,
+        "Matthew": 2.364,
+        "Mark": 1.187,
+        "Luke": 3.393,
+        "John": 1.885,
+        "Acts": 4.083,
+        "Romans": 4.776,
+        "1 Corinthians": 7.081,
+        "2 Corinthians": 4.782,
+        "Galatians": 1.946,
+        "Ephesians": 8.273,
+        "Philippians": 6.871,
+        "Colossians": 6.569,
+        "1 Thessalonians": 13.609,
+        "2 Thessalonians": 20.548,
+        "1 Timothy": 3.565,
+        "2 Timothy": 10.204,
+        "Titus": 1.116,
+        "Philemon": 13.953,
+        "Hebrews": 2.465,
+        "James": 6.51,
+        "1 Peter": 2.828,
+        "2 Peter": 9.659,
+        "1 John": 0.0,
+        "2 John": 3.356,
+        "3 John": 0.0,
+        "Jude": 11.513,
+        "Revelation": 1.667
+      },
+      "sample_verses": [
+        {
+          "book": "Exodus",
+          "chapter": 33,
+          "verse": 9,
+          "text": "And it came to pass, as Moses entered into the tabernacle, the cloudy pillar descended, and stood at the door of the tabernacle, and the Lord talked with Moses.",
+          "testament": "Old Testament"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 52,
+          "verse": 4,
+          "text": "For thus saith the Lord GOD, My people went down aforetime into Egypt to sojourn there; and the Assyrian oppressed them without cause.",
+          "testament": "Old Testament"
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 26,
+          "verse": 21,
+          "text": "I will make thee a terror, and thou shalt be no more: though thou be sought for, yet shalt thou never be found again, saith the Lord GOD.",
+          "testament": "Old Testament"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 22,
+          "text": "Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying,",
+          "testament": "New Testament"
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 14,
+          "text": "And believers were the more added to the Lord, multitudes both of men and women.)",
+          "testament": "New Testament"
+        },
+        {
+          "book": "Galatians",
+          "chapter": 6,
+          "verse": 14,
+          "text": "But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world.",
+          "testament": "New Testament"
+        }
+      ],
+      "associations": [
+        {
+          "word": "hosanna",
+          "count": 5,
+          "rate": 0.678,
+          "specificity": 29.67
+        },
+        {
+          "word": "gained",
+          "count": 5,
+          "rate": 0.678,
+          "specificity": 17.8
+        },
+        {
+          "word": "grace",
+          "count": 40,
+          "rate": 5.427,
+          "specificity": 8.38
+        },
+        {
+          "word": "gog",
+          "count": 5,
+          "rate": 0.678,
+          "specificity": 16.19
+        },
+        {
+          "word": "highest",
+          "count": 7,
+          "rate": 0.95,
+          "specificity": 13.85
+        },
+        {
+          "word": "shortly",
+          "count": 6,
+          "rate": 0.814,
+          "specificity": 14.24
+        },
+        {
+          "word": "lovest",
+          "count": 5,
+          "rate": 0.678,
+          "specificity": 14.84
+        },
+        {
+          "word": "labourers",
+          "count": 4,
+          "rate": 0.543,
+          "specificity": 15.83
+        },
+        {
+          "word": "tyrus",
+          "count": 7,
+          "rate": 0.95,
+          "specificity": 11.33
+        },
+        {
+          "word": "shepherds",
+          "count": 9,
+          "rate": 1.221,
+          "specificity": 8.66
+        },
+        {
+          "word": "esaias",
+          "count": 6,
+          "rate": 0.814,
+          "specificity": 10.17
+        },
+        {
+          "word": "hunt",
+          "count": 4,
+          "rate": 0.543,
+          "specificity": 11.87
+        },
+        {
+          "word": "amen",
+          "count": 15,
+          "rate": 2.035,
+          "specificity": 6.85
+        },
+        {
+          "word": "vengeance",
+          "count": 10,
+          "rate": 1.357,
+          "specificity": 7.91
+        },
+        {
+          "word": "timotheus",
+          "count": 5,
+          "rate": 0.678,
+          "specificity": 10.47
+        },
+        {
+          "word": "simon",
+          "count": 13,
+          "rate": 1.764,
+          "specificity": 6.71
+        },
+        {
+          "word": "mind",
+          "count": 16,
+          "rate": 2.171,
+          "specificity": 6.0
+        },
+        {
+          "word": "saviour",
+          "count": 8,
+          "rate": 1.085,
+          "specificity": 7.7
+        },
+        {
+          "word": "peter",
+          "count": 23,
+          "rate": 3.121,
+          "specificity": 5.18
+        },
+        {
+          "word": "belongeth",
+          "count": 5,
+          "rate": 0.678,
+          "specificity": 8.9
+        },
+        {
+          "word": "beloved",
+          "count": 17,
+          "rate": 2.307,
+          "specificity": 5.45
+        },
+        {
+          "word": "regardeth",
+          "count": 4,
+          "rate": 0.543,
+          "specificity": 9.5
+        },
+        {
+          "word": "profaned",
+          "count": 4,
+          "rate": 0.543,
+          "specificity": 9.5
+        },
+        {
+          "word": "live",
+          "count": 30,
+          "rate": 4.071,
+          "specificity": 4.32
+        },
+        {
+          "word": "footstool",
+          "count": 4,
+          "rate": 0.543,
+          "specificity": 8.9
+        },
+        {
+          "word": "revealed",
+          "count": 7,
+          "rate": 0.95,
+          "specificity": 6.56
+        },
+        {
+          "word": "prophesy",
+          "count": 13,
+          "rate": 1.764,
+          "specificity": 5.14
+        },
+        {
+          "word": "bid",
+          "count": 4,
+          "rate": 0.543,
+          "specificity": 8.38
+        },
+        {
+          "word": "faithful",
+          "count": 12,
+          "rate": 1.628,
+          "specificity": 5.21
+        },
+        {
+          "word": "thanks",
+          "count": 11,
+          "rate": 1.493,
+          "specificity": 5.37
+        },
+        {
+          "word": "salute",
+          "count": 7,
+          "rate": 0.95,
+          "specificity": 6.39
+        },
+        {
+          "word": "beseech",
+          "count": 10,
+          "rate": 1.357,
+          "specificity": 5.31
+        },
+        {
+          "word": "preach",
+          "count": 8,
+          "rate": 1.085,
+          "specificity": 5.7
+        },
+        {
+          "word": "knowing",
+          "count": 8,
+          "rate": 1.085,
+          "specificity": 5.59
+        },
+        {
+          "word": "recompense",
+          "count": 5,
+          "rate": 0.678,
+          "specificity": 6.85
+        },
+        {
+          "word": "count",
+          "count": 5,
+          "rate": 0.678,
+          "specificity": 6.85
+        },
+        {
+          "word": "idols",
+          "count": 13,
+          "rate": 1.764,
+          "specificity": 4.58
+        },
+        {
+          "word": "spoken",
+          "count": 28,
+          "rate": 3.799,
+          "specificity": 3.47
+        },
+        {
+          "word": "believed",
+          "count": 14,
+          "rate": 1.9,
+          "specificity": 4.3
+        },
+        {
+          "word": "straight",
+          "count": 5,
+          "rate": 0.678,
+          "specificity": 6.36
+        }
+      ]
+    },
+    "God": {
+      "description": "Elohim / Theos \u2014 Creator, Most High",
+      "short": "God / Elohim",
+      "color": "#DAA520",
+      "theology": "The most universal name for the divine. Hebrew 'Elohim' is grammatically plural but consistently takes singular verbs when referring to Israel's God \u2014 a mystery the early church fathers saw as pointing toward the Trinity. It emphasizes God as the Creator and Ruler of all nations, not just Israel's covenant partner. In the NT, Greek 'Theos' continues this universal scope. 'God' appears in every book of the Bible \u2014 it is the common thread from Genesis 1:1 to Revelation 22:19.",
+      "total": 4116,
+      "ot_count": 2749,
+      "nt_count": 1367,
+      "by_book": {
+        "Genesis": 233,
+        "Exodus": 120,
+        "Leviticus": 53,
+        "Numbers": 38,
+        "Deuteronomy": 353,
+        "Joshua": 73,
+        "Judges": 54,
+        "Ruth": 3,
+        "1 Samuel": 95,
+        "2 Samuel": 62,
+        "1 Kings": 93,
+        "2 Kings": 79,
+        "1 Chronicles": 114,
+        "2 Chronicles": 186,
+        "Ezra": 97,
+        "Nehemiah": 75,
+        "Esther": 0,
+        "Job": 117,
+        "Psalms": 426,
+        "Proverbs": 8,
+        "Ecclesiastes": 41,
+        "Song of Solomon": 0,
+        "Isaiah": 103,
+        "Jeremiah": 115,
+        "Lamentations": 1,
+        "Ezekiel": 40,
+        "Daniel": 59,
+        "Hosea": 29,
+        "Joel": 11,
+        "Amos": 11,
+        "Obadiah": 0,
+        "Jonah": 15,
+        "Micah": 11,
+        "Nahum": 1,
+        "Habakkuk": 5,
+        "Zephaniah": 4,
+        "Haggai": 3,
+        "Zechariah": 13,
+        "Malachi": 8,
+        "Matthew": 57,
+        "Mark": 52,
+        "Luke": 126,
+        "John": 83,
+        "Acts": 171,
+        "Romans": 166,
+        "1 Corinthians": 107,
+        "2 Corinthians": 74,
+        "Galatians": 33,
+        "Ephesians": 33,
+        "Philippians": 23,
+        "Colossians": 22,
+        "1 Thessalonians": 39,
+        "2 Thessalonians": 19,
+        "1 Timothy": 22,
+        "2 Timothy": 15,
+        "Titus": 13,
+        "Philemon": 2,
+        "Hebrews": 72,
+        "James": 17,
+        "1 Peter": 40,
+        "2 Peter": 7,
+        "1 John": 64,
+        "2 John": 4,
+        "3 John": 2,
+        "Jude": 5,
+        "Revelation": 99
+      },
+      "by_book_rate": {
+        "Genesis": 6.089,
+        "Exodus": 3.672,
+        "Leviticus": 2.16,
+        "Numbers": 1.155,
+        "Deuteronomy": 12.451,
+        "Joshua": 3.872,
+        "Judges": 2.847,
+        "Ruth": 1.166,
+        "1 Samuel": 3.793,
+        "2 Samuel": 3.01,
+        "1 Kings": 3.794,
+        "2 Kings": 3.359,
+        "1 Chronicles": 5.598,
+        "2 Chronicles": 7.135,
+        "Ezra": 13.038,
+        "Nehemiah": 7.156,
+        "Esther": 0.0,
+        "Job": 6.465,
+        "Psalms": 9.98,
+        "Proverbs": 0.532,
+        "Ecclesiastes": 7.349,
+        "Song of Solomon": 0.0,
+        "Isaiah": 2.781,
+        "Jeremiah": 2.696,
+        "Lamentations": 0.293,
+        "Ezekiel": 1.015,
+        "Daniel": 5.085,
+        "Hosea": 5.605,
+        "Joel": 5.411,
+        "Amos": 2.609,
+        "Obadiah": 0.0,
+        "Jonah": 11.364,
+        "Micah": 3.49,
+        "Nahum": 0.779,
+        "Habakkuk": 3.39,
+        "Zephaniah": 2.475,
+        "Haggai": 2.655,
+        "Zechariah": 2.018,
+        "Malachi": 4.469,
+        "Matthew": 2.407,
+        "Mark": 3.429,
+        "Luke": 4.858,
+        "John": 4.347,
+        "Acts": 7.053,
+        "Romans": 17.618,
+        "1 Corinthians": 11.308,
+        "2 Corinthians": 12.201,
+        "Galatians": 10.7,
+        "Ephesians": 10.92,
+        "Philippians": 10.536,
+        "Colossians": 11.117,
+        "1 Thessalonians": 21.23,
+        "2 Thessalonians": 18.591,
+        "1 Timothy": 9.804,
+        "2 Timothy": 9.004,
+        "Titus": 14.509,
+        "Philemon": 4.651,
+        "Hebrews": 10.439,
+        "James": 7.378,
+        "1 Peter": 16.162,
+        "2 Peter": 4.507,
+        "1 John": 25.437,
+        "2 John": 13.423,
+        "3 John": 6.803,
+        "Jude": 8.224,
+        "Revelation": 8.253
+      },
+      "sample_verses": [
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 1,
+          "text": "In the beginning God created the heaven and the earth.",
+          "testament": "Old Testament"
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 4,
+          "verse": 18,
+          "text": "And it came to pass, when he made mention of the ark of God, that he fell from off the seat backward by the side of the gate, and his neck brake, and he died: for he was an old man, and heavy. And he had judged Israel forty years.",
+          "testament": "Old Testament"
+        },
+        {
+          "book": "Psalms",
+          "chapter": 3,
+          "verse": 2,
+          "text": "Many there be which say of my soul, There is no help for him in God. Selah.",
+          "testament": "Old Testament"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 23,
+          "text": "Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.",
+          "testament": "New Testament"
+        },
+        {
+          "book": "Acts",
+          "chapter": 18,
+          "verse": 13,
+          "text": "Saying, This fellow persuadeth men to worship God contrary to the law.",
+          "testament": "New Testament"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 1,
+          "verse": 8,
+          "text": "For God is my record, how greatly I long after you all in the bowels of Jesus Christ.",
+          "testament": "New Testament"
+        }
+      ],
+      "associations": [
+        {
+          "word": "god\u2019s",
+          "count": 26,
+          "rate": 0.885,
+          "specificity": 8.93
+        },
+        {
+          "word": "forbid",
+          "count": 26,
+          "rate": 0.885,
+          "specificity": 6.28
+        },
+        {
+          "word": "giveth",
+          "count": 62,
+          "rate": 2.11,
+          "specificity": 4.4
+        },
+        {
+          "word": "grace",
+          "count": 66,
+          "rate": 2.247,
+          "specificity": 3.47
+        },
+        {
+          "word": "glorified",
+          "count": 24,
+          "rate": 0.817,
+          "specificity": 4.29
+        },
+        {
+          "word": "thank",
+          "count": 15,
+          "rate": 0.511,
+          "specificity": 4.96
+        },
+        {
+          "word": "saviour",
+          "count": 19,
+          "rate": 0.647,
+          "specificity": 4.59
+        },
+        {
+          "word": "salvation",
+          "count": 59,
+          "rate": 2.008,
+          "specificity": 3.21
+        },
+        {
+          "word": "possess",
+          "count": 40,
+          "rate": 1.362,
+          "specificity": 3.37
+        },
+        {
+          "word": "commandments",
+          "count": 58,
+          "rate": 1.974,
+          "specificity": 3.03
+        },
+        {
+          "word": "abraham",
+          "count": 74,
+          "rate": 2.519,
+          "specificity": 2.86
+        },
+        {
+          "word": "living",
+          "count": 51,
+          "rate": 1.736,
+          "specificity": 3.1
+        },
+        {
+          "word": "kingdom",
+          "count": 99,
+          "rate": 3.37,
+          "specificity": 2.59
+        },
+        {
+          "word": "praises",
+          "count": 14,
+          "rate": 0.477,
+          "specificity": 4.31
+        },
+        {
+          "word": "ark",
+          "count": 70,
+          "rate": 2.383,
+          "specificity": 2.72
+        },
+        {
+          "word": "created",
+          "count": 19,
+          "rate": 0.647,
+          "specificity": 3.77
+        },
+        {
+          "word": "bondage",
+          "count": 17,
+          "rate": 0.579,
+          "specificity": 3.89
+        },
+        {
+          "word": "establish",
+          "count": 18,
+          "rate": 0.613,
+          "specificity": 3.65
+        },
+        {
+          "word": "ourselves",
+          "count": 20,
+          "rate": 0.681,
+          "specificity": 3.5
+        },
+        {
+          "word": "promised",
+          "count": 19,
+          "rate": 0.647,
+          "specificity": 3.54
+        },
+        {
+          "word": "creature",
+          "count": 13,
+          "rate": 0.443,
+          "specificity": 4.0
+        },
+        {
+          "word": "israel",
+          "count": 489,
+          "rate": 16.646,
+          "specificity": 1.7
+        },
+        {
+          "word": "thanks",
+          "count": 26,
+          "rate": 0.885,
+          "specificity": 3.18
+        },
+        {
+          "word": "fear",
+          "count": 101,
+          "rate": 3.438,
+          "specificity": 2.26
+        },
+        {
+          "word": "serve",
+          "count": 59,
+          "rate": 2.008,
+          "specificity": 2.52
+        },
+        {
+          "word": "prayer",
+          "count": 35,
+          "rate": 1.191,
+          "specificity": 2.87
+        },
+        {
+          "word": "perfect",
+          "count": 32,
+          "rate": 1.089,
+          "specificity": 2.89
+        },
+        {
+          "word": "praise",
+          "count": 66,
+          "rate": 2.247,
+          "specificity": 2.4
+        },
+        {
+          "word": "command",
+          "count": 33,
+          "rate": 1.123,
+          "specificity": 2.83
+        },
+        {
+          "word": "love",
+          "count": 78,
+          "rate": 2.655,
+          "specificity": 2.25
+        },
+        {
+          "word": "blessed",
+          "count": 76,
+          "rate": 2.587,
+          "specificity": 2.25
+        },
+        {
+          "word": "promise",
+          "count": 19,
+          "rate": 0.647,
+          "specificity": 3.2
+        },
+        {
+          "word": "forsaken",
+          "count": 25,
+          "rate": 0.851,
+          "specificity": 2.94
+        },
+        {
+          "word": "obey",
+          "count": 23,
+          "rate": 0.783,
+          "specificity": 2.98
+        },
+        {
+          "word": "voice",
+          "count": 112,
+          "rate": 3.813,
+          "specificity": 1.98
+        },
+        {
+          "word": "amen",
+          "count": 25,
+          "rate": 0.851,
+          "specificity": 2.86
+        },
+        {
+          "word": "formed",
+          "count": 13,
+          "rate": 0.443,
+          "specificity": 3.52
+        },
+        {
+          "word": "merciful",
+          "count": 15,
+          "rate": 0.511,
+          "specificity": 3.35
+        },
+        {
+          "word": "selah",
+          "count": 24,
+          "rate": 0.817,
+          "specificity": 2.86
+        },
+        {
+          "word": "fathers",
+          "count": 116,
+          "rate": 3.949,
+          "specificity": 1.93
+        }
+      ]
+    },
+    "Jesus": {
+      "description": "The incarnate Son of God \u2014 'YHWH saves'",
+      "short": "Jesus",
+      "color": "#4169E1",
+      "theology": "The Greek form of Hebrew 'Yeshua' (Joshua), meaning 'YHWH is salvation.' His very name is a theological declaration \u2014 the angel told Joseph: 'thou shalt call his name JESUS: for he shall save his people from their sins' (Matthew 1:21). The name is absent from the OT (though Joshua is the same name), then erupts in the NT. Its concentration in the Gospels and Acts shows the centrality of his earthly life. Paul and John use it in close tandem with 'Christ' and 'Lord.'",
+      "total": 977,
+      "ot_count": 0,
+      "nt_count": 977,
+      "by_book": {
+        "Genesis": 0,
+        "Exodus": 0,
+        "Leviticus": 0,
+        "Numbers": 0,
+        "Deuteronomy": 0,
+        "Joshua": 0,
+        "Judges": 0,
+        "Ruth": 0,
+        "1 Samuel": 0,
+        "2 Samuel": 0,
+        "1 Kings": 0,
+        "2 Kings": 0,
+        "1 Chronicles": 0,
+        "2 Chronicles": 0,
+        "Ezra": 0,
+        "Nehemiah": 0,
+        "Esther": 0,
+        "Job": 0,
+        "Psalms": 0,
+        "Proverbs": 0,
+        "Ecclesiastes": 0,
+        "Song of Solomon": 0,
+        "Isaiah": 0,
+        "Jeremiah": 0,
+        "Lamentations": 0,
+        "Ezekiel": 0,
+        "Daniel": 0,
+        "Hosea": 0,
+        "Joel": 0,
+        "Amos": 0,
+        "Obadiah": 0,
+        "Jonah": 0,
+        "Micah": 0,
+        "Nahum": 0,
+        "Habakkuk": 0,
+        "Zephaniah": 0,
+        "Haggai": 0,
+        "Zechariah": 0,
+        "Malachi": 0,
+        "Matthew": 169,
+        "Mark": 97,
+        "Luke": 98,
+        "John": 255,
+        "Acts": 68,
+        "Romans": 38,
+        "1 Corinthians": 27,
+        "2 Corinthians": 20,
+        "Galatians": 17,
+        "Ephesians": 21,
+        "Philippians": 22,
+        "Colossians": 8,
+        "1 Thessalonians": 17,
+        "2 Thessalonians": 12,
+        "1 Timothy": 14,
+        "2 Timothy": 14,
+        "Titus": 4,
+        "Philemon": 7,
+        "Hebrews": 14,
+        "James": 2,
+        "1 Peter": 11,
+        "2 Peter": 9,
+        "1 John": 12,
+        "2 John": 2,
+        "3 John": 0,
+        "Jude": 5,
+        "Revelation": 14
+      },
+      "by_book_rate": {
+        "Genesis": 0.0,
+        "Exodus": 0.0,
+        "Leviticus": 0.0,
+        "Numbers": 0.0,
+        "Deuteronomy": 0.0,
+        "Joshua": 0.0,
+        "Judges": 0.0,
+        "Ruth": 0.0,
+        "1 Samuel": 0.0,
+        "2 Samuel": 0.0,
+        "1 Kings": 0.0,
+        "2 Kings": 0.0,
+        "1 Chronicles": 0.0,
+        "2 Chronicles": 0.0,
+        "Ezra": 0.0,
+        "Nehemiah": 0.0,
+        "Esther": 0.0,
+        "Job": 0.0,
+        "Psalms": 0.0,
+        "Proverbs": 0.0,
+        "Ecclesiastes": 0.0,
+        "Song of Solomon": 0.0,
+        "Isaiah": 0.0,
+        "Jeremiah": 0.0,
+        "Lamentations": 0.0,
+        "Ezekiel": 0.0,
+        "Daniel": 0.0,
+        "Hosea": 0.0,
+        "Joel": 0.0,
+        "Amos": 0.0,
+        "Obadiah": 0.0,
+        "Jonah": 0.0,
+        "Micah": 0.0,
+        "Nahum": 0.0,
+        "Habakkuk": 0.0,
+        "Zephaniah": 0.0,
+        "Haggai": 0.0,
+        "Zechariah": 0.0,
+        "Malachi": 0.0,
+        "Matthew": 7.136,
+        "Mark": 6.396,
+        "Luke": 3.778,
+        "John": 13.354,
+        "Acts": 2.805,
+        "Romans": 4.033,
+        "1 Corinthians": 2.854,
+        "2 Corinthians": 3.298,
+        "Galatians": 5.512,
+        "Ephesians": 6.949,
+        "Philippians": 10.078,
+        "Colossians": 4.042,
+        "1 Thessalonians": 9.254,
+        "2 Thessalonians": 11.742,
+        "1 Timothy": 6.239,
+        "2 Timothy": 8.403,
+        "Titus": 4.464,
+        "Philemon": 16.279,
+        "Hebrews": 2.03,
+        "James": 0.868,
+        "1 Peter": 4.444,
+        "2 Peter": 5.795,
+        "1 John": 4.769,
+        "2 John": 6.711,
+        "3 John": 0.0,
+        "Jude": 8.224,
+        "Revelation": 1.167
+      },
+      "sample_verses": [
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 1,
+          "text": "The book of the generation of Jesus Christ, the son of David, the son of Abraham.",
+          "testament": "New Testament"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 27,
+          "verse": 46,
+          "text": "And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me?",
+          "testament": "New Testament"
+        },
+        {
+          "book": "Luke",
+          "chapter": 10,
+          "verse": 37,
+          "text": "And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise.",
+          "testament": "New Testament"
+        },
+        {
+          "book": "John",
+          "chapter": 10,
+          "verse": 6,
+          "text": "This parable spake Jesus unto them: but they understood not what things they were which he spake unto them.",
+          "testament": "New Testament"
+        },
+        {
+          "book": "Acts",
+          "chapter": 7,
+          "verse": 55,
+          "text": "But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,",
+          "testament": "New Testament"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:",
+          "testament": "New Testament"
+        }
+      ],
+      "associations": [
+        {
+          "word": "jesus\u2019",
+          "count": 10,
+          "rate": 1.58,
+          "specificity": 41.46
+        },
+        {
+          "word": "nazareth",
+          "count": 20,
+          "rate": 3.16,
+          "specificity": 28.59
+        },
+        {
+          "word": "answering",
+          "count": 19,
+          "rate": 3.002,
+          "specificity": 25.41
+        },
+        {
+          "word": "apostle",
+          "count": 13,
+          "rate": 2.054,
+          "specificity": 28.37
+        },
+        {
+          "word": "appearing",
+          "count": 5,
+          "rate": 0.79,
+          "specificity": 34.55
+        },
+        {
+          "word": "crow",
+          "count": 5,
+          "rate": 0.79,
+          "specificity": 29.61
+        },
+        {
+          "word": "galilee",
+          "count": 26,
+          "rate": 4.107,
+          "specificity": 14.97
+        },
+        {
+          "word": "disciples",
+          "count": 67,
+          "rate": 10.585,
+          "specificity": 11.38
+        },
+        {
+          "word": "grace",
+          "count": 50,
+          "rate": 7.899,
+          "specificity": 12.19
+        },
+        {
+          "word": "hall",
+          "count": 5,
+          "rate": 0.79,
+          "specificity": 25.91
+        },
+        {
+          "word": "martha",
+          "count": 7,
+          "rate": 1.106,
+          "specificity": 22.32
+        },
+        {
+          "word": "pilate",
+          "count": 20,
+          "rate": 3.16,
+          "specificity": 14.81
+        },
+        {
+          "word": "baptized",
+          "count": 21,
+          "rate": 3.318,
+          "specificity": 14.27
+        },
+        {
+          "word": "crucified",
+          "count": 14,
+          "rate": 2.212,
+          "specificity": 15.69
+        },
+        {
+          "word": "press",
+          "count": 5,
+          "rate": 0.79,
+          "specificity": 23.03
+        },
+        {
+          "word": "cock",
+          "count": 6,
+          "rate": 0.948,
+          "specificity": 20.73
+        },
+        {
+          "word": "verily",
+          "count": 36,
+          "rate": 5.687,
+          "specificity": 10.66
+        },
+        {
+          "word": "timothy",
+          "count": 4,
+          "rate": 0.632,
+          "specificity": 23.69
+        },
+        {
+          "word": "revelation",
+          "count": 5,
+          "rate": 0.79,
+          "specificity": 20.73
+        },
+        {
+          "word": "timotheus",
+          "count": 7,
+          "rate": 1.106,
+          "specificity": 17.07
+        },
+        {
+          "word": "philip",
+          "count": 11,
+          "rate": 1.738,
+          "specificity": 13.82
+        },
+        {
+          "word": "simon",
+          "count": 19,
+          "rate": 3.002,
+          "specificity": 11.42
+        },
+        {
+          "word": "amen",
+          "count": 20,
+          "rate": 3.16,
+          "specificity": 10.63
+        },
+        {
+          "word": "answered",
+          "count": 85,
+          "rate": 13.428,
+          "specificity": 7.16
+        },
+        {
+          "word": "saviour",
+          "count": 11,
+          "rate": 1.738,
+          "specificity": 12.33
+        },
+        {
+          "word": "disciple",
+          "count": 9,
+          "rate": 1.422,
+          "specificity": 12.87
+        },
+        {
+          "word": "physician",
+          "count": 3,
+          "rate": 0.474,
+          "specificity": 20.73
+        },
+        {
+          "word": "philippi",
+          "count": 3,
+          "rate": 0.474,
+          "specificity": 20.73
+        },
+        {
+          "word": "peter",
+          "count": 31,
+          "rate": 4.897,
+          "specificity": 8.13
+        },
+        {
+          "word": "raised",
+          "count": 19,
+          "rate": 3.002,
+          "specificity": 9.27
+        },
+        {
+          "word": "faith",
+          "count": 43,
+          "rate": 6.793,
+          "specificity": 7.22
+        },
+        {
+          "word": "preaching",
+          "count": 8,
+          "rate": 1.264,
+          "specificity": 12.28
+        },
+        {
+          "word": "miracle",
+          "count": 4,
+          "rate": 0.632,
+          "specificity": 16.58
+        },
+        {
+          "word": "thrice",
+          "count": 5,
+          "rate": 0.79,
+          "specificity": 13.82
+        },
+        {
+          "word": "exercise",
+          "count": 4,
+          "rate": 0.632,
+          "specificity": 15.08
+        },
+        {
+          "word": "barabbas",
+          "count": 4,
+          "rate": 0.632,
+          "specificity": 15.08
+        },
+        {
+          "word": "mary",
+          "count": 12,
+          "rate": 1.896,
+          "specificity": 9.21
+        },
+        {
+          "word": "believe",
+          "count": 25,
+          "rate": 3.949,
+          "specificity": 7.25
+        },
+        {
+          "word": "thank",
+          "count": 7,
+          "rate": 1.106,
+          "specificity": 10.75
+        },
+        {
+          "word": "knowing",
+          "count": 11,
+          "rate": 1.738,
+          "specificity": 8.94
+        }
+      ]
+    },
+    "Christ": {
+      "description": "The Messiah \u2014 the Anointed One (Greek: Christos)",
+      "short": "Christ / Messiah",
+      "color": "#6495ED",
+      "theology": "The Greek translation of Hebrew 'Mashiach' (Messiah) \u2014 'the anointed one.' In Israel, kings, priests, and prophets were anointed with oil for office. Jesus fulfills all three: Prophet (teaching God's word), Priest (offering himself), King (ruling forever). Paul's letters are saturated with 'Christ' and especially 'in Christ' \u2014 a technical phrase meaning union with the Messiah. Notice how 'Christ' spikes in Paul compared to the Gospels, where Jesus rarely used the title of himself openly (the 'Messianic Secret').",
+      "total": 571,
+      "ot_count": 0,
+      "nt_count": 571,
+      "by_book": {
+        "Genesis": 0,
+        "Exodus": 0,
+        "Leviticus": 0,
+        "Numbers": 0,
+        "Deuteronomy": 0,
+        "Joshua": 0,
+        "Judges": 0,
+        "Ruth": 0,
+        "1 Samuel": 0,
+        "2 Samuel": 0,
+        "1 Kings": 0,
+        "2 Kings": 0,
+        "1 Chronicles": 0,
+        "2 Chronicles": 0,
+        "Ezra": 0,
+        "Nehemiah": 0,
+        "Esther": 0,
+        "Job": 0,
+        "Psalms": 0,
+        "Proverbs": 0,
+        "Ecclesiastes": 0,
+        "Song of Solomon": 0,
+        "Isaiah": 0,
+        "Jeremiah": 0,
+        "Lamentations": 0,
+        "Ezekiel": 0,
+        "Daniel": 0,
+        "Hosea": 0,
+        "Joel": 0,
+        "Amos": 0,
+        "Obadiah": 0,
+        "Jonah": 0,
+        "Micah": 0,
+        "Nahum": 0,
+        "Habakkuk": 0,
+        "Zephaniah": 0,
+        "Haggai": 0,
+        "Zechariah": 0,
+        "Malachi": 0,
+        "Matthew": 17,
+        "Mark": 8,
+        "Luke": 14,
+        "John": 21,
+        "Acts": 31,
+        "Romans": 68,
+        "1 Corinthians": 69,
+        "2 Corinthians": 49,
+        "Galatians": 41,
+        "Ephesians": 46,
+        "Philippians": 38,
+        "Colossians": 26,
+        "1 Thessalonians": 14,
+        "2 Thessalonians": 13,
+        "1 Timothy": 16,
+        "2 Timothy": 15,
+        "Titus": 4,
+        "Philemon": 7,
+        "Hebrews": 13,
+        "James": 2,
+        "1 Peter": 21,
+        "2 Peter": 8,
+        "1 John": 10,
+        "2 John": 4,
+        "3 John": 0,
+        "Jude": 5,
+        "Revelation": 11
+      },
+      "by_book_rate": {
+        "Genesis": 0.0,
+        "Exodus": 0.0,
+        "Leviticus": 0.0,
+        "Numbers": 0.0,
+        "Deuteronomy": 0.0,
+        "Joshua": 0.0,
+        "Judges": 0.0,
+        "Ruth": 0.0,
+        "1 Samuel": 0.0,
+        "2 Samuel": 0.0,
+        "1 Kings": 0.0,
+        "2 Kings": 0.0,
+        "1 Chronicles": 0.0,
+        "2 Chronicles": 0.0,
+        "Ezra": 0.0,
+        "Nehemiah": 0.0,
+        "Esther": 0.0,
+        "Job": 0.0,
+        "Psalms": 0.0,
+        "Proverbs": 0.0,
+        "Ecclesiastes": 0.0,
+        "Song of Solomon": 0.0,
+        "Isaiah": 0.0,
+        "Jeremiah": 0.0,
+        "Lamentations": 0.0,
+        "Ezekiel": 0.0,
+        "Daniel": 0.0,
+        "Hosea": 0.0,
+        "Joel": 0.0,
+        "Amos": 0.0,
+        "Obadiah": 0.0,
+        "Jonah": 0.0,
+        "Micah": 0.0,
+        "Nahum": 0.0,
+        "Habakkuk": 0.0,
+        "Zephaniah": 0.0,
+        "Haggai": 0.0,
+        "Zechariah": 0.0,
+        "Malachi": 0.0,
+        "Matthew": 0.718,
+        "Mark": 0.527,
+        "Luke": 0.54,
+        "John": 1.1,
+        "Acts": 1.279,
+        "Romans": 7.217,
+        "1 Corinthians": 7.292,
+        "2 Corinthians": 8.079,
+        "Galatians": 13.294,
+        "Ephesians": 15.222,
+        "Philippians": 17.407,
+        "Colossians": 13.138,
+        "1 Thessalonians": 7.621,
+        "2 Thessalonians": 12.72,
+        "1 Timothy": 7.13,
+        "2 Timothy": 9.004,
+        "Titus": 4.464,
+        "Philemon": 16.279,
+        "Hebrews": 1.885,
+        "James": 0.868,
+        "1 Peter": 8.485,
+        "2 Peter": 5.151,
+        "1 John": 3.975,
+        "2 John": 13.423,
+        "3 John": 0.0,
+        "Jude": 8.224,
+        "Revelation": 0.917
+      },
+      "sample_verses": [
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 1,
+          "text": "The book of the generation of Jesus Christ, the son of David, the son of Abraham.",
+          "testament": "New Testament"
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God,",
+          "testament": "New Testament"
+        },
+        {
+          "book": "1 Corinthians",
+          "chapter": 4,
+          "verse": 1,
+          "text": "Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God.",
+          "testament": "New Testament"
+        },
+        {
+          "book": "Galatians",
+          "chapter": 1,
+          "verse": 10,
+          "text": "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.",
+          "testament": "New Testament"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 1,
+          "verse": 23,
+          "text": "For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better:",
+          "testament": "New Testament"
+        },
+        {
+          "book": "2 Timothy",
+          "chapter": 1,
+          "verse": 2,
+          "text": "To Timothy, my dearly beloved son: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord.",
+          "testament": "New Testament"
+        }
+      ],
+      "associations": [
+        {
+          "word": "christ\u2019s",
+          "count": 16,
+          "rate": 4.553,
+          "specificity": 74.68
+        },
+        {
+          "word": "apostle",
+          "count": 14,
+          "rate": 3.984,
+          "specificity": 55.03
+        },
+        {
+          "word": "appearing",
+          "count": 5,
+          "rate": 1.423,
+          "specificity": 62.23
+        },
+        {
+          "word": "epaphras",
+          "count": 3,
+          "rate": 0.854,
+          "specificity": 74.68
+        },
+        {
+          "word": "grace",
+          "count": 54,
+          "rate": 15.367,
+          "specificity": 23.72
+        },
+        {
+          "word": "communion",
+          "count": 3,
+          "rate": 0.854,
+          "specificity": 56.01
+        },
+        {
+          "word": "silvanus",
+          "count": 3,
+          "rate": 0.854,
+          "specificity": 56.01
+        },
+        {
+          "word": "antichrist",
+          "count": 3,
+          "rate": 0.854,
+          "specificity": 56.01
+        },
+        {
+          "word": "timotheus",
+          "count": 8,
+          "rate": 2.277,
+          "specificity": 35.14
+        },
+        {
+          "word": "gospel",
+          "count": 29,
+          "rate": 8.253,
+          "specificity": 21.44
+        },
+        {
+          "word": "saviour",
+          "count": 13,
+          "rate": 3.699,
+          "specificity": 26.24
+        },
+        {
+          "word": "timothy",
+          "count": 4,
+          "rate": 1.138,
+          "specificity": 42.68
+        },
+        {
+          "word": "revelation",
+          "count": 5,
+          "rate": 1.423,
+          "specificity": 37.34
+        },
+        {
+          "word": "sufferings",
+          "count": 5,
+          "rate": 1.423,
+          "specificity": 37.34
+        },
+        {
+          "word": "supply",
+          "count": 3,
+          "rate": 0.854,
+          "specificity": 44.81
+        },
+        {
+          "word": "crucified",
+          "count": 11,
+          "rate": 3.13,
+          "specificity": 22.2
+        },
+        {
+          "word": "amen",
+          "count": 19,
+          "rate": 5.407,
+          "specificity": 18.19
+        },
+        {
+          "word": "forgave",
+          "count": 4,
+          "rate": 1.138,
+          "specificity": 33.19
+        },
+        {
+          "word": "fellowship",
+          "count": 6,
+          "rate": 1.707,
+          "specificity": 26.36
+        },
+        {
+          "word": "mystery",
+          "count": 7,
+          "rate": 1.992,
+          "specificity": 23.76
+        },
+        {
+          "word": "faith",
+          "count": 41,
+          "rate": 11.668,
+          "specificity": 12.4
+        },
+        {
+          "word": "preach",
+          "count": 12,
+          "rate": 3.415,
+          "specificity": 17.92
+        },
+        {
+          "word": "salute",
+          "count": 9,
+          "rate": 2.561,
+          "specificity": 17.23
+        },
+        {
+          "word": "spiritual",
+          "count": 7,
+          "rate": 1.992,
+          "specificity": 18.67
+        },
+        {
+          "word": "paul",
+          "count": 24,
+          "rate": 6.83,
+          "specificity": 11.49
+        },
+        {
+          "word": "abundant",
+          "count": 4,
+          "rate": 1.138,
+          "specificity": 22.98
+        },
+        {
+          "word": "suffered",
+          "count": 10,
+          "rate": 2.846,
+          "specificity": 14.94
+        },
+        {
+          "word": "members",
+          "count": 7,
+          "rate": 1.992,
+          "specificity": 16.34
+        },
+        {
+          "word": "raised",
+          "count": 14,
+          "rate": 3.984,
+          "specificity": 12.3
+        },
+        {
+          "word": "eternal",
+          "count": 9,
+          "rate": 2.561,
+          "specificity": 14.3
+        },
+        {
+          "word": "preaching",
+          "count": 6,
+          "rate": 1.707,
+          "specificity": 16.6
+        },
+        {
+          "word": "consolation",
+          "count": 4,
+          "rate": 1.138,
+          "specificity": 19.92
+        },
+        {
+          "word": "descend",
+          "count": 3,
+          "rate": 0.854,
+          "specificity": 22.4
+        },
+        {
+          "word": "persecution",
+          "count": 3,
+          "rate": 0.854,
+          "specificity": 22.4
+        },
+        {
+          "word": "dearly",
+          "count": 3,
+          "rate": 0.854,
+          "specificity": 22.4
+        },
+        {
+          "word": "loss",
+          "count": 3,
+          "rate": 0.854,
+          "specificity": 22.4
+        },
+        {
+          "word": "justified",
+          "count": 8,
+          "rate": 2.277,
+          "specificity": 13.89
+        },
+        {
+          "word": "partakers",
+          "count": 5,
+          "rate": 1.423,
+          "specificity": 16.97
+        },
+        {
+          "word": "circumcision",
+          "count": 7,
+          "rate": 1.992,
+          "specificity": 14.52
+        },
+        {
+          "word": "greet",
+          "count": 4,
+          "rate": 1.138,
+          "specificity": 18.67
+        }
+      ]
+    },
+    "Holy Ghost": {
+      "description": "The Third Person of the Trinity (KJV uses 'Holy Ghost')",
+      "short": "Holy Ghost",
+      "color": "#9370DB",
+      "theology": "The KJV uses 'Holy Ghost' (89 times) where modern translations say 'Holy Spirit.' The Spirit is active in the OT \u2014 hovering over creation (Genesis 1:2), empowering judges and prophets \u2014 but remains somewhat anonymous there. The NT reveals the Spirit's full personhood. Acts is the book of the Holy Ghost: the Spirit descends at Pentecost, speaks, sends, and leads missionaries. Look at how 'Holy Ghost' concentrates in Luke-Acts vs the rest of the NT.",
+      "total": 90,
+      "ot_count": 0,
+      "nt_count": 90,
+      "by_book": {
+        "Genesis": 0,
+        "Exodus": 0,
+        "Leviticus": 0,
+        "Numbers": 0,
+        "Deuteronomy": 0,
+        "Joshua": 0,
+        "Judges": 0,
+        "Ruth": 0,
+        "1 Samuel": 0,
+        "2 Samuel": 0,
+        "1 Kings": 0,
+        "2 Kings": 0,
+        "1 Chronicles": 0,
+        "2 Chronicles": 0,
+        "Ezra": 0,
+        "Nehemiah": 0,
+        "Esther": 0,
+        "Job": 0,
+        "Psalms": 0,
+        "Proverbs": 0,
+        "Ecclesiastes": 0,
+        "Song of Solomon": 0,
+        "Isaiah": 0,
+        "Jeremiah": 0,
+        "Lamentations": 0,
+        "Ezekiel": 0,
+        "Daniel": 0,
+        "Hosea": 0,
+        "Joel": 0,
+        "Amos": 0,
+        "Obadiah": 0,
+        "Jonah": 0,
+        "Micah": 0,
+        "Nahum": 0,
+        "Habakkuk": 0,
+        "Zephaniah": 0,
+        "Haggai": 0,
+        "Zechariah": 0,
+        "Malachi": 0,
+        "Matthew": 6,
+        "Mark": 4,
+        "Luke": 11,
+        "John": 4,
+        "Acts": 42,
+        "Romans": 5,
+        "1 Corinthians": 3,
+        "2 Corinthians": 2,
+        "Galatians": 0,
+        "Ephesians": 0,
+        "Philippians": 0,
+        "Colossians": 0,
+        "1 Thessalonians": 2,
+        "2 Thessalonians": 0,
+        "1 Timothy": 0,
+        "2 Timothy": 1,
+        "Titus": 1,
+        "Philemon": 0,
+        "Hebrews": 5,
+        "James": 0,
+        "1 Peter": 1,
+        "2 Peter": 1,
+        "1 John": 1,
+        "2 John": 0,
+        "3 John": 0,
+        "Jude": 1,
+        "Revelation": 0
+      },
+      "by_book_rate": {
+        "Genesis": 0.0,
+        "Exodus": 0.0,
+        "Leviticus": 0.0,
+        "Numbers": 0.0,
+        "Deuteronomy": 0.0,
+        "Joshua": 0.0,
+        "Judges": 0.0,
+        "Ruth": 0.0,
+        "1 Samuel": 0.0,
+        "2 Samuel": 0.0,
+        "1 Kings": 0.0,
+        "2 Kings": 0.0,
+        "1 Chronicles": 0.0,
+        "2 Chronicles": 0.0,
+        "Ezra": 0.0,
+        "Nehemiah": 0.0,
+        "Esther": 0.0,
+        "Job": 0.0,
+        "Psalms": 0.0,
+        "Proverbs": 0.0,
+        "Ecclesiastes": 0.0,
+        "Song of Solomon": 0.0,
+        "Isaiah": 0.0,
+        "Jeremiah": 0.0,
+        "Lamentations": 0.0,
+        "Ezekiel": 0.0,
+        "Daniel": 0.0,
+        "Hosea": 0.0,
+        "Joel": 0.0,
+        "Amos": 0.0,
+        "Obadiah": 0.0,
+        "Jonah": 0.0,
+        "Micah": 0.0,
+        "Nahum": 0.0,
+        "Habakkuk": 0.0,
+        "Zephaniah": 0.0,
+        "Haggai": 0.0,
+        "Zechariah": 0.0,
+        "Malachi": 0.0,
+        "Matthew": 0.253,
+        "Mark": 0.264,
+        "Luke": 0.424,
+        "John": 0.209,
+        "Acts": 1.732,
+        "Romans": 0.531,
+        "1 Corinthians": 0.317,
+        "2 Corinthians": 0.33,
+        "Galatians": 0.0,
+        "Ephesians": 0.0,
+        "Philippians": 0.0,
+        "Colossians": 0.0,
+        "1 Thessalonians": 1.089,
+        "2 Thessalonians": 0.0,
+        "1 Timothy": 0.0,
+        "2 Timothy": 0.6,
+        "Titus": 1.116,
+        "Philemon": 0.0,
+        "Hebrews": 0.725,
+        "James": 0.0,
+        "1 Peter": 0.404,
+        "2 Peter": 0.644,
+        "1 John": 0.397,
+        "2 John": 0.0,
+        "3 John": 0.0,
+        "Jude": 1.645,
+        "Revelation": 0.0
+      },
+      "sample_verses": [
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 18,
+          "text": "Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.",
+          "testament": "New Testament"
+        },
+        {
+          "book": "Luke",
+          "chapter": 2,
+          "verse": 25,
+          "text": "And, behold, there was a man in Jerusalem, whose name was Simeon; and the same man was just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him.",
+          "testament": "New Testament"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 16,
+          "text": "Men and brethren, this scripture must needs have been fulfilled, which the Holy Ghost by the mouth of David spake before concerning Judas, which was guide to them that took Jesus.",
+          "testament": "New Testament"
+        },
+        {
+          "book": "Acts",
+          "chapter": 8,
+          "verse": 18,
+          "text": "And when Simon saw that through laying on of the apostles\u2019 hands the Holy Ghost was given, he offered them money,",
+          "testament": "New Testament"
+        },
+        {
+          "book": "Acts",
+          "chapter": 13,
+          "verse": 52,
+          "text": "And the disciples were filled with joy, and with the Holy Ghost.",
+          "testament": "New Testament"
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 16,
+          "text": "That I should be the minister of Jesus Christ to the Gentiles, ministering the gospel of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Ghost.",
+          "testament": "New Testament"
+        }
+      ],
+      "associations": [
+        {
+          "word": "baptize",
+          "count": 6,
+          "rate": 9.479,
+          "specificity": 276.39
+        },
+        {
+          "word": "forgiven",
+          "count": 6,
+          "rate": 9.479,
+          "specificity": 59.23
+        },
+        {
+          "word": "baptized",
+          "count": 7,
+          "rate": 11.058,
+          "specificity": 47.57
+        },
+        {
+          "word": "filled",
+          "count": 10,
+          "rate": 15.798,
+          "specificity": 26.07
+        },
+        {
+          "word": "indeed",
+          "count": 4,
+          "rate": 6.319,
+          "specificity": 23.69
+        },
+        {
+          "word": "receive",
+          "count": 7,
+          "rate": 11.058,
+          "specificity": 16.49
+        },
+        {
+          "word": "mary",
+          "count": 3,
+          "rate": 4.739,
+          "specificity": 23.03
+        },
+        {
+          "word": "gift",
+          "count": 3,
+          "rate": 4.739,
+          "specificity": 21.08
+        },
+        {
+          "word": "peter",
+          "count": 5,
+          "rate": 7.899,
+          "specificity": 13.12
+        },
+        {
+          "word": "received",
+          "count": 5,
+          "rate": 7.899,
+          "specificity": 12.96
+        },
+        {
+          "word": "gentiles",
+          "count": 4,
+          "rate": 6.319,
+          "specificity": 12.86
+        },
+        {
+          "word": "witness",
+          "count": 4,
+          "rate": 6.319,
+          "specificity": 12.28
+        },
+        {
+          "word": "power",
+          "count": 6,
+          "rate": 9.479,
+          "specificity": 9.15
+        },
+        {
+          "word": "gospel",
+          "count": 3,
+          "rate": 4.739,
+          "specificity": 12.31
+        },
+        {
+          "word": "joy",
+          "count": 4,
+          "rate": 6.319,
+          "specificity": 10.05
+        },
+        {
+          "word": "teach",
+          "count": 3,
+          "rate": 4.739,
+          "specificity": 11.52
+        },
+        {
+          "word": "water",
+          "count": 7,
+          "rate": 11.058,
+          "specificity": 7.33
+        },
+        {
+          "word": "full",
+          "count": 5,
+          "rate": 7.899,
+          "specificity": 7.97
+        },
+        {
+          "word": "word",
+          "count": 10,
+          "rate": 15.798,
+          "specificity": 5.95
+        },
+        {
+          "word": "hope",
+          "count": 3,
+          "rate": 4.739,
+          "specificity": 9.64
+        },
+        {
+          "word": "john",
+          "count": 3,
+          "rate": 4.739,
+          "specificity": 9.49
+        },
+        {
+          "word": "hands",
+          "count": 7,
+          "rate": 11.058,
+          "specificity": 6.28
+        },
+        {
+          "word": "being",
+          "count": 5,
+          "rate": 7.899,
+          "specificity": 7.12
+        },
+        {
+          "word": "paul",
+          "count": 3,
+          "rate": 4.739,
+          "specificity": 7.97
+        },
+        {
+          "word": "while",
+          "count": 3,
+          "rate": 4.739,
+          "specificity": 5.81
+        },
+        {
+          "word": "same",
+          "count": 4,
+          "rate": 6.319,
+          "specificity": 4.99
+        },
+        {
+          "word": "wherefore",
+          "count": 4,
+          "rate": 6.319,
+          "specificity": 4.77
+        },
+        {
+          "word": "faith",
+          "count": 3,
+          "rate": 4.739,
+          "specificity": 5.04
+        },
+        {
+          "word": "well",
+          "count": 3,
+          "rate": 4.739,
+          "specificity": 4.86
+        },
+        {
+          "word": "whom",
+          "count": 6,
+          "rate": 9.479,
+          "specificity": 3.26
+        },
+        {
+          "word": "love",
+          "count": 3,
+          "rate": 4.739,
+          "specificity": 4.01
+        },
+        {
+          "word": "whose",
+          "count": 3,
+          "rate": 4.739,
+          "specificity": 3.96
+        },
+        {
+          "word": "right",
+          "count": 3,
+          "rate": 4.739,
+          "specificity": 3.46
+        },
+        {
+          "word": "drink",
+          "count": 3,
+          "rate": 4.739,
+          "specificity": 3.37
+        },
+        {
+          "word": "heaven",
+          "count": 4,
+          "rate": 6.319,
+          "specificity": 2.85
+        },
+        {
+          "word": "saul",
+          "count": 3,
+          "rate": 4.739,
+          "specificity": 3.2
+        },
+        {
+          "word": "sent",
+          "count": 4,
+          "rate": 6.319,
+          "specificity": 2.42
+        },
+        {
+          "word": "should",
+          "count": 4,
+          "rate": 6.319,
+          "specificity": 2.12
+        },
+        {
+          "word": "saying",
+          "count": 6,
+          "rate": 9.479,
+          "specificity": 1.72
+        },
+        {
+          "word": "name",
+          "count": 4,
+          "rate": 6.319,
+          "specificity": 1.79
+        }
+      ]
+    },
+    "Spirit of God": {
+      "description": "The Spirit of God \u2014 OT pneumatology before Pentecost",
+      "short": "Spirit of God",
+      "color": "#7B68EE",
+      "theology": "The OT's primary way of describing the Spirit's activity. In the OT, the Spirit 'came upon' people temporarily and selectively \u2014 empowering Samson with strength, Bezalel with craftmanship (Exodus 31:3), and prophets with revelation. This contrasts with the NT promise that the Spirit would dwell permanently within every believer (John 14:17, Ezekiel 36:27 prophesied it). The Spirit of God in Genesis 1:2 is the same Spirit poured out at Pentecost \u2014 creator, sustainer, and renewer.",
+      "total": 21,
+      "ot_count": 9,
+      "nt_count": 12,
+      "by_book": {
+        "Genesis": 2,
+        "Exodus": 0,
+        "Leviticus": 0,
+        "Numbers": 0,
+        "Deuteronomy": 0,
+        "Joshua": 0,
+        "Judges": 0,
+        "Ruth": 0,
+        "1 Samuel": 4,
+        "2 Samuel": 0,
+        "1 Kings": 0,
+        "2 Kings": 0,
+        "1 Chronicles": 0,
+        "2 Chronicles": 2,
+        "Ezra": 0,
+        "Nehemiah": 0,
+        "Esther": 0,
+        "Job": 0,
+        "Psalms": 0,
+        "Proverbs": 0,
+        "Ecclesiastes": 0,
+        "Song of Solomon": 0,
+        "Isaiah": 0,
+        "Jeremiah": 0,
+        "Lamentations": 0,
+        "Ezekiel": 1,
+        "Daniel": 0,
+        "Hosea": 0,
+        "Joel": 0,
+        "Amos": 0,
+        "Obadiah": 0,
+        "Jonah": 0,
+        "Micah": 0,
+        "Nahum": 0,
+        "Habakkuk": 0,
+        "Zephaniah": 0,
+        "Haggai": 0,
+        "Zechariah": 0,
+        "Malachi": 0,
+        "Matthew": 2,
+        "Mark": 0,
+        "Luke": 0,
+        "John": 0,
+        "Acts": 0,
+        "Romans": 3,
+        "1 Corinthians": 5,
+        "2 Corinthians": 0,
+        "Galatians": 0,
+        "Ephesians": 1,
+        "Philippians": 0,
+        "Colossians": 0,
+        "1 Thessalonians": 0,
+        "2 Thessalonians": 0,
+        "1 Timothy": 0,
+        "2 Timothy": 0,
+        "Titus": 0,
+        "Philemon": 0,
+        "Hebrews": 0,
+        "James": 0,
+        "1 Peter": 0,
+        "2 Peter": 0,
+        "1 John": 1,
+        "2 John": 0,
+        "3 John": 0,
+        "Jude": 0,
+        "Revelation": 0
+      },
+      "by_book_rate": {
+        "Genesis": 0.052,
+        "Exodus": 0.0,
+        "Leviticus": 0.0,
+        "Numbers": 0.0,
+        "Deuteronomy": 0.0,
+        "Joshua": 0.0,
+        "Judges": 0.0,
+        "Ruth": 0.0,
+        "1 Samuel": 0.16,
+        "2 Samuel": 0.0,
+        "1 Kings": 0.0,
+        "2 Kings": 0.0,
+        "1 Chronicles": 0.0,
+        "2 Chronicles": 0.077,
+        "Ezra": 0.0,
+        "Nehemiah": 0.0,
+        "Esther": 0.0,
+        "Job": 0.0,
+        "Psalms": 0.0,
+        "Proverbs": 0.0,
+        "Ecclesiastes": 0.0,
+        "Song of Solomon": 0.0,
+        "Isaiah": 0.0,
+        "Jeremiah": 0.0,
+        "Lamentations": 0.0,
+        "Ezekiel": 0.025,
+        "Daniel": 0.0,
+        "Hosea": 0.0,
+        "Joel": 0.0,
+        "Amos": 0.0,
+        "Obadiah": 0.0,
+        "Jonah": 0.0,
+        "Micah": 0.0,
+        "Nahum": 0.0,
+        "Habakkuk": 0.0,
+        "Zephaniah": 0.0,
+        "Haggai": 0.0,
+        "Zechariah": 0.0,
+        "Malachi": 0.0,
+        "Matthew": 0.084,
+        "Mark": 0.0,
+        "Luke": 0.0,
+        "John": 0.0,
+        "Acts": 0.0,
+        "Romans": 0.318,
+        "1 Corinthians": 0.528,
+        "2 Corinthians": 0.0,
+        "Galatians": 0.0,
+        "Ephesians": 0.331,
+        "Philippians": 0.0,
+        "Colossians": 0.0,
+        "1 Thessalonians": 0.0,
+        "2 Thessalonians": 0.0,
+        "1 Timothy": 0.0,
+        "2 Timothy": 0.0,
+        "Titus": 0.0,
+        "Philemon": 0.0,
+        "Hebrews": 0.0,
+        "James": 0.0,
+        "1 Peter": 0.0,
+        "2 Peter": 0.0,
+        "1 John": 0.397,
+        "2 John": 0.0,
+        "3 John": 0.0,
+        "Jude": 0.0,
+        "Revelation": 0.0
+      },
+      "sample_verses": [
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 2,
+          "text": "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.",
+          "testament": "Old Testament"
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 11,
+          "verse": 6,
+          "text": "And the Spirit of God came upon Saul when he heard those tidings, and his anger was kindled greatly.",
+          "testament": "Old Testament"
+        },
+        {
+          "book": "2 Chronicles",
+          "chapter": 15,
+          "verse": 1,
+          "text": "And the Spirit of God came upon Azariah the son of Oded:",
+          "testament": "Old Testament"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 3,
+          "verse": 16,
+          "text": "And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:",
+          "testament": "New Testament"
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 19,
+          "text": "Through mighty signs and wonders, by the power of the Spirit of God; so that from Jerusalem, and round about unto Illyricum, I have fully preached the gospel of Christ.",
+          "testament": "New Testament"
+        },
+        {
+          "book": "1 Corinthians",
+          "chapter": 7,
+          "verse": 40,
+          "text": "But she is happier if she so abide, after my judgment: and I think also that I have the Spirit of God.",
+          "testament": "New Testament"
+        }
+      ],
+      "associations": [
+        {
+          "word": "prophesied",
+          "count": 3,
+          "rate": 24.194,
+          "specificity": 126.98
+        },
+        {
+          "word": "saul",
+          "count": 3,
+          "rate": 24.194,
+          "specificity": 16.32
+        }
+      ]
+    },
+    "Father": {
+      "description": "God the Father \u2014 relational name especially in NT (includes some human references)",
+      "short": "Father",
+      "color": "#2E8B57",
+      "theology": "Jesus's primary address for God \u2014 'Abba, Father' (Romans 8:15, Mark 14:36). While the OT occasionally calls God Israel's Father (Isaiah 63:16, Psalm 68:5), these are rare and corporate. The NT explodes with Father-language \u2014 especially in John's Gospel, where Jesus calls God 'Father' over 100 times. Jesus taught us to pray 'Our Father' \u2014 giving every believer access to the same relational intimacy he enjoyed. Note: capital-F 'Father' in KJV usually refers to God, though some verses use it for human patriarchs.",
+      "total": 273,
+      "ot_count": 1,
+      "nt_count": 272,
+      "by_book": {
+        "Genesis": 0,
+        "Exodus": 0,
+        "Leviticus": 0,
+        "Numbers": 0,
+        "Deuteronomy": 0,
+        "Joshua": 0,
+        "Judges": 0,
+        "Ruth": 0,
+        "1 Samuel": 0,
+        "2 Samuel": 0,
+        "1 Kings": 0,
+        "2 Kings": 0,
+        "1 Chronicles": 0,
+        "2 Chronicles": 0,
+        "Ezra": 0,
+        "Nehemiah": 0,
+        "Esther": 0,
+        "Job": 0,
+        "Psalms": 0,
+        "Proverbs": 0,
+        "Ecclesiastes": 0,
+        "Song of Solomon": 0,
+        "Isaiah": 1,
+        "Jeremiah": 0,
+        "Lamentations": 0,
+        "Ezekiel": 0,
+        "Daniel": 0,
+        "Hosea": 0,
+        "Joel": 0,
+        "Amos": 0,
+        "Obadiah": 0,
+        "Jonah": 0,
+        "Micah": 0,
+        "Nahum": 0,
+        "Habakkuk": 0,
+        "Zephaniah": 0,
+        "Haggai": 0,
+        "Zechariah": 0,
+        "Malachi": 0,
+        "Matthew": 44,
+        "Mark": 5,
+        "Luke": 21,
+        "John": 122,
+        "Acts": 3,
+        "Romans": 4,
+        "1 Corinthians": 3,
+        "2 Corinthians": 5,
+        "Galatians": 4,
+        "Ephesians": 8,
+        "Philippians": 3,
+        "Colossians": 6,
+        "1 Thessalonians": 5,
+        "2 Thessalonians": 3,
+        "1 Timothy": 1,
+        "2 Timothy": 1,
+        "Titus": 1,
+        "Philemon": 1,
+        "Hebrews": 2,
+        "James": 3,
+        "1 Peter": 3,
+        "2 Peter": 1,
+        "1 John": 13,
+        "2 John": 4,
+        "3 John": 0,
+        "Jude": 1,
+        "Revelation": 5
+      },
+      "by_book_rate": {
+        "Genesis": 0.0,
+        "Exodus": 0.0,
+        "Leviticus": 0.0,
+        "Numbers": 0.0,
+        "Deuteronomy": 0.0,
+        "Joshua": 0.0,
+        "Judges": 0.0,
+        "Ruth": 0.0,
+        "1 Samuel": 0.0,
+        "2 Samuel": 0.0,
+        "1 Kings": 0.0,
+        "2 Kings": 0.0,
+        "1 Chronicles": 0.0,
+        "2 Chronicles": 0.0,
+        "Ezra": 0.0,
+        "Nehemiah": 0.0,
+        "Esther": 0.0,
+        "Job": 0.0,
+        "Psalms": 0.0,
+        "Proverbs": 0.0,
+        "Ecclesiastes": 0.0,
+        "Song of Solomon": 0.0,
+        "Isaiah": 0.027,
+        "Jeremiah": 0.0,
+        "Lamentations": 0.0,
+        "Ezekiel": 0.0,
+        "Daniel": 0.0,
+        "Hosea": 0.0,
+        "Joel": 0.0,
+        "Amos": 0.0,
+        "Obadiah": 0.0,
+        "Jonah": 0.0,
+        "Micah": 0.0,
+        "Nahum": 0.0,
+        "Habakkuk": 0.0,
+        "Zephaniah": 0.0,
+        "Haggai": 0.0,
+        "Zechariah": 0.0,
+        "Malachi": 0.0,
+        "Matthew": 1.858,
+        "Mark": 0.33,
+        "Luke": 0.81,
+        "John": 6.389,
+        "Acts": 0.124,
+        "Romans": 0.425,
+        "1 Corinthians": 0.317,
+        "2 Corinthians": 0.824,
+        "Galatians": 1.297,
+        "Ephesians": 2.647,
+        "Philippians": 1.374,
+        "Colossians": 3.032,
+        "1 Thessalonians": 2.722,
+        "2 Thessalonians": 2.935,
+        "1 Timothy": 0.446,
+        "2 Timothy": 0.6,
+        "Titus": 1.116,
+        "Philemon": 2.326,
+        "Hebrews": 0.29,
+        "James": 1.302,
+        "1 Peter": 1.212,
+        "2 Peter": 0.644,
+        "1 John": 5.167,
+        "2 John": 13.423,
+        "3 John": 0.0,
+        "Jude": 1.645,
+        "Revelation": 0.417
+      },
+      "sample_verses": [
+        {
+          "book": "Isaiah",
+          "chapter": 9,
+          "verse": 6,
+          "text": "For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.",
+          "testament": "Old Testament"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 16,
+          "text": "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.",
+          "testament": "New Testament"
+        },
+        {
+          "book": "John",
+          "chapter": 5,
+          "verse": 43,
+          "text": "I am come in my Father\u2019s name, and ye receive me not: if another shall come in his own name, him ye will receive.",
+          "testament": "New Testament"
+        },
+        {
+          "book": "John",
+          "chapter": 17,
+          "verse": 21,
+          "text": "That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.",
+          "testament": "New Testament"
+        }
+      ],
+      "associations": [
+        {
+          "word": "abba",
+          "count": 3,
+          "rate": 2.068,
+          "specificity": 180.86
+        },
+        {
+          "word": "denieth",
+          "count": 3,
+          "rate": 2.068,
+          "specificity": 135.65
+        },
+        {
+          "word": "trespasses",
+          "count": 6,
+          "rate": 4.135,
+          "specificity": 90.43
+        },
+        {
+          "word": "heavenly",
+          "count": 7,
+          "rate": 4.824,
+          "specificity": 55.04
+        },
+        {
+          "word": "glorify",
+          "count": 7,
+          "rate": 4.824,
+          "specificity": 50.64
+        },
+        {
+          "word": "comforter",
+          "count": 3,
+          "rate": 2.068,
+          "specificity": 67.82
+        },
+        {
+          "word": "honoureth",
+          "count": 3,
+          "rate": 2.068,
+          "specificity": 60.29
+        },
+        {
+          "word": "forgive",
+          "count": 10,
+          "rate": 6.892,
+          "specificity": 32.3
+        },
+        {
+          "word": "knoweth",
+          "count": 12,
+          "rate": 8.27,
+          "specificity": 20.87
+        },
+        {
+          "word": "grace",
+          "count": 17,
+          "rate": 11.716,
+          "specificity": 18.09
+        },
+        {
+          "word": "openly",
+          "count": 3,
+          "rate": 2.068,
+          "specificity": 36.17
+        },
+        {
+          "word": "begotten",
+          "count": 4,
+          "rate": 2.757,
+          "specificity": 30.14
+        },
+        {
+          "word": "hour",
+          "count": 10,
+          "rate": 6.892,
+          "specificity": 19.24
+        },
+        {
+          "word": "world",
+          "count": 23,
+          "rate": 15.851,
+          "specificity": 14.49
+        },
+        {
+          "word": "father\u2019s",
+          "count": 13,
+          "rate": 8.959,
+          "specificity": 15.89
+        },
+        {
+          "word": "confess",
+          "count": 4,
+          "rate": 2.757,
+          "specificity": 25.84
+        },
+        {
+          "word": "angels",
+          "count": 9,
+          "rate": 6.203,
+          "specificity": 17.5
+        },
+        {
+          "word": "heaven",
+          "count": 32,
+          "rate": 22.054,
+          "specificity": 9.94
+        },
+        {
+          "word": "ask",
+          "count": 9,
+          "rate": 6.203,
+          "specificity": 14.93
+        },
+        {
+          "word": "loveth",
+          "count": 6,
+          "rate": 4.135,
+          "specificity": 16.69
+        },
+        {
+          "word": "loved",
+          "count": 8,
+          "rate": 5.513,
+          "specificity": 14.76
+        },
+        {
+          "word": "secret",
+          "count": 6,
+          "rate": 4.135,
+          "specificity": 15.96
+        },
+        {
+          "word": "cup",
+          "count": 6,
+          "rate": 4.135,
+          "specificity": 15.96
+        },
+        {
+          "word": "works",
+          "count": 14,
+          "rate": 9.649,
+          "specificity": 10.73
+        },
+        {
+          "word": "love",
+          "count": 17,
+          "rate": 11.716,
+          "specificity": 9.92
+        },
+        {
+          "word": "thank",
+          "count": 3,
+          "rate": 2.068,
+          "specificity": 20.1
+        },
+        {
+          "word": "myself",
+          "count": 8,
+          "rate": 5.513,
+          "specificity": 12.26
+        },
+        {
+          "word": "giving",
+          "count": 3,
+          "rate": 2.068,
+          "specificity": 18.71
+        },
+        {
+          "word": "known",
+          "count": 12,
+          "rate": 8.27,
+          "specificity": 9.78
+        },
+        {
+          "word": "seen",
+          "count": 14,
+          "rate": 9.649,
+          "specificity": 9.14
+        },
+        {
+          "word": "henceforth",
+          "count": 3,
+          "rate": 2.068,
+          "specificity": 16.44
+        },
+        {
+          "word": "verily",
+          "count": 8,
+          "rate": 5.513,
+          "specificity": 10.33
+        },
+        {
+          "word": "peace",
+          "count": 18,
+          "rate": 12.405,
+          "specificity": 7.59
+        },
+        {
+          "word": "believe",
+          "count": 8,
+          "rate": 5.513,
+          "specificity": 10.12
+        },
+        {
+          "word": "doeth",
+          "count": 6,
+          "rate": 4.135,
+          "specificity": 11.3
+        },
+        {
+          "word": "seeth",
+          "count": 4,
+          "rate": 2.757,
+          "specificity": 13.4
+        },
+        {
+          "word": "greater",
+          "count": 5,
+          "rate": 3.446,
+          "specificity": 11.74
+        },
+        {
+          "word": "reward",
+          "count": 5,
+          "rate": 3.446,
+          "specificity": 11.3
+        },
+        {
+          "word": "revealed",
+          "count": 3,
+          "rate": 2.068,
+          "specificity": 14.28
+        },
+        {
+          "word": "witness",
+          "count": 7,
+          "rate": 4.824,
+          "specificity": 9.38
+        }
+      ]
+    },
+    "Almighty": {
+      "description": "El Shaddai \u2014 God All-Sufficient, God of overwhelming power",
+      "short": "Almighty",
+      "color": "#B22222",
+      "theology": "El Shaddai, traditionally translated 'God Almighty.' First revealed to Abram: 'I am the Almighty God; walk before me' (Genesis 17:1). Strikingly concentrated in Job \u2014 that book of suffering uses 'Almighty' 31 times. When everything is stripped away, the sufferer still confesses: God is Almighty. Revelation reclaims the title in Greek ('Pantokrator') \u2014 it bookends both Testaments. The name that comforted the Patriarchs in tents becomes the throne-room cry of the redeemed in eternity.",
+      "total": 57,
+      "ot_count": 48,
+      "nt_count": 9,
+      "by_book": {
+        "Genesis": 6,
+        "Exodus": 1,
+        "Leviticus": 0,
+        "Numbers": 2,
+        "Deuteronomy": 0,
+        "Joshua": 0,
+        "Judges": 0,
+        "Ruth": 2,
+        "1 Samuel": 0,
+        "2 Samuel": 0,
+        "1 Kings": 0,
+        "2 Kings": 0,
+        "1 Chronicles": 0,
+        "2 Chronicles": 0,
+        "Ezra": 0,
+        "Nehemiah": 0,
+        "Esther": 0,
+        "Job": 31,
+        "Psalms": 2,
+        "Proverbs": 0,
+        "Ecclesiastes": 0,
+        "Song of Solomon": 0,
+        "Isaiah": 1,
+        "Jeremiah": 0,
+        "Lamentations": 0,
+        "Ezekiel": 2,
+        "Daniel": 0,
+        "Hosea": 0,
+        "Joel": 1,
+        "Amos": 0,
+        "Obadiah": 0,
+        "Jonah": 0,
+        "Micah": 0,
+        "Nahum": 0,
+        "Habakkuk": 0,
+        "Zephaniah": 0,
+        "Haggai": 0,
+        "Zechariah": 0,
+        "Malachi": 0,
+        "Matthew": 0,
+        "Mark": 0,
+        "Luke": 0,
+        "John": 0,
+        "Acts": 0,
+        "Romans": 0,
+        "1 Corinthians": 0,
+        "2 Corinthians": 1,
+        "Galatians": 0,
+        "Ephesians": 0,
+        "Philippians": 0,
+        "Colossians": 0,
+        "1 Thessalonians": 0,
+        "2 Thessalonians": 0,
+        "1 Timothy": 0,
+        "2 Timothy": 0,
+        "Titus": 0,
+        "Philemon": 0,
+        "Hebrews": 0,
+        "James": 0,
+        "1 Peter": 0,
+        "2 Peter": 0,
+        "1 John": 0,
+        "2 John": 0,
+        "3 John": 0,
+        "Jude": 0,
+        "Revelation": 8
+      },
+      "by_book_rate": {
+        "Genesis": 0.157,
+        "Exodus": 0.031,
+        "Leviticus": 0.0,
+        "Numbers": 0.061,
+        "Deuteronomy": 0.0,
+        "Joshua": 0.0,
+        "Judges": 0.0,
+        "Ruth": 0.777,
+        "1 Samuel": 0.0,
+        "2 Samuel": 0.0,
+        "1 Kings": 0.0,
+        "2 Kings": 0.0,
+        "1 Chronicles": 0.0,
+        "2 Chronicles": 0.0,
+        "Ezra": 0.0,
+        "Nehemiah": 0.0,
+        "Esther": 0.0,
+        "Job": 1.713,
+        "Psalms": 0.047,
+        "Proverbs": 0.0,
+        "Ecclesiastes": 0.0,
+        "Song of Solomon": 0.0,
+        "Isaiah": 0.027,
+        "Jeremiah": 0.0,
+        "Lamentations": 0.0,
+        "Ezekiel": 0.051,
+        "Daniel": 0.0,
+        "Hosea": 0.0,
+        "Joel": 0.492,
+        "Amos": 0.0,
+        "Obadiah": 0.0,
+        "Jonah": 0.0,
+        "Micah": 0.0,
+        "Nahum": 0.0,
+        "Habakkuk": 0.0,
+        "Zephaniah": 0.0,
+        "Haggai": 0.0,
+        "Zechariah": 0.0,
+        "Malachi": 0.0,
+        "Matthew": 0.0,
+        "Mark": 0.0,
+        "Luke": 0.0,
+        "John": 0.0,
+        "Acts": 0.0,
+        "Romans": 0.0,
+        "1 Corinthians": 0.0,
+        "2 Corinthians": 0.165,
+        "Galatians": 0.0,
+        "Ephesians": 0.0,
+        "Philippians": 0.0,
+        "Colossians": 0.0,
+        "1 Thessalonians": 0.0,
+        "2 Thessalonians": 0.0,
+        "1 Timothy": 0.0,
+        "2 Timothy": 0.0,
+        "Titus": 0.0,
+        "Philemon": 0.0,
+        "Hebrews": 0.0,
+        "James": 0.0,
+        "1 Peter": 0.0,
+        "2 Peter": 0.0,
+        "1 John": 0.0,
+        "2 John": 0.0,
+        "3 John": 0.0,
+        "Jude": 0.0,
+        "Revelation": 0.667
+      },
+      "sample_verses": [
+        {
+          "book": "Genesis",
+          "chapter": 17,
+          "verse": 1,
+          "text": "And when Abram was ninety years old and nine, the LORD appeared to Abram, and said unto him, I am the Almighty God; walk before me, and be thou perfect.",
+          "testament": "Old Testament"
+        },
+        {
+          "book": "Job",
+          "chapter": 11,
+          "verse": 7,
+          "text": "Canst thou by searching find out God? canst thou find out the Almighty unto perfection?",
+          "testament": "Old Testament"
+        },
+        {
+          "book": "Job",
+          "chapter": 29,
+          "verse": 5,
+          "text": "When the Almighty was yet with me, when my children were about me;",
+          "testament": "Old Testament"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 6,
+          "verse": 18,
+          "text": "And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty.",
+          "testament": "New Testament"
+        },
+        {
+          "book": "Revelation",
+          "chapter": 11,
+          "verse": 17,
+          "text": "Saying, We give thee thanks, O LORD God Almighty, which art, and wast, and art to come; because thou hast taken to thee thy great power, and hast reigned.",
+          "testament": "New Testament"
+        },
+        {
+          "book": "Revelation",
+          "chapter": 16,
+          "verse": 14,
+          "text": "For they are the spirits of devils, working miracles, which go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty.",
+          "testament": "New Testament"
+        }
+      ],
+      "associations": [
+        {
+          "word": "pervert",
+          "count": 3,
+          "rate": 8.824,
+          "specificity": 231.56
+        },
+        {
+          "word": "blessings",
+          "count": 3,
+          "rate": 8.824,
+          "specificity": 192.96
+        },
+        {
+          "word": "wings",
+          "count": 4,
+          "rate": 11.765,
+          "specificity": 40.62
+        },
+        {
+          "word": "appeared",
+          "count": 3,
+          "rate": 8.824,
+          "specificity": 33.08
+        },
+        {
+          "word": "noise",
+          "count": 3,
+          "rate": 8.824,
+          "specificity": 26.31
+        },
+        {
+          "word": "destruction",
+          "count": 3,
+          "rate": 8.824,
+          "specificity": 24.63
+        },
+        {
+          "word": "call",
+          "count": 4,
+          "rate": 11.765,
+          "specificity": 15.83
+        },
+        {
+          "word": "find",
+          "count": 3,
+          "rate": 8.824,
+          "specificity": 14.84
+        },
+        {
+          "word": "judgment",
+          "count": 4,
+          "rate": 11.765,
+          "specificity": 10.5
+        },
+        {
+          "word": "should",
+          "count": 6,
+          "rate": 17.647,
+          "specificity": 5.91
+        },
+        {
+          "word": "surely",
+          "count": 3,
+          "rate": 8.824,
+          "specificity": 8.15
+        },
+        {
+          "word": "heard",
+          "count": 5,
+          "rate": 14.706,
+          "specificity": 6.02
+        },
+        {
+          "word": "eyes",
+          "count": 4,
+          "rate": 11.765,
+          "specificity": 6.15
+        },
+        {
+          "word": "kings",
+          "count": 3,
+          "rate": 8.824,
+          "specificity": 7.04
+        },
+        {
+          "word": "high",
+          "count": 3,
+          "rate": 8.824,
+          "specificity": 5.57
+        },
+        {
+          "word": "voice",
+          "count": 3,
+          "rate": 8.824,
+          "specificity": 4.59
+        },
+        {
+          "word": "saw",
+          "count": 3,
+          "rate": 8.824,
+          "specificity": 4.23
+        },
+        {
+          "word": "hand",
+          "count": 4,
+          "rate": 11.765,
+          "specificity": 2.11
+        },
+        {
+          "word": "saying",
+          "count": 3,
+          "rate": 8.824,
+          "specificity": 1.6
+        }
+      ]
+    },
+    "LORD of hosts": {
+      "description": "Yahweh Sabaoth \u2014 Lord of Armies / Heavenly Court",
+      "short": "LORD of hosts",
+      "color": "#DC143C",
+      "theology": "Yahweh Sabaoth \u2014 the commander of heaven's armies (both angelic and earthly). This title appears over 260 times and concentrates overwhelmingly in the prophets. Isaiah, Jeremiah, Zechariah, and Malachi use it relentlessly \u2014 asserting that despite Assyria or Babylon's military power, YHWH commands a greater army. It is a name of comfort for the oppressed and terror for the oppressor. When Isaiah sees the LORD in the temple (Isaiah 6), the seraphim cry: 'Holy, holy, holy is the LORD of hosts.' Power and holiness together.",
+      "total": 244,
+      "ot_count": 244,
+      "nt_count": 0,
+      "by_book": {
+        "Genesis": 0,
+        "Exodus": 0,
+        "Leviticus": 0,
+        "Numbers": 0,
+        "Deuteronomy": 0,
+        "Joshua": 0,
+        "Judges": 0,
+        "Ruth": 0,
+        "1 Samuel": 5,
+        "2 Samuel": 5,
+        "1 Kings": 1,
+        "2 Kings": 2,
+        "1 Chronicles": 3,
+        "2 Chronicles": 0,
+        "Ezra": 0,
+        "Nehemiah": 0,
+        "Esther": 0,
+        "Job": 0,
+        "Psalms": 7,
+        "Proverbs": 0,
+        "Ecclesiastes": 0,
+        "Song of Solomon": 0,
+        "Isaiah": 53,
+        "Jeremiah": 71,
+        "Lamentations": 0,
+        "Ezekiel": 0,
+        "Daniel": 0,
+        "Hosea": 0,
+        "Joel": 0,
+        "Amos": 0,
+        "Obadiah": 0,
+        "Jonah": 0,
+        "Micah": 1,
+        "Nahum": 2,
+        "Habakkuk": 1,
+        "Zephaniah": 2,
+        "Haggai": 14,
+        "Zechariah": 53,
+        "Malachi": 24,
+        "Matthew": 0,
+        "Mark": 0,
+        "Luke": 0,
+        "John": 0,
+        "Acts": 0,
+        "Romans": 0,
+        "1 Corinthians": 0,
+        "2 Corinthians": 0,
+        "Galatians": 0,
+        "Ephesians": 0,
+        "Philippians": 0,
+        "Colossians": 0,
+        "1 Thessalonians": 0,
+        "2 Thessalonians": 0,
+        "1 Timothy": 0,
+        "2 Timothy": 0,
+        "Titus": 0,
+        "Philemon": 0,
+        "Hebrews": 0,
+        "James": 0,
+        "1 Peter": 0,
+        "2 Peter": 0,
+        "1 John": 0,
+        "2 John": 0,
+        "3 John": 0,
+        "Jude": 0,
+        "Revelation": 0
+      },
+      "by_book_rate": {
+        "Genesis": 0.0,
+        "Exodus": 0.0,
+        "Leviticus": 0.0,
+        "Numbers": 0.0,
+        "Deuteronomy": 0.0,
+        "Joshua": 0.0,
+        "Judges": 0.0,
+        "Ruth": 0.0,
+        "1 Samuel": 0.2,
+        "2 Samuel": 0.243,
+        "1 Kings": 0.041,
+        "2 Kings": 0.085,
+        "1 Chronicles": 0.147,
+        "2 Chronicles": 0.0,
+        "Ezra": 0.0,
+        "Nehemiah": 0.0,
+        "Esther": 0.0,
+        "Job": 0.0,
+        "Psalms": 0.164,
+        "Proverbs": 0.0,
+        "Ecclesiastes": 0.0,
+        "Song of Solomon": 0.0,
+        "Isaiah": 1.431,
+        "Jeremiah": 1.665,
+        "Lamentations": 0.0,
+        "Ezekiel": 0.0,
+        "Daniel": 0.0,
+        "Hosea": 0.0,
+        "Joel": 0.0,
+        "Amos": 0.0,
+        "Obadiah": 0.0,
+        "Jonah": 0.0,
+        "Micah": 0.317,
+        "Nahum": 1.558,
+        "Habakkuk": 0.678,
+        "Zephaniah": 1.238,
+        "Haggai": 12.389,
+        "Zechariah": 8.226,
+        "Malachi": 13.408,
+        "Matthew": 0.0,
+        "Mark": 0.0,
+        "Luke": 0.0,
+        "John": 0.0,
+        "Acts": 0.0,
+        "Romans": 0.0,
+        "1 Corinthians": 0.0,
+        "2 Corinthians": 0.0,
+        "Galatians": 0.0,
+        "Ephesians": 0.0,
+        "Philippians": 0.0,
+        "Colossians": 0.0,
+        "1 Thessalonians": 0.0,
+        "2 Thessalonians": 0.0,
+        "1 Timothy": 0.0,
+        "2 Timothy": 0.0,
+        "Titus": 0.0,
+        "Philemon": 0.0,
+        "Hebrews": 0.0,
+        "James": 0.0,
+        "1 Peter": 0.0,
+        "2 Peter": 0.0,
+        "1 John": 0.0,
+        "2 John": 0.0,
+        "3 John": 0.0,
+        "Jude": 0.0,
+        "Revelation": 0.0
+      },
+      "sample_verses": [
+        {
+          "book": "1 Samuel",
+          "chapter": 1,
+          "verse": 3,
+          "text": "And this man went up out of his city yearly to worship and to sacrifice unto the LORD of hosts in Shiloh. And the two sons of Eli, Hophni and Phinehas, the priests of the LORD, were there.",
+          "testament": "Old Testament"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 10,
+          "verse": 33,
+          "text": "Behold, the Lord, the LORD of hosts, shall lop the bough with terror: and the high ones of stature shall be hewn down, and the haughty shall be humbled.",
+          "testament": "Old Testament"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 7,
+          "verse": 21,
+          "text": "Thus saith the LORD of hosts, the God of Israel; Put your burnt offerings unto your sacrifices, and eat flesh.",
+          "testament": "Old Testament"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 32,
+          "verse": 18,
+          "text": "Thou shewest lovingkindness unto thousands, and recompensest the iniquity of the fathers into the bosom of their children after them: the Great, the Mighty God, the LORD of hosts, is his name,",
+          "testament": "Old Testament"
+        },
+        {
+          "book": "Haggai",
+          "chapter": 1,
+          "verse": 14,
+          "text": "And the LORD stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the LORD of hosts, their God,",
+          "testament": "Old Testament"
+        },
+        {
+          "book": "Zechariah",
+          "chapter": 8,
+          "verse": 14,
+          "text": "For thus saith the LORD of hosts; As I thought to punish you, when your fathers provoked me to wrath, saith the LORD of hosts, and I repented not:",
+          "testament": "Old Testament"
+        }
+      ],
+      "associations": [
+        {
+          "word": "zerubbabel",
+          "count": 5,
+          "rate": 2.317,
+          "specificity": 27.64
+        },
+        {
+          "word": "redeemer",
+          "count": 4,
+          "rate": 1.854,
+          "specificity": 27.02
+        },
+        {
+          "word": "purposed",
+          "count": 4,
+          "rate": 1.854,
+          "specificity": 25.6
+        },
+        {
+          "word": "residue",
+          "count": 5,
+          "rate": 2.317,
+          "specificity": 17.88
+        },
+        {
+          "word": "remnant",
+          "count": 10,
+          "rate": 4.634,
+          "specificity": 13.22
+        },
+        {
+          "word": "zeal",
+          "count": 3,
+          "rate": 1.39,
+          "specificity": 22.8
+        },
+        {
+          "word": "former",
+          "count": 6,
+          "rate": 2.78,
+          "specificity": 14.59
+        },
+        {
+          "word": "jealous",
+          "count": 3,
+          "rate": 1.39,
+          "specificity": 19.2
+        },
+        {
+          "word": "punish",
+          "count": 4,
+          "rate": 1.854,
+          "specificity": 15.2
+        },
+        {
+          "word": "magnified",
+          "count": 3,
+          "rate": 1.39,
+          "specificity": 17.37
+        },
+        {
+          "word": "stay",
+          "count": 4,
+          "rate": 1.854,
+          "specificity": 14.74
+        },
+        {
+          "word": "visited",
+          "count": 3,
+          "rate": 1.39,
+          "specificity": 15.86
+        },
+        {
+          "word": "zion",
+          "count": 11,
+          "rate": 5.097,
+          "specificity": 8.8
+        },
+        {
+          "word": "accept",
+          "count": 3,
+          "rate": 1.39,
+          "specificity": 14.59
+        },
+        {
+          "word": "shake",
+          "count": 4,
+          "rate": 1.854,
+          "specificity": 12.47
+        },
+        {
+          "word": "tabernacles",
+          "count": 3,
+          "rate": 1.39,
+          "specificity": 12.16
+        },
+        {
+          "word": "vows",
+          "count": 3,
+          "rate": 1.39,
+          "specificity": 12.16
+        },
+        {
+          "word": "messenger",
+          "count": 3,
+          "rate": 1.39,
+          "specificity": 10.73
+        },
+        {
+          "word": "jerusalem",
+          "count": 29,
+          "rate": 13.438,
+          "specificity": 4.35
+        },
+        {
+          "word": "speaketh",
+          "count": 5,
+          "rate": 2.317,
+          "specificity": 8.22
+        },
+        {
+          "word": "name",
+          "count": 32,
+          "rate": 14.829,
+          "specificity": 4.19
+        },
+        {
+          "word": "spoiled",
+          "count": 4,
+          "rate": 1.854,
+          "specificity": 8.84
+        },
+        {
+          "word": "prophets",
+          "count": 11,
+          "rate": 5.097,
+          "specificity": 5.6
+        },
+        {
+          "word": "remain",
+          "count": 5,
+          "rate": 2.317,
+          "specificity": 7.7
+        },
+        {
+          "word": "shepherds",
+          "count": 3,
+          "rate": 1.39,
+          "specificity": 9.86
+        },
+        {
+          "word": "dwelleth",
+          "count": 4,
+          "rate": 1.854,
+          "specificity": 8.39
+        },
+        {
+          "word": "revealed",
+          "count": 3,
+          "rate": 1.39,
+          "specificity": 9.6
+        },
+        {
+          "word": "fast",
+          "count": 5,
+          "rate": 2.317,
+          "specificity": 7.15
+        },
+        {
+          "word": "vine",
+          "count": 4,
+          "rate": 1.854,
+          "specificity": 7.85
+        },
+        {
+          "word": "noise",
+          "count": 5,
+          "rate": 2.317,
+          "specificity": 6.91
+        },
+        {
+          "word": "perform",
+          "count": 3,
+          "rate": 1.39,
+          "specificity": 8.69
+        },
+        {
+          "word": "israel",
+          "count": 61,
+          "rate": 28.267,
+          "specificity": 2.89
+        },
+        {
+          "word": "captives",
+          "count": 3,
+          "rate": 1.39,
+          "specificity": 8.48
+        },
+        {
+          "word": "babylon",
+          "count": 11,
+          "rate": 5.097,
+          "specificity": 4.68
+        },
+        {
+          "word": "judah",
+          "count": 24,
+          "rate": 11.121,
+          "specificity": 3.59
+        },
+        {
+          "word": "handmaid",
+          "count": 3,
+          "rate": 1.39,
+          "specificity": 8.11
+        },
+        {
+          "word": "gladness",
+          "count": 3,
+          "rate": 1.39,
+          "specificity": 7.76
+        },
+        {
+          "word": "mine",
+          "count": 19,
+          "rate": 8.804,
+          "specificity": 3.56
+        },
+        {
+          "word": "inhabitants",
+          "count": 8,
+          "rate": 3.707,
+          "specificity": 4.82
+        },
+        {
+          "word": "selah",
+          "count": 4,
+          "rate": 1.854,
+          "specificity": 6.49
+        }
+      ]
+    }
+  },
+  "book_order": [
+    "Genesis",
+    "Exodus",
+    "Leviticus",
+    "Numbers",
+    "Deuteronomy",
+    "Joshua",
+    "Judges",
+    "Ruth",
+    "1 Samuel",
+    "2 Samuel",
+    "1 Kings",
+    "2 Kings",
+    "1 Chronicles",
+    "2 Chronicles",
+    "Ezra",
+    "Nehemiah",
+    "Esther",
+    "Job",
+    "Psalms",
+    "Proverbs",
+    "Ecclesiastes",
+    "Song of Solomon",
+    "Isaiah",
+    "Jeremiah",
+    "Lamentations",
+    "Ezekiel",
+    "Daniel",
+    "Hosea",
+    "Joel",
+    "Amos",
+    "Obadiah",
+    "Jonah",
+    "Micah",
+    "Nahum",
+    "Habakkuk",
+    "Zephaniah",
+    "Haggai",
+    "Zechariah",
+    "Malachi",
+    "Matthew",
+    "Mark",
+    "Luke",
+    "John",
+    "Acts",
+    "Romans",
+    "1 Corinthians",
+    "2 Corinthians",
+    "Galatians",
+    "Ephesians",
+    "Philippians",
+    "Colossians",
+    "1 Thessalonians",
+    "2 Thessalonians",
+    "1 Timothy",
+    "2 Timothy",
+    "Titus",
+    "Philemon",
+    "Hebrews",
+    "James",
+    "1 Peter",
+    "2 Peter",
+    "1 John",
+    "2 John",
+    "3 John",
+    "Jude",
+    "Revelation"
+  ],
+  "book_total_words": {
+    "Genesis": 38264,
+    "Exodus": 32684,
+    "Leviticus": 24541,
+    "Numbers": 32893,
+    "Deuteronomy": 28351,
+    "Joshua": 18852,
+    "Judges": 18966,
+    "Ruth": 2574,
+    "1 Samuel": 25047,
+    "2 Samuel": 20599,
+    "1 Kings": 24512,
+    "2 Kings": 23518,
+    "1 Chronicles": 20365,
+    "2 Chronicles": 26069,
+    "Ezra": 7440,
+    "Nehemiah": 10480,
+    "Esther": 5632,
+    "Job": 18098,
+    "Psalms": 42684,
+    "Proverbs": 15038,
+    "Ecclesiastes": 5579,
+    "Song of Solomon": 2658,
+    "Isaiah": 37038,
+    "Jeremiah": 42654,
+    "Lamentations": 3411,
+    "Ezekiel": 39401,
+    "Daniel": 11603,
+    "Hosea": 5174,
+    "Joel": 2033,
+    "Amos": 4216,
+    "Obadiah": 669,
+    "Jonah": 1320,
+    "Micah": 3152,
+    "Nahum": 1284,
+    "Habakkuk": 1475,
+    "Zephaniah": 1616,
+    "Haggai": 1130,
+    "Zechariah": 6443,
+    "Malachi": 1790,
+    "Matthew": 23684,
+    "Mark": 15166,
+    "Luke": 25939,
+    "John": 19095,
+    "Acts": 24246,
+    "Romans": 9422,
+    "1 Corinthians": 9462,
+    "2 Corinthians": 6065,
+    "Galatians": 3084,
+    "Ephesians": 3022,
+    "Philippians": 2183,
+    "Colossians": 1979,
+    "1 Thessalonians": 1837,
+    "2 Thessalonians": 1022,
+    "1 Timothy": 2244,
+    "2 Timothy": 1666,
+    "Titus": 896,
+    "Philemon": 430,
+    "Hebrews": 6897,
+    "James": 2304,
+    "1 Peter": 2475,
+    "2 Peter": 1553,
+    "1 John": 2516,
+    "2 John": 298,
+    "3 John": 294,
+    "Jude": 608,
+    "Revelation": 11995
+  },
+  "name_order": [
+    "LORD",
+    "Lord",
+    "God",
+    "Jesus",
+    "Christ",
+    "Holy Ghost",
+    "Spirit of God",
+    "Father",
+    "Almighty",
+    "LORD of hosts"
+  ]
+}
